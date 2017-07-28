@@ -1,0 +1,574 @@
+<html>
+
+	<head>
+		<meta name="generator" content="Microsoft FrontPage 5.0">
+			<meta NAME="htdig-keywords"
+CONTENT="Business Faculty and Staff Directory Business College of Business Iowa State University Faculty Index">
+<meta NAME="Keywords" CONTNENT="College of Business">
+		
+		<title>College of Business </title>
+	    <link rel="stylesheet" type="text/css" href="http://www.bus.iastate.edu/bus_site.css" />
+
+		
+	</head>
+<!-- noprint -->
+	<body bgcolor="#ffffff" text="black" link="#013366" marginheight="8" topmargin="0" leftmargin="0">
+		<table width="95%" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="20%">
+				<td valign="top" height="20%">
+					<div align="left">
+						<!--include file --><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="generator" content="Microsoft FrontPage 6.0">
+		<title>CoB Header</title>
+		<style>
+/* CoolMenus 4 - default styles - do not edit */
+.clCMAbs{position:absolute; visibility:hidden; left:0; top:0}
+/* CoolMenus 4 - default styles - end */
+  
+/*Style for the background-bar*/
+.clBar{position:absolute; width:10; height:10; background-color:D9CBA6; layer-background-color:D9CBA6; visibility:hidden}
+
+/*Styles for level 0*/
+.clLevel0, .clLevel0over{position:relative; padding:2px; font-family:arial,helvetica; font-size:12px; font-weight:bold}
+.clLevel0{background-color:white; layer-background-color:white; color:013366;}
+.clLevel0over{background-color:#FFFFFF; layer-background-color:#FFFFFF; color:D9CBA6; cursor:pointer; cursor:hand; }
+.clLevel0border{position:absolute; visibility:hidden; background-color:#FFFFFF; layer-background-color:#FFFFFF}
+
+/*Styles for level 1*/
+.clLevel1, .clLevel1over{position:absolute; padding:2px; font-family:arial,helvetica; font-size:11px; font-weight:bold}
+.clLevel1{background-color:D9CBA6; layer-background-color:D9CBA6; color:013366;}
+.clLevel1over{background-color:#D9CBA6; layer-background-color:#D9CBA6; color:white; cursor:pointer; cursor:hand; }
+.clLevel1border{position:absolute; visibility:hidden; background-color:#D9CBA6; layer-background-color:#D9CBA6}
+
+/*Styles for level 2*/
+.clLevel2, .clLevel2over{position:absolute; padding:2px; font-family:arial,helvetica; font-size:11px; font-weight:bold}
+.clLevel2{background-color:D9CBA6; layer-background-color:white; color:003366;}
+.clLevel2over{background-color:#D9CBA6; layer-background-color:#D9CBA6; color:white; cursor:pointer; cursor:hand; }
+.clLevel2border{position:absolute; visibility:hidden; background-color:#D9CBA6; layer-background-color:#D9CBA6}
+        </style>
+<script language="JavaScript1.2" src="http://www.bus.iastate.edu/coolmenus4.js">
+/*****************************************************************************
+Copyright (c) 2001 Thomas Brattli (webmaster@dhtmlcentral.com)
+
+DHTML coolMenus - Get it at coolmenus.dhtmlcentral.com
+Version 4.0_beta
+This script can be used freely as long as all copyright messages are
+intact.
+
+Extra info - Coolmenus reference/help - Extra links to help files **** 
+CSS help: http://192.168.1.31/projects/coolmenus/reference.asp?m=37
+General: http://coolmenus.dhtmlcentral.com/reference.asp?m=35
+Menu properties: http://coolmenus.dhtmlcentral.com/properties.asp?m=47
+Level properties: http://coolmenus.dhtmlcentral.com/properties.asp?m=48
+Background bar properties: http://coolmenus.dhtmlcentral.com/properties.asp?m=49
+Item properties: http://coolmenus.dhtmlcentral.com/properties.asp?m=50
+******************************************************************************/
+        </script>
+    <!--[if !mso]>
+    <style>
+v\:*         { behavior: url(#default#VML) }
+o\:*         { behavior: url(#default#VML) }
+.shape       { behavior: url(#default#VML) }
+        </style>
+    <![endif]--><!--[if gte mso 9]>
+    <xml><o:shapedefaults v:ext="edit" spidmax="1027"/>
+    </xml><![endif]-->
+	</head>
+
+	<body bgcolor="#ffffff">
+		<script>
+/*** 
+This is the menu creation code - place it right after you body tag
+Feel free to add this to a stand-alone js file and link it to your page.
+**/
+
+//Menu object creation
+oCMenu=new makeCM("oCMenu") //Making the menu object. Argument: menuname
+
+oCMenu.frames = 1
+
+//Menu properties   
+oCMenu.pxBetween=0
+oCMenu.fromLeft=278
+oCMenu.fromTop=62
+oCMenu.rows=1 
+oCMenu.menuPlacement=""
+                                                             
+oCMenu.offlineRoot="file:///C|/Inetpub/wwwroot/dhtmlcentral/projects/coolmenus/examples/" 
+oCMenu.onlineRoot="/coolmenus/" 
+oCMenu.resizeCheck=1 
+oCMenu.wait=1000 
+oCMenu.fillImg="cm_fill.gif"
+oCMenu.zIndex=0
+
+//Background bar properties
+//oCMenu.useBar=1
+//oCMenu.barWidth="50%"
+//oCMenu.barHeight="menu" 
+//oCMenu.barClass="clBar"
+//oCMenu.barX=250
+//oCMenu.barY=55
+//oCMenu.barBorderX=0
+//oCMenu.barBorderY=0
+//oCMenu.barBorderClass=""
+
+//Level properties - ALL properties have to be spesified in level 0
+oCMenu.level[0]=new cm_makeLevel() //Add this for each new level
+oCMenu.level[0].width=80
+oCMenu.level[0].height=20
+oCMenu.level[0].regClass="clLevel0"
+oCMenu.level[0].overClass="clLevel0over"
+oCMenu.level[0].borderX=1
+oCMenu.level[0].borderY=1
+oCMenu.level[0].borderClass="clLevel0border"
+oCMenu.level[0].offsetX=0
+oCMenu.level[0].offsetY=0
+oCMenu.level[0].rows=0
+oCMenu.level[0].arrow=0
+oCMenu.level[0].arrowWidth=0
+oCMenu.level[0].arrowHeight=0
+oCMenu.level[0].align="bottom"
+
+
+//EXAMPLE SUB LEVEL[1] PROPERTIES - You have to specify the properties you want different from LEVEL[0] - If you want all items to look the same just remove this
+oCMenu.level[1]=new cm_makeLevel() //Add this for each new level (adding one to the number)
+oCMenu.level[1].width=oCMenu.level[0].width+60
+oCMenu.level[1].height=22
+oCMenu.level[1].regClass="clLevel1"
+oCMenu.level[1].overClass="clLevel1over"
+oCMenu.level[1].borderX=1
+oCMenu.level[1].borderY=1
+oCMenu.level[1].align="right" 
+oCMenu.level[1].offsetX=-(oCMenu.level[0].width-2)/2+20
+oCMenu.level[1].offsetY=0
+oCMenu.level[1].borderClass="clLevel1border"
+
+//EXAMPLE SUB LEVEL[2] PROPERTIES - You have to spesify the properties you want different from LEVEL[1] OR LEVEL[0] - If you want all items to look the same just remove this
+oCMenu.level[2]=new cm_makeLevel() //Add this for each new level (adding one to the number)
+oCMenu.level[2].width=160
+oCMenu.level[2].height=20
+oCMenu.level[2].offsetX=0
+oCMenu.level[2].offsetY=0
+oCMenu.level[2].regClass="clLevel2"
+oCMenu.level[2].overClass="clLevel2over"
+oCMenu.level[2].borderClass="clLevel2border"
+
+
+/******************************************
+Menu item creation:
+myCoolMenu.makeMenu(name, parent_name, text, link, target, width, height, regImage, overImage, regClass, overClass , align, rows, nolink, onclick, onmouseover, onmouseout) 
+*************************************/
+oCMenu.makeMenu('top1','','&nbsp;&nbsp;Programs','http://www.bus.iastate.edu')
+  oCMenu.makeMenu('sub101','top1','&nbsp;&nbsp;&nbsp;Accounting','http://www.bus.iastate.edu/accounting/')
+  oCMenu.makeMenu('sub102','top1','&nbsp;&nbsp;&nbsp;Ag MBA','http://www.bus.iastate.edu/mba/ag.asp')
+  oCMenu.makeMenu('sub103','top1','&nbsp;&nbsp;&nbsp;Assessment','http://www.bus.iastate.edu/assessment/')
+  oCMenu.makeMenu('sub104','top1','&nbsp;&nbsp;&nbsp;Finance','http://www.bus.iastate.edu/Finance')  
+  oCMenu.makeMenu('sub105','top1','&nbsp;&nbsp;&nbsp;Management','http://www.bus.iastate.edu/management/')
+  oCMenu.makeMenu('sub106','top1','&nbsp;&nbsp;&nbsp;Marketing','http://www.bus.iastate.edu/marketing/')
+  oCMenu.makeMenu('sub107','top1','&nbsp;&nbsp;&nbsp;Master of Accounting','http://www.bus.iastate.edu/Grad/Accounting/default_pros.asp')
+  oCMenu.makeMenu('sub108','top1','&nbsp;&nbsp;&nbsp;MBA','http://www.bus.iastate.edu/MBA')
+  oCMenu.makeMenu('sub109','top1','&nbsp;&nbsp;&nbsp;MS Info. Systems','http://www.bus.iastate.edu/Grad/InformationsSystems/default_pro.asp')
+  oCMenu.makeMenu('sub110','top1','&nbsp;&nbsp;&nbsp;MS Info. Assurance','http://www.bus.iastate.edu/Grad/Information_Assurance/default_pro.asp')
+  oCMenu.makeMenu('sub111','top1','&nbsp;&nbsp;&nbsp;MIS','http://www.bus.iastate.edu/mis')
+  oCMenu.makeMenu('sub112','top1','&nbsp;&nbsp;&nbsp;POM','http://www.bus.iastate.edu/pom/')
+  oCMenu.makeMenu('sub113','top1','&nbsp;&nbsp;&nbsp;TransLog','http://www.bus.iastate.edu/translog/')
+  
+
+oCMenu.makeMenu('top2','','&nbsp;&nbsp;Students','http://www.bus.iastate.edu/STUDENTS/','')
+  oCMenu.makeMenu('sub201','top2','&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Student Main','http://www.bus.iastate.edu/STUDENTS/','')
+  oCMenu.makeMenu('sub202','top2','&nbsp;&nbsp;&nbsp;Graduate','http://www.bus.iastate.edu/grad')
+  oCMenu.makeMenu('sub203','top2','&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Prospective','http://www.bus.iastate.edu/STUDENTS/prograd.asp','')
+  oCMenu.makeMenu('sub204','top2','&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Admitted','http://www.bus.iastate.edu/STUDENTS/admitgrad.asp','')
+  oCMenu.makeMenu('sub205','top2','&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Current','http://www.bus.iastate.edu/STUDENTS/currentgrad.asp','')
+  oCMenu.makeMenu('sub206','top2','&nbsp;&nbsp;&nbsp;Undergraduate','http://www.bus.iastate.edu/undergrad')
+  oCMenu.makeMenu('sub207','top2','&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Prospective','http://www.bus.iastate.edu/STUDENTS/proUgrad.asp','')
+  oCMenu.makeMenu('sub208','top2','&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Current','http://www.bus.iastate.edu/STUDENTS/currentUgrad.asp','')
+  oCMenu.makeMenu('sub209','top2','&nbsp;&nbsp;&nbsp; Career Services','http://www.bus.iastate.edu/Careers','')
+  oCMenu.makeMenu('sub210','top2','&nbsp;&nbsp;&nbsp; AccessPlus','http://accessplus.iastate.edu','')
+  oCMenu.makeMenu('sub211','top2','&nbsp;&nbsp;&nbsp; Organizations','http://www.bus.iastate.edu/STUDENTS/Organizations.asp','')
+  
+  
+  oCMenu.makeMenu('sub01','sub203','- Accounting','http://www.bus.iastate.edu/Grad/Accounting/default_pros.asp','')
+  oCMenu.makeMenu('sub02','sub203','- Ag MBA','http://www.bus.iastate.edu/mba/ag.asp')  
+  oCMenu.makeMenu('sub03','sub203','- Full-Time MBA','http://www.bus.iastate.edu/mba/fulltime.asp')
+  oCMenu.makeMenu('sub04','sub203','- Evening MBA','http://www.bus.iastate.edu/mba/evening.asp')
+  oCMenu.makeMenu('sub05','sub203','- Saturday MBA','http://www.bus.iastate.edu/mba/saturday.asp')
+  oCMenu.makeMenu('sub06','sub203','- MS Information Systems','http://www.bus.iastate.edu/Grad/InformationsSystems/default_pro.asp','')
+  oCMenu.makeMenu('sub07','sub203','- MS Information Assurance','http://www.bus.iastate.edu/Grad/Information_Assurance/default_pro.asp')
+  
+  oCMenu.makeMenu('sub08','sub204','- Accounting','http://www.bus.iastate.edu/Grad/Accounting/default_admit.asp')
+  oCMenu.makeMenu('sub09','sub204','- Full-Time MBA','http://www.bus.iastate.edu/Grad/Admitted_MBA/default_FT.asp')
+  oCMenu.makeMenu('sub10','sub204','- Evening MBA','http://www.bus.iastate.edu/Grad/Admitted_MBA/default_Eve.asp')
+  oCMenu.makeMenu('sub11','sub204','- Saturday MBA','http://www.bus.iastate.edu/Grad/Admitted_MBA/default_Sat.asp')
+  oCMenu.makeMenu('sub12','sub204','- MS Information Systems','http://www.bus.iastate.edu/Grad/InformationsSystems/default_admit.asp')
+  oCMenu.makeMenu('sub13','sub204','- MS Information Assurance','http://www.bus.iastate.edu/Grad/Information_Assurance/default_admit.asp')
+  
+  oCMenu.makeMenu('sub15','sub205','- Accounting','http://www.bus.iastate.edu/Grad/Accounting/default_cur.asp')
+  oCMenu.makeMenu('sub16','sub205','- Ag MBA','http://www.bus.iastate.edu/mba/ag.asp')    
+  oCMenu.makeMenu('sub17','sub205','- Full-Time MBA','http://www.bus.iastate.edu/Grad/Current_MBA/default.asp')
+  oCMenu.makeMenu('sub18','sub205','- Evening MBA','http://www.bus.iastate.edu/Grad/Current_MBA/default_eve.asp')
+  oCMenu.makeMenu('sub19','sub205','- Saturday MBA','http://www.bus.iastate.edu/Grad/Current_MBA/default_sat.asp')
+  oCMenu.makeMenu('sub20','sub205','- MS Information Systems','http://www.bus.iastate.edu/Grad/InformationsSystems/default_cur.asp')
+  oCMenu.makeMenu('sub21','sub205','- MS Information Assurance','http://www.bus.iastate.edu/Grad/Information_Assurance/default_cur.asp')
+  oCMenu.makeMenu('sub22','sub205','- MS Industrial Relations','http://www.bus.iastate.edu/Grad/Industrial_Relations/IR_Cur.asp')
+
+oCMenu.makeMenu('top3','','Faculty/Staff','http://www.bus.iastate.edu/FACULTY_STAFF/Faculty_index.asp','')
+	oCMenu.makeMenu('sub301','top3','&nbsp;&nbsp;&nbsp;Faculty/Staff Main','http://www.bus.iastate.edu/FACULTY_STAFF/Faculty_index.asp','')
+	oCMenu.makeMenu('sub302','top3','&nbsp;&nbsp;&nbsp;Employee Info','http://www.bus.iastate.edu/FACULTY_STAFF/faculty_info.asp','')	
+	oCMenu.makeMenu('sub303','top3','&nbsp;&nbsp;&nbsp;Employment','http://www.bus.iastate.edu/FACULTY_STAFF/employment.asp','')
+	oCMenu.makeMenu('sub304','top3','&nbsp;&nbsp;&nbsp;Directory','http://www.bus.iastate.edu/directory.asp','')
+    oCMenu.makeMenu('sub305','top3','&nbsp;&nbsp;&nbsp;AccessPlus','http://accessplus.iastate.edu','')
+	
+	
+oCMenu.makeMenu('top4','','&nbsp;&nbsp;&nbsp;&nbsp;Alumni','http://www.bus.iastate.edu/ALUMNI/index.asp','')
+    oCMenu.makeMenu('sub401','top4','&nbsp;&nbsp;&nbsp;Alumni Main','http://www.bus.iastate.edu/ALUMNI/index.asp','')
+	oCMenu.makeMenu('sub402','top4','&nbsp;&nbsp;&nbsp;Alumni Association','http://www.isualum.org/','')
+	oCMenu.makeMenu('sub403','top4','&nbsp;&nbsp;&nbsp;Career Services','http://www.careers.iastate.edu','')
+	// oCMenu.makeMenu('sub404','top4','&nbsp;&nbsp;&nbsp;Case Studies','http://www.bus.iastate.edu/ALUMNI/features.asp','')
+	oCMenu.makeMenu('sub405','top4','&nbsp;&nbsp;&nbsp;Clubs','http://www.isualum.org/connect/','')
+	oCMenu.makeMenu('sub406','top4','&nbsp;&nbsp;&nbsp;Cyclone Club','http://cyclones.ocsn.com/boosters/iast-boosters-ncc.html','')
+    oCMenu.makeMenu('sub407','top4','&nbsp;&nbsp;&nbsp;Development','http://www.bus.iastate.edu/development.asp','')
+    oCMenu.makeMenu('sub408','top4','&nbsp;&nbsp;&nbsp;Iowa Events','http://www.isualum.org/events/outreach/','')        
+	oCMenu.makeMenu('sub409','top4','&nbsp;&nbsp;&nbsp;Online Giving','https://www.foundation.iastate.edu/onlinegiving/isufoundation/index.html','')
+	oCMenu.makeMenu('sub410','top4','&nbsp;&nbsp;&nbsp;Publications','http://www.bus.iastate.edu/ALUMNI/pubs.asp','')
+	oCMenu.makeMenu('sub411','top4','&nbsp;&nbsp;&nbsp;Reunion','http://www.bus.iastate.edu/alumni/reunions/','')		
+	oCMenu.makeMenu('sub412','top4','&nbsp;&nbsp;&nbsp;Volunteer','http://www.bus.iastate.edu/volunteer.asp','')
+	
+
+
+oCMenu.makeMenu('top5','','Employers','http://www.bus.iastate.edu/EMPLOYERS/index.asp','')
+    oCMenu.makeMenu('sub501','top5','&nbsp;Employer Main','http://www.bus.iastate.edu/EMPLOYERS/index.asp','')
+	oCMenu.makeMenu('sub502','top5','&nbsp;Employer Services','http://www.bus.iastate.edu/careers/employers/default.asp','')
+	oCMenu.makeMenu('sub503','top5','&nbspGraduate Employers','http://www.bus.iastate.edu/GradCareers/EmployerServices.asp','')	
+	oCMenu.makeMenu('sub504','top5','&nbsp;Internships/Co-ops','http://www.bus.iastate.edu/careers/students/intern/default.asp','')
+	oCMenu.makeMenu('sub505','top5','&nbsp;Online Giving','https://www.foundation.iastate.edu/onlinegiving/isufoundation/index.html','')
+	oCMenu.makeMenu('sub506','top5','&nbsp;Sponsorships','http://www.bus.iastate.edu/sponsorships.asp','')
+	oCMenu.makeMenu('sub507','top5','&nbsp;Volunteer','http://www.bus.iastate.edu/volunteer.asp','')
+
+oCMenu.makeMenu('top6','','Outreach','http://www.bus.iastate.edu/OUTREACH/index.asp','')
+	oCMenu.makeMenu('sub601','top6','&nbsp;&nbsp;Outreach Main','http://www.bus.iastate.edu/OUTREACH/index.asp','')
+	oCMenu.makeMenu('sub602','top6','&nbsp;&nbsp;Acct. Advisory Council','http://www.bus.iastate.edu/AAB/index.asp','')
+	oCMenu.makeMenu('sub603','top6','&nbsp;&nbsp;Partnership Dev.','http://www.bus.iastate.edu/BPDP','')	
+	oCMenu.makeMenu('sub604','top6','&nbsp;&nbsp;Business Labs','http://www.bus.iastate.edu/buslab','')
+	oCMenu.makeMenu('sub605','top6','&nbsp;&nbsp;Deans Advisory Council','http://www.bus.iastate.edu/CORPORATE/DAC.asp','')
+	oCMenu.makeMenu('sub606','top6','Entrepreneurship Ctr.','http://www.isupjcenter.org','')
+	oCMenu.makeMenu('sub607','top6','&nbsp;&nbsp;Executive in Residence','http://www.bus.iastate.edu/CORPORATE/EIR.asp','')
+	oCMenu.makeMenu('sub608','top6','&nbsp;&nbsp;Miller Lecture','http://www.bus.iastate.edu/outreach/miller_lecture.asp','')
+	oCMenu.makeMenu('sub612','top6','&nbsp;&nbsp;Big12 MIS Sym','http://www.bus.iastate.edu/Big12MISSymposium/','')		
+	oCMenu.makeMenu('sub609','top6','&nbsp;&nbsp;Pappajohn Center','http://www.isupjcenter.org','')
+	oCMenu.makeMenu('sub610','top6','&nbsp;&nbsp;SBDC','http://www.bus.iastate.edu/outreach/sbdc.asp','')
+	oCMenu.makeMenu('sub611','top6','&nbsp;&nbsp;Voorhees Lecture','http://www.bus.iastate.edu/outreach/voorheeslecture.asp','')
+	
+oCMenu.makeMenu('top7','','Events','http://www.bus.iastate.edu/Calendar','')
+	oCMenu.makeMenu('sub704','top7','&nbsp;&nbsp;Intl. Conference','http://www.bus.iastate.edu/Conference','')	
+	oCMenu.makeMenu('sub705','top7','&nbsp;&nbsp;Big12 MIS Sym','http://www.bus.iastate.edu/Big12MISSymposium/','')	
+	oCMenu.makeMenu('sub706','top7','&nbsp;&nbsp;Reunions','http://www.bus.iastate.edu/alumni/reunions/','')	
+	oCMenu.makeMenu('sub701','top7','&nbsp;&nbsp;Graduation','http://www.bus.iastate.edu/STUDENTS/graduation.asp','')
+	oCMenu.makeMenu('sub709','top7','&nbsp;&nbsp;Banking Conference','http://www.bus.iastate.edu/Outreach/stafford_lecture/2004.asp','')		
+	oCMenu.makeMenu('sub707','top7','&nbsp;&nbsp;Remember 9.11.01','http://www.bus.iastate.edu/ALUMNI/swanson_speak.asp','')			
+	//oCMenu.makeMenu('sub702','top7','&nbsp;&nbsp;Strategy Summit','http://www.bus.iastate.edu/Summit','')	
+	//oCMenu.makeMenu('sub703','top7','&nbsp;&nbsp;Executive in Residence','http://www.bus.iastate.edu/CORPORATE/EIR.asp','')	
+	//oCMenu.makeMenu('sub708','top7','&nbsp;&nbsp;Miller Lecture','http://www.bus.iastate.edu/outreach/miller_lecture.asp','')	
+	
+
+//Leave this line - it constructs the menu
+oCMenu.construct()	
+        </script>
+		<div align="left">
+		<table width="800" border="0" cellspacing="0" cellpadding="0" height="91" style="border-collapse: collapse" bordercolor="#111111">
+			<tr height="42">
+				<td width="190" height="42">
+					<div align="left">
+						<a href="http://www.iastate.edu/">
+                        <img src="http://www.bus.iastate.edu/images/isuL.jpg" alt="Iowa State Univeristy" height="42" width="190" border="0"></a></div>
+				</td>
+				<td width="100%" height="42"><a href="http://www.iastate.edu/">
+                <img src="http://www.bus.iastate.edu/images/isuR.jpg" alt="" height="42" width="179" border="0"></a></td>
+			</tr>
+			<tr>
+				<td valign="top" width="190" background="http://www.bus.iastate.edu/images/bg_head.jpg">
+					<div align="left">
+						<a href="http://www.bus.iastate.edu/">
+                        <img src="http://www.bus.iastate.edu/images/cob.jpg" alt="College of Businiess" height="49" width="190" border="0"></a></div>
+				</td>
+				<td width="100%" background="http://www.bus.iastate.edu/images/bg_headR.jpg">
+                <img src="http://www.bus.iastate.edu/images/head_curve.jpg" alt="" height="49" width="56" border="0">
+				</td>
+			</tr>
+		</table>
+        </div>
+	</body>
+
+</html><!--end include--></div>
+				</td>
+			</tr>
+			<!-- \noprint -->
+			<!-- noprint -->
+			<tr height="60%">
+				<td align="left" height="100%">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="794" id="AutoNumber1" height="336">
+  <tr>
+    <td width="99" height="336" align="left" valign="top">
+    <!--include file --><html>
+
+<head>
+
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>New Page 1</title>
+<SCRIPT LANGUAGE="JavaScript">
+	<!-- Begin
+	function popUp(URL) {
+	day = new Date();
+	id = day.getTime();
+	eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=0,width=450,height=500,left = 100,top = 15');");
+	}
+	// End -->
+	function openExternalPage(strURL)
+	{
+	window.navigate(strURL);
+	window.open("http://www.bus.iastate.edu/pop.html", "", "alwaysraised,fullscreen=no,toolbar=no,status=no,menubar=no,scrollbars=no,resizable=no,directories=no,location=no,width=300,height=300,left=50,top=50")
+	}
+    </script> 
+<link rel="stylesheet" type="text/css" href="http://www.bus.iastate.edu/bus_site.css" />
+</head>
+
+<body>
+
+<TABLE WIDTH=268 BORDER=0 CELLPADDING=0 CELLSPACING=0 height="410" style="border-collapse: collapse" bordercolor="#111111">
+	
+	<TR>
+		<TD ROWSPAN=12 height="441" background="http://www.bus.iastate.edu/Main_Images/Secondary/reach.gif" width="115">
+			&nbsp;</TD>
+		<TD height="119" width="153" background="http://www.bus.iastate.edu/Main_Images/Secondary/above_nav.gif">
+			&nbsp;</TD>
+		<TD ROWSPAN=12 height="393" width="14" valign="top">
+					&nbsp;</TD>
+	</TR>
+	<TR>
+		<TD height="19" width="153" background="http://www.bus.iastate.edu/Main_Images/Secondary/info_sessions.gif">
+			<font color="#013366">
+			&nbsp;</font><b><font color="#013366"><span class="ten"><a style="text-decoration: none" href="http://www.bus.iastate.edu/assessment">Assessment</a></span></font></b></TD>
+	</TR>
+	<TR>
+		<TD height="23" width="153" background="http://www.bus.iastate.edu/Main_Images/Secondary/how_to_start.gif">
+			<span class="ten"><font color="#013366">&nbsp;</font></span><span class="ten"><font color="#013366"><b><a style="text-decoration: none" href="message.asp">Dean's 
+            Message</a></b></font></span></TD>
+	</TR>
+	<TR>
+		<TD height="21" width="153" background="http://www.bus.iastate.edu/Main_Images/Secondary/specializations.gif">
+			<font color="#013366">
+			<span class="ten">&nbsp;</span></font><span class="ten"><b><a style="text-decoration: none" href="development.asp">Development</font></a></b></span></TD>
+	</TR>
+	<TR>
+		<TD height="22" width="153" background="http://www.bus.iastate.edu/Main_Images/Secondary/cost.gif">
+			<span class="ten">
+			<font color="#013366">
+			&nbsp;<a style="text-decoration: none" href="http://www.bus.iastate.edu/02-03FactBook.pdf"><b>Fact 
+            Book</b></a></font></span></TD>
+	</TR>
+	<TR>
+		<TD height="22" width="153" background="http://www.bus.iastate.edu/Main_Images/Secondary/ciriculum.gif">
+			<span class="ten">
+			<font color="#013366">
+			&nbsp;<a style="text-decoration: none" href="http://www.bus.iastate.edu/GBB/default.asp"><b>Gerdin 
+            Building</b></a></font></span></font></TD>
+	</TR>
+	<TR>
+		<TD height="22" width="153" background="http://www.bus.iastate.edu/Main_Images/Secondary/faculty.gif">
+			<span class="ten">
+			<font color="#013366">
+			&nbsp;</font></span><span class="ten"><b><font color="#013366"><a style="text-decoration: none" href="history.asp">History</a></font></b></span></font></TD>
+	</TR>
+	<TR>
+		<TD height="22" width="153" background="http://www.bus.iastate.edu/Main_Images/Secondary/FAQ.gif">
+			<font color="#013366">
+			<span class="ten">&nbsp;</span></font><span class="ten"><font color="#013366"><b><a style="text-decoration: none" href="orgchart_0703.pdf">Organizational 
+            Chart</a></b></font></span></TD>
+	</TR>
+	<TR>
+		<TD height="22" width="153" background="http://www.bus.iastate.edu/Main_Images/Secondary/MBA_programs.gif">
+			<font color="#013366">
+			<b><span class="ten">&nbsp;</span></b><b><span class="ten"><a href="pride.asp" style="text-decoration: none">Points 
+            of Pride</a></span></b></font></TD>
+	</b></TR>
+	<TR>
+		<TD height="22" width="153" background="http://www.bus.iastate.edu/Main_Images/Secondary/evenings.gif">
+			<b><font color="#013366">
+			<span class="ten">&nbsp;</span></font></b><b><span class="ten"><font color="#013366"><a style="text-decoration: none" href="ALUMNI/pubs.asp">Publications</a></font></span></font></b></TD>
+	</TR>
+	<TR>
+		<TD height="21" width="153" background="http://www.bus.iastate.edu/Main_Images/Secondary/Saturday.gif">
+			<p>
+			
+			<span lang="en-us">&nbsp;</span><b><span class="ten"><font color="#013366"><a href="http://www.bus.iastate.edu/OUTREACH/vision_strategic_plan.asp" style="text-decoration: none">Strategic 
+            Plan</a></font></span></font></b></p></TD>
+	</TR>
+	<TR>
+		<TD height="106" width="56">
+			<map name="FPMap0">
+            <area href="mailto:business@iastate.edu?subject=Information Request" shape="rect" coords="36, 48, 145, 64">
+            <area href="javascript:popUp('http://www.bus.iastate.edu/call_now.htm')" shape="rect" coords="40, 75, 82, 90">
+            <area href="javascript:popUp('http://www.bus.iastate.edu/e_mail_page.asp?page=/404_error.asp')" shape="rect" coords="38, 100, 133, 113">
+            </map>
+            <img border="0" src="http://www.bus.iastate.edu/Main_Images/Secondary/take_action.gif" usemap="#FPMap0" width="153" height="131"></TD>
+	</TR>
+	</TABLE>
+
+<p>&nbsp;</p>
+
+</body>
+
+</html><!--end include-->
+    </td>
+    <td width="68%" height="336" valign="top">
+					<font color="#013366" face="Arial">
+					<b>
+			<!-- noprint -->
+
+<table border="0" cellpadding="0" style="border-collapse: collapse" bordercolor="#111111" cellspacing="0">
+<tr><td>
+  <a href="print.asp?page=/404_error.asp">
+  <img border="0" src="images/printl1.gif"></a></td>
+<td><p align="left"><font face="Verdana" size="1">
+<a href="print.asp?page=/404_error.asp">Print Friendly Version</a></font>
+</td></tr></table>
+<!-- /noprint -->
+			<!-- \noprint -->
+					</b>
+                    <table cellSpacing="0" cellPadding="0" width="100%" border="0">
+                      <tr>
+                        <td vAlign="top">
+                        <table cellSpacing="0" cellPadding="0" width="100%" border="0">
+                          <tr>
+                            <td>
+                            <table cellSpacing="0" cellPadding="12" width="100%" border="0">
+                              <tr>
+                                <td align="left">
+                                <font face="Arial" size="-1">
+                                <p class="ten">
+                                <font face="Arial" color="#013366" size="2">
+                                Sorry, the <span lang="en-us">page</span> you 
+                                were looking for could not be found. It may have 
+                                moved to a new location. Please use the 
+                                navigation&nbsp;<span class="664132514-03072003">on</span> 
+                                the left, the navigation <span lang="en-us">menu 
+                                above<span class="664132514-03072003">, or the 
+                                navigation menu below </span></span>to help you 
+                                locate the <span lang="en-us">page</span>. You 
+                                can also search for a <span lang="en-us">page</span> 
+                                by using the <b>
+                                <a href="http://www.bus.iastate.edu/search.asp" style="text-decoration: underline">
+                                <u>Search Page</u></a></b>. </font></p>
+                                <p class="ten">
+                                <font face="Arial" color="#013366" size="2">If 
+                                you typed in the url, be sure the address is 
+                                typed correctly. </font></p>
+                                <p class="ten"><font size="2" face="Arial">
+                                <font color="#013366">If you&nbsp;<span class="664132514-03072003">received</span> 
+                                this page from a link on the <b>www.<span lang="en-us">bus.iastate.edu</span></b> 
+                                domain, please report the error to:</font>
+                                </font></p>
+                                <p class="ten"><b><span lang="en-us">
+                                <a href="mailto:business@iastate.edu?subject=Page Not Found">
+                                <u>business@iastate.edu</u></a></span></b></p>
+                                <p class="ten"><font color="#013366">To go on to the main 
+                                page of this site, click the link below: </font>
+                                </p>
+                                <p class="ten"><b><span lang="en-us">
+                                <a href="http://www.bus.iastate.edu"><u>College 
+                                of Business Home Page</u></a></span></b></font></td>
+                              </tr>
+                            </table>
+                            </td>
+                          </tr>
+                        </table>
+                        </td>
+                      </tr>
+                    </table>
+                    <p class="ten">&nbsp;</p>
+					</font>
+                    <p>&nbsp;</td>
+  </tr>
+</table>
+<!-- noprint -->
+
+			<tr>
+				<td valign="top"><!--include file -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+
+        <link rel="stylesheet" type="text/css" href="http://www.bus.iastate.edu/bus_site.css" />	
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<title>CoB Footer</title>
+	</head>
+
+	<body bgcolor="#ffffff">
+		<table width="800" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse" bordercolor="#111111">
+			<tr height="22">
+				<td bgcolor="#013366" height="22" width="800">
+					<div align="right">
+		<p class="ten">
+		<span class="Ten" color="white"><a href="http://www.bus.iastate.edu/about.asp"><font color="FFFFFF"><b>About</b>&nbsp;&nbsp;&nbsp;&nbsp;<b> </b>
+        </font>
+                        </a> 
+        </span>
+		<span color="white" lang="en-us"><font color="#FFFFFF"><b>
+        <a href="http://www.bus.iastate.edu/contact.asp"><font color="#FFFFFF">
+        Contact Us</font></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="http://www.bus.iastate.edu/Media"><font color="#FFFFFF">News</font></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="http://www.bus.iastate.edu/calendar"><font color="#FFFFFF">
+        Calendar</font></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="http://www.bus.iastate.edu/directory.asp">
+        <font color="#FFFFFF">Directory</font></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="http://www.bus.iastate.edu/search.asp"><font color="#FFFFFF">
+        Search</font></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="http://www.bus.iastate.edu/site.asp"><font color="#FFFFFF">
+        Site Index</font></a></b>&nbsp;&nbsp;&nbsp;&nbsp; </font>
+        </span>
+                        </div>
+				</td>
+			</tr>
+			<tr>
+				<td><br>
+					<span class="seven"><a href="http://www.bus.iastate.edu/">
+                <font color="#013366">College
+    of Business</font></a>, Iowa State University, 2217 Gerdin Business Building, Ames, Iowa 50011, 
+                515-294-<span lang="en-us">3656</span><br>
+						
+						
+						
+						
+						
+						
+						
+    Published by:&nbsp; COB Web Team, <a href="mailto:business@iastate.edu">
+                <font color="#013366">business@iastate.edu</font></a><font color="#013366">,
+                </font>
+<a href="http://www.iastate.edu/guide/policies/notice.html">
+                <font color="#013366">©</font></a><font color="#013366"> </font>2004, Iowa State University.&nbsp; All rights reserved.<br>
+						
+						Accredited by 
+				<a href="http://www.bus.iastate.edu/AACSB/default.html">
+                <font color="#013366">AACSB International The Association to
+    Advance Collegiate Schools of Business</font></a><span lang="en-us"><font color="#013366">.
+                </font></span>&nbsp;<a href="http://www.aacsb.edu">www.aacsb.edu</a></font></td>
+			</tr>
+		</table>
+	</body>
+
+</html><!--end include--></td>
+			</tr>
+			<!-- \noprint -->
+
+</body>
+
+</html>
