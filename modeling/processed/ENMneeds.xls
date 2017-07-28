@@ -1,0 +1,54 @@
+<!doctype html public "-//W3C//DTD HTML 4.0 Transitional//EN"
+ "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+<title>CVS log for seek/projects/beam/niche-modeling/garp/ENMneeds.xls</title>
+<!-- hennerik CVSweb $Revision: 1.1.1.1 $ -->
+</head>
+<body text="#000000" bgcolor="#ffffff">
+ <h1 align="center">CVS log for seek/projects/beam/niche-modeling/garp/ENMneeds.xls</h1>
+<A HREF="/cvs/cvsweb.cgi/seek/projects/beam/niche-modeling/garp/#ENMneeds.xls"><IMG SRC="/icons/back.gif" ALT="[BACK]" BORDER="0" WIDTH="20" HEIGHT="22"></A>
+ <b>Up to  <a href="/cvs/cvsweb.cgi/#dirlist">[Ecoinformatics]</a> / <a href="/cvs/cvsweb.cgi/seek/#dirlist">seek</a> / <a href="/cvs/cvsweb.cgi/seek/projects/#dirlist">projects</a> / <a href="/cvs/cvsweb.cgi/seek/projects/beam/#dirlist">beam</a> / <a href="/cvs/cvsweb.cgi/seek/projects/beam/niche-modeling/#dirlist">niche-modeling</a> / <a href="/cvs/cvsweb.cgi/seek/projects/beam/niche-modeling/garp/#dirlist">garp</a></b><p>
+<A HREF="#diff">Request diff between arbitrary revisions</A>
+<HR NOSHADE>
+Default branch: 1<BR>
+<HR size=1 NOSHADE><a NAME="rev1.1"></a><a NAME="HEAD"></a>
+ Revision <A HREF="ENMneeds.xls?rev=1.1&amp;content-type=text/x-cvsweb-markup"><b>1.1</b></A> / (<A HREF="/cvs/cvsweb.cgi/~checkout~/seek/projects/beam/niche-modeling/garp/ENMneeds.xls?rev=1.1&amp;content-type=text/plain" target="cvs_checkout" onClick="window.open('/cvs/cvsweb.cgi/~checkout~/seek/projects/beam/niche-modeling/garp/ENMneeds.xls?rev=1.1&amp;content-type=text/plain','cvs_checkout','resizeable,scrollbars');"><b>download</b></A>) - <A HREF="/cvs/cvsweb.cgi/seek/projects/beam/niche-modeling/garp/ENMneeds.xls?r1=1.1">[select for diffs]</A>
+, <i>Tue Sep 16 19:56:46 2003 UTC</i> (6 months, 2 weeks ago) by <i>penningt</i>
+<BR>CVS Tags: <b><A HREF="ENMneeds.xls?only_with_tag=HEAD">HEAD</A>
+</b><BR>Diff<PRE>
+New copy of files for garp pipelines.
+</PRE>
+<HR NOSHADE><A NAME=diff>
+This form allows you to request diff's between any two
+revisions of a file.  You may select a symbolic revision
+name using the selection box or you may type in a numeric
+name using the type-in text box.
+</A><P>
+<FORM METHOD="GET" ACTION="/cvs/cvsweb.cgi/seek/projects/beam/niche-modeling/garp/ENMneeds.xls.diff" NAME="diff_select">
+Diffs between 
+<SELECT NAME="r1">
+<OPTION VALUE="text" SELECTED>Use Text Field
+<OPTION VALUE="0.1:MAIN">MAIN
+<OPTION VALUE="1.1:HEAD">HEAD
+</SELECT>
+<INPUT TYPE="TEXT" SIZE="12" NAME="tr1" VALUE="1.1" onChange='document.diff_select.r1.selectedIndex=0'>
+ and 
+<SELECT NAME="r2">
+<OPTION VALUE="text" SELECTED>Use Text Field
+<OPTION VALUE="0.1:MAIN">MAIN
+<OPTION VALUE="1.1:HEAD">HEAD
+</SELECT>
+<INPUT TYPE="TEXT" SIZE="12" NAME="tr2" VALUE="1.1" onChange='document.diff_select.r2.selectedIndex=0'>
+<BR>Type of Diff should be a&nbsp;<SELECT NAME="f">
+<OPTION VALUE=h SELECTED>Colored Diff<OPTION VALUE=H>Long Colored Diff<OPTION VALUE=u>Unidiff<OPTION VALUE=c>Context Diff</SELECT><INPUT TYPE=SUBMIT VALUE="  Get Diffs  ">
+</FORM>
+<HR noshade>
+<A name=logsort></A>
+<FORM METHOD="GET" ACTION="/cvs/cvsweb.cgi/seek/projects/beam/niche-modeling/garp/ENMneeds.xls">
+Sort log by: 
+<SELECT NAME="logsort" onchange="submit()">
+<OPTION VALUE=cvs>Not sorted<OPTION VALUE=date SELECTED>Commit date<OPTION VALUE=rev>Revision</SELECT>
+<INPUT TYPE=SUBMIT VALUE="  Sort  ">
+</FORM>
+<hr noshade><address><font size=-1>Admin contact: &lt;pmc@ecoinformatics.org&gt;</font>&nbsp;<a href="http://linux.fh-heilbronn.de/~zeller/cgi/cvsweb.cgi">cvsweb</a></address></body></html>
+</BODY></HTML>
