@@ -24,6 +24,14 @@ The objective of this repository is to incrementally generate a Funcalc-compatib
 
 
 
+## Standard Changes ##
+
+- Convert file from XLS to XML format
+- Replace `#N/A` by `NA()`
+- Remove leading `+` operators
+
+
+
 ## License ##
 
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
