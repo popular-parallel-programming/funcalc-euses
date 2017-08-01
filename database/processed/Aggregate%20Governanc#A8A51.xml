@@ -24398,7 +24398,10 @@
     <Cell ss:Formula="=DEFINE(&quot;VLOOKUP&quot;, RC[+1], RC[+2], RC[+3], RC[+4], RC[+5])">
      <Data ss:Type="String">FUN VLOOKUP AT #2</Data>
     </Cell>
-    <Cell ss:Formula="=REDUCE(CLOSURE(&quot;VLOOKUP_REPLACER&quot;), &quot;VLOOKUP_MARKER&quot;, ROWMAP(CLOSURE(&quot;VLOOKUP_PICKER&quot;, RC[+1], NA(), NA()), HCAT(SLICE(RC[+2], 1, 1, ROWS(RC[+2]), 1), SLICE(RC[+2], 1, RC[+3], ROWS(RC[+2]), RC[+3]))))">
+    <Cell ss:Formula="=IF(EQUAL(RC[+5], &quot;VLOOKUP_MARKER&quot;), NA(), RC[+5])">
+     <Data ss:Type="Error">#EMPTY!</Data>
+    </Cell>
+    <Cell ss:Index="7" ss:Formula="=REDUCE(CLOSURE(&quot;VLOOKUP_REPLACER&quot;), &quot;VLOOKUP_MARKER&quot;, ROWMAP(CLOSURE(&quot;VLOOKUP_PICKER&quot;, RC[-4], NA(), NA()), HCAT(SLICE(RC[-3], 1, 1, ROWS(RC[-3]), 1), SLICE(RC[-3], 1, RC[-2], ROWS(RC[-3]), RC[-2]))))">
      <Data ss:Type="Error">#EMPTY!</Data>
     </Cell>
    </Row>
