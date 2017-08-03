@@ -44,13 +44,13 @@
         </Cell>
       </Row>
       <Row ss:Index="9">
-        <Cell ss:Formula="=DCOUNT(CustomerData!R1C1:R501C14, CustomerData!R[-8]C[+10], Criteria!R[+2]C[+2]:R[+3]C[+2])">
-          <Data ss:Type="Error">#NAME?</Data>
+        <Cell ss:Formula="=COUNTIF(CLOSURE(&quot;&gt;&quot;, NA(), 0), CustomerData!R[-7]C[+10]:R[+492]C[+10])">
+          <Data ss:Type="Number">207</Data>
         </Cell>
       </Row>
       <Row ss:Index="11">
-        <Cell ss:Formula="=DSUM(CustomerData!R1C1:R501C14, CustomerData!R[-10]C[+13], Criteria!RC[+1]:R[+1]C[+1])">
-          <Data ss:Type="Error">#NAME?</Data>
+        <Cell ss:Formula="=SUM(CustomerData!R[-9]C[+13]:R[+490]C[+13])">
+          <Data ss:Type="Number">385123.4425</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">'2 What is the total value of all the orders in the CustomerData Spreadsheet?</Data>
@@ -62,32 +62,32 @@
         </Cell>
       </Row>
       <Row>
-        <Cell ss:Index="2" ss:Formula="=DSUM(CustomerData!R1C1:R501C14, CustomerData!R[-12]C[+10], Criteria!R[-2]C:R[-1]C)">
-          <Data ss:Type="Error">#NAME?</Data>
+        <Cell ss:Index="2" ss:Formula="=SUM(CustomerData!R[-11]C[+10]:R[+488]C[+10])">
+          <Data ss:Type="Number">414236.86</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">'IF STUDENTS USE TOTAL INSTEAD OF NET SALE - EITHER IS FINE</Data>
         </Cell>
       </Row>
       <Row>
-        <Cell ss:Formula="=DSUM(CustomerData!R1C1:R501C14, CustomerData!R[-13]C[+12], Criteria!R[-3]C[+1]:R[-2]C[+1])">
-          <Data ss:Type="Error">#NAME?</Data>
+        <Cell ss:Formula="=SUM(CustomerData!R[-12]C[+12]:R[+487]C[+12])">
+          <Data ss:Type="Number">29113.4175</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">'3 What is the total value of all the discounts in the CustomerData Spreadhseet?</Data>
         </Cell>
       </Row>
       <Row ss:Index="16">
-        <Cell ss:Formula="=DAVERAGE(CustomerData!R1C1:R501C14, CustomerData!R[-15]C[+12], Criteria!R[-5]C[+4]:R[-4]C[+4])">
-          <Data ss:Type="Error">#NAME?</Data>
+        <Cell ss:Formula="=AVGIF2(CLOSURE(&quot;EQUAL&quot;, &quot;Beverages&quot;, NA()), HCAT(CustomerData!R[-14]C[+5]:R[+485]C[+5], CustomerData!R[-14]C[+12]:R[+485]C[+12]))">
+          <Data ss:Type="Number">84.0824257425743</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">'4 What is the average discount on beverage orders in the CustomerData Spreadsheet?</Data>
         </Cell>
       </Row>
       <Row ss:Index="18">
-        <Cell ss:Formula="=DMAX(CustomerData!R1C1:R501C14, CustomerData!R[-17]C[+13], Criteria!R[-7]C[+1]:R[-6]C[+1])">
-          <Data ss:Type="Error">#NAME?</Data>
+        <Cell ss:Formula="=MAX(CustomerData!R[-16]C[+13]:R[+483]C[+13])">
+          <Data ss:Type="Number">15019.5</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">'5.a</Data>
@@ -102,8 +102,8 @@
         </Cell>
       </Row>
       <Row>
-        <Cell ss:Formula="=DGET(CustomerData!R1C1:R501C14, CustomerData!R[-19]C[+5], Criteria!R[-6]C[+1]:R[-5]C[+1])">
-          <Data ss:Type="Error">#NAME?</Data>
+        <Cell ss:Formula="=VLOOKUP(Criteria!R[-5]C[+1], HCAT(CustomerData!R[-19]C[+13]:R[+481]C[+13], CustomerData!R[-19]C[+5]:R[+481]C[+5]), 2)">
+          <Data ss:Type="String">Beverages</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">'5.b</Data>
@@ -351,7 +351,7 @@
       </Row>
       <Row>
         <Cell ss:Index="2" ss:Formula="=SummaryReport!R[+3]C[-1]">
-          <Data ss:Type="Error">#NAME?</Data>
+          <Data ss:Type="Number">15019.5</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">'Beverages</Data>
@@ -24799,7 +24799,7 @@
     <Table ss:ExpandedColumnCount="20" ss:ExpandedRowCount="1000" x:FullColumns="1" x:FullRows="1">
       <Row>
         <Cell ss:Formula="=DEFINE(&quot;IS_BEVERAGE_OR_DAIRY&quot;, RC[+1], RC[+2])">
-          <Data ss:Type="String">FUN IS_BEVERAGE_OR_DAIRY AT #1</Data>
+          <Data ss:Type="String">FUN IS_BEVERAGE_OR_DAIRY AT #4</Data>
         </Cell>
         <Cell ss:Formula="=OR(EQUAL(RC[+1], Criteria!R[+14]C[+1]), EQUAL(RC[+1], Criteria!R[+15]C[+1]))">
           <Data ss:Type="Error">#EMPTY!</Data>
@@ -24807,7 +24807,7 @@
       </Row>
       <Row>
         <Cell ss:Formula="=DEFINE(&quot;IS_SEAFOOD&quot;, RC[+1], RC[+2])">
-          <Data ss:Type="String">FUN IS_SEAFOOD AT #2</Data>
+          <Data ss:Type="String">FUN IS_SEAFOOD AT #5</Data>
         </Cell>
         <Cell ss:Formula="=EQUAL(Criteria!R[+13]C[+2], RC[+1])">
           <Data ss:Type="Error">#EMPTY!</Data>
@@ -24815,7 +24815,7 @@
       </Row>
       <Row>
         <Cell ss:Formula="=DEFINE(&quot;IS_PRODUCE&quot;, RC[+1], RC[+2])">
-          <Data ss:Type="String">FUN IS_PRODUCE AT #3</Data>
+          <Data ss:Type="String">FUN IS_PRODUCE AT #6</Data>
         </Cell>
         <Cell ss:Formula="=EQUAL(Criteria!R[+12]C[+3], RC[+1])">
           <Data ss:Type="Error">#EMPTY!</Data>
@@ -24823,7 +24823,7 @@
       </Row>
       <Row ss:Index="5">
         <Cell ss:Formula="=DEFINE(&quot;SUMIF2_HELPER&quot;, RC[+1], RC[+2], RC[+3], RC[+4])">
-          <Data ss:Type="String">FUN SUMIF2_HELPER AT #4</Data>
+          <Data ss:Type="String">FUN SUMIF2_HELPER AT #7</Data>
         </Cell>
         <Cell ss:Formula="=IF(APPLY(RC[+1], RC[+2]), RC[+3], 0)">
           <Data ss:Type="Error">#EMPTY!</Data>
@@ -24831,7 +24831,7 @@
       </Row>
       <Row>
         <Cell ss:Formula="=DEFINE(&quot;SUMIF2&quot;, RC[+1], RC[+2], RC[+3])">
-          <Data ss:Type="String">FUN SUMIF2 AT #5</Data>
+          <Data ss:Type="String">FUN SUMIF2 AT #8</Data>
         </Cell>
         <Cell ss:Formula="=SUM(ROWMAP(CLOSURE(&quot;SUMIF2_HELPER&quot;, RC[+1], NA(), NA()), RC[+2]))">
           <Data ss:Type="Error">#EMPTY!</Data>
@@ -24839,7 +24839,7 @@
       </Row>
       <Row ss:Index="8">
         <Cell ss:Formula="=DEFINE(&quot;AVGIF2&quot;, RC[+1], RC[+2], RC[+3])">
-          <Data ss:Type="String">FUN AVGIF2 AT #6</Data>
+          <Data ss:Type="String">FUN AVGIF2 AT #9</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(RC[+1], RC[+2])/COUNTIF(RC[+1], SLICE(RC[+2], 1, 1, ROWS(RC[+2]), 1))">
           <Data ss:Type="Error">#EMPTY!</Data>
@@ -24847,7 +24847,7 @@
       </Row>
       <Row ss:Index="10">
         <Cell ss:Formula="=DEFINE(&quot;COUNTIF2_HELPER&quot;, RC[+1], RC[+2], RC[+3], RC[+4], RC[+5])">
-          <Data ss:Type="String">FUN COUNTIF2_HELPER AT #7</Data>
+          <Data ss:Type="String">FUN COUNTIF2_HELPER AT #10</Data>
         </Cell>
         <Cell ss:Formula="=AND(APPLY(RC[+1], RC[+3]), APPLY(RC[+2], RC[+4]))">
           <Data ss:Type="Error">#EMPTY!</Data>
@@ -24855,7 +24855,7 @@
       </Row>
       <Row>
         <Cell ss:Formula="=DEFINE(&quot;COUNTIF2&quot;, RC[+1], RC[+2], RC[+3], RC[+4])">
-          <Data ss:Type="String">FUN COUNTIF2 AT #8</Data>
+          <Data ss:Type="String">FUN COUNTIF2 AT #11</Data>
         </Cell>
         <Cell ss:Formula="=SUM(ROWMAP(CLOSURE(&quot;COUNTIF2_HELPER&quot;, RC[+1], RC[+2], NA(), NA()), RC[+3]))">
           <Data ss:Type="Error">#EMPTY!</Data>
@@ -24863,7 +24863,7 @@
       </Row>
       <Row ss:Index="13">
         <Cell ss:Formula="=DEFINE(&quot;COUNTIF3_HELPER&quot;, RC[+1], RC[+2], RC[+3], RC[+4], RC[+5], RC[+6], RC[+7])">
-          <Data ss:Type="String">FUN COUNTIF3_HELPER AT #11</Data>
+          <Data ss:Type="String">FUN COUNTIF3_HELPER AT #12</Data>
         </Cell>
         <Cell ss:Formula="=AND(APPLY(RC[+1], RC[+4]), APPLY(RC[+2], RC[+5]), APPLY(RC[+3], RC[+6]))">
           <Data ss:Type="Error">#EMPTY!</Data>
@@ -24871,9 +24871,36 @@
       </Row>
       <Row>
         <Cell ss:Formula="=DEFINE(&quot;COUNTIF3&quot;, RC[+1], RC[+2], RC[+3], RC[+4], RC[+5])">
-          <Data ss:Type="String">FUN COUNTIF3 AT #12</Data>
+          <Data ss:Type="String">FUN COUNTIF3 AT #13</Data>
         </Cell>
         <Cell ss:Formula="=SUM(ROWMAP(CLOSURE(&quot;COUNTIF3_HELPER&quot;, RC[+1], RC[+2], RC[+3], NA(), NA(), NA()), RC[+4]))">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row ss:Index="16">
+        <Cell ss:Formula="=DEFINE(&quot;VLOOKUP_PICKER&quot;, RC[+1], RC[+2], RC[+3], RC[+4])">
+          <Data ss:Type="String">FUN VLOOKUP_PICKER AT #14</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(EQUAL(RC[+1], RC[+2]), RC[+3], &quot;VLOOKUP_MARKER&quot;)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Formula="=DEFINE(&quot;VLOOKUP_REPLACER&quot;, RC[+1], RC[+2], RC[+3])">
+          <Data ss:Type="String">FUN VLOOKUP_REPLACER AT #15</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(EQUAL(RC[+1], &quot;VLOOKUP_MARKER&quot;), RC[+2], RC[+1])">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Formula="=DEFINE(&quot;VLOOKUP&quot;, RC[+1], RC[+2], RC[+3], RC[+4])">
+          <Data ss:Type="String">FUN VLOOKUP AT #16</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(EQUAL(RC[+5], &quot;VLOOKUP_MARKER&quot;), NA(), RC[+5])">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Index="7" ss:Formula="=REDUCE(CLOSURE(&quot;VLOOKUP_REPLACER&quot;), &quot;VLOOKUP_MARKER&quot;, ROWMAP(CLOSURE(&quot;VLOOKUP_PICKER&quot;, RC[-4], NA(), NA()), HCAT(SLICE(RC[-3], 1, 1, ROWS(RC[-3]), 1), SLICE(RC[-3], 1, RC[-2], ROWS(RC[-3]), RC[-2]))))">
           <Data ss:Type="Error">#EMPTY!</Data>
         </Cell>
       </Row>
