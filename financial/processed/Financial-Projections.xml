@@ -9213,13 +9213,7 @@
         <Cell>
           <Data ss:Type="String">'Total Hardware</Data>
         </Cell>
-        <Cell>
-          <Data ss:Type="Number">0</Data>
-        </Cell>
-        <Cell ss:Formula="=SUM(RC[+1])/RC[-1]">
-          <Data ss:Type="Error">#NUM!</Data>
-        </Cell>
-        <Cell ss:Formula="=SUM(R[-13]C:R[-2]C)">
+        <Cell ss:Index="4" ss:Formula="=SUM(R[-13]C:R[-2]C)">
           <Data ss:Type="Number">193750</Data>
         </Cell>
         <Cell ss:Formula="=SUM(R[-13]C:R[-2]C)">
@@ -10186,13 +10180,7 @@
         <Cell>
           <Data ss:Type="String">'Total Software</Data>
         </Cell>
-        <Cell>
-          <Data ss:Type="Number">0</Data>
-        </Cell>
-        <Cell ss:Formula="=SUM(RC[+1])/RC[-1]">
-          <Data ss:Type="Error">#NUM!</Data>
-        </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C:R[-2]C)">
+        <Cell ss:Index="4" ss:Formula="=SUM(R[-4]C:R[-2]C)">
           <Data ss:Type="Number">68500</Data>
         </Cell>
         <Cell ss:Formula="=SUM(R[-4]C:R[-2]C)">
