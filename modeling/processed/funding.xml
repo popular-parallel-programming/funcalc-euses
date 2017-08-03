@@ -196,13 +196,13 @@
           <Data ss:Type="Number">1</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
         <Cell ss:Index="22">
           <Data ss:Type="Number">1</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
       </Row>
       <Row>
@@ -249,13 +249,13 @@
           <Data ss:Type="Number">2</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
         <Cell ss:Index="22">
           <Data ss:Type="Number">2</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
       </Row>
       <Row>
@@ -302,13 +302,13 @@
           <Data ss:Type="Number">3</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
         <Cell ss:Index="22">
           <Data ss:Type="Number">3</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
       </Row>
       <Row>
@@ -355,13 +355,13 @@
           <Data ss:Type="Number">4</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
         <Cell ss:Index="22">
           <Data ss:Type="Number">4</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
       </Row>
       <Row>
@@ -408,13 +408,13 @@
           <Data ss:Type="Number">5</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
         <Cell ss:Index="22">
           <Data ss:Type="Number">5</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
       </Row>
       <Row>
@@ -464,13 +464,13 @@
           <Data ss:Type="Number">6</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
         <Cell ss:Index="22">
           <Data ss:Type="Number">6</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
       </Row>
       <Row>
@@ -517,13 +517,13 @@
           <Data ss:Type="Number">7</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
         <Cell ss:Index="22">
           <Data ss:Type="Number">7</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
       </Row>
       <Row>
@@ -570,13 +570,13 @@
           <Data ss:Type="Number">8</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
         <Cell ss:Index="22">
           <Data ss:Type="Number">8</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
       </Row>
       <Row>
@@ -626,13 +626,13 @@
           <Data ss:Type="Number">9</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
         <Cell ss:Index="22">
           <Data ss:Type="Number">9</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
       </Row>
       <Row>
@@ -679,13 +679,13 @@
           <Data ss:Type="Number">10</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
         <Cell ss:Index="22">
           <Data ss:Type="Number">10</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
       </Row>
       <Row>
@@ -735,13 +735,13 @@
           <Data ss:Type="Number">11</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
         <Cell ss:Index="22">
           <Data ss:Type="Number">11</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
       </Row>
       <Row>
@@ -791,25 +791,25 @@
           <Data ss:Type="Number">12</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">1</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-8], RC[-8])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">12</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">1</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-9], RC[-9])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
       </Row>
       <Row>
@@ -859,25 +859,25 @@
           <Data ss:Type="Number">13</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">2</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-8], RC[-8])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">13</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">2</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-9], RC[-9])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
       </Row>
       <Row>
@@ -927,25 +927,25 @@
           <Data ss:Type="Number">14</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">3</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-8], RC[-8])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">14</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">3</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-9], RC[-9])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
       </Row>
       <Row>
@@ -995,25 +995,25 @@
           <Data ss:Type="Number">15</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">4</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-8], RC[-8])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">15</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">4</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-9], RC[-9])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
       </Row>
       <Row>
@@ -1063,25 +1063,25 @@
           <Data ss:Type="Number">16</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">5</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-8], RC[-8])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">16</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">5</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-9], RC[-9])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
       </Row>
       <Row>
@@ -1131,25 +1131,25 @@
           <Data ss:Type="Number">17</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">6</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-8], RC[-8])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">17</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">6</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-9], RC[-9])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
       </Row>
       <Row>
@@ -1199,25 +1199,25 @@
           <Data ss:Type="Number">18</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">7</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-8], RC[-8])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">18</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">7</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-9], RC[-9])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
       </Row>
       <Row>
@@ -1267,25 +1267,25 @@
           <Data ss:Type="Number">19</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">8</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-8], RC[-8])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">19</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">8</Data>
         </Cell>
         <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-9], RC[-9])">
-          <Data ss:Type="Error">#NUM!</Data>
+          <Data ss:Type="Error">#ERR: ArgCount</Data>
         </Cell>
       </Row>
       <Row>
@@ -1297,29 +1297,29 @@
         <Cell>
           <Data ss:Type="String">'Ann avg 1980 - 1990</Data>
         </Cell>
-        <Cell ss:Index="3" ss:Formula="=RATE(COUNTIF(@SDF!R[-16]C[+1], R[-21]C:R[-11]C)-1, 0, -R[-21]C, R[-11]C)">
-          <Data ss:Type="Error">#NUM!</Data>
+        <Cell ss:Index="3" ss:Formula="=RATE(COUNTIF(@SDF!R1C4, R[-21]C:R[-11]C)-1, 0, -R[-21]C, R[-11]C, 0, 0.1)">
+          <Data ss:Type="Number">0.134030299540609</Data>
         </Cell>
-        <Cell ss:Index="5" ss:Formula="=RATE(COUNTIF(@SDF!R9C4, R[-21]C:R[-11]C)-1, 0, -R[-21]C, R[-11]C)">
-          <Data ss:Type="Error">#NUM!</Data>
+        <Cell ss:Index="5" ss:Formula="=RATE(COUNTIF(@SDF!R1C4, R[-21]C:R[-11]C)-1, 0, -R[-21]C, R[-11]C, 0, 0.1)">
+          <Data ss:Type="Number">0.120751699525863</Data>
         </Cell>
-        <Cell ss:Index="7" ss:Formula="=RATE(COUNTIF(@SDF!R9C4, R[-21]C:R[-11]C)-1, 0, -R[-21]C, R[-11]C)">
-          <Data ss:Type="Error">#NUM!</Data>
+        <Cell ss:Index="7" ss:Formula="=RATE(COUNTIF(@SDF!R1C4, R[-21]C:R[-11]C)-1, 0, -R[-21]C, R[-11]C, 0, 0.1)">
+          <Data ss:Type="Number">0.0482102836482227</Data>
         </Cell>
-        <Cell ss:Index="9" ss:Formula="=RATE(COUNTIF(@SDF!R9C4, R[-21]C:R[-11]C)-1, 0, -R[-21]C, R[-11]C)">
-          <Data ss:Type="Error">#NUM!</Data>
+        <Cell ss:Index="9" ss:Formula="=RATE(COUNTIF(@SDF!R1C4, R[-21]C:R[-11]C)-1, 0, -R[-21]C, 0, 0.1, R[-11]C)">
+          <Data ss:Type="Error">#ERR: No zero crossing found</Data>
         </Cell>
-        <Cell ss:Index="11" ss:Formula="=RATE(COUNTIF(@SDF!R9C4, R[-21]C:R[-11]C)-1, 0, -R[-21]C, R[-11]C)">
-          <Data ss:Type="Error">#NUM!</Data>
+        <Cell ss:Index="11" ss:Formula="=RATE(COUNTIF(@SDF!R1C4, R[-21]C:R[-11]C)-1, 0, -R[-21]C, R[-11]C, 0, 0.1)">
+          <Data ss:Type="Number">0.0856861027888954</Data>
         </Cell>
-        <Cell ss:Index="13" ss:Formula="=RATE(COUNTIF(@SDF!R9C4, R[-21]C:R[-11]C)-1, 0, -R[-21]C, R[-11]C)">
-          <Data ss:Type="Error">#NUM!</Data>
+        <Cell ss:Index="13" ss:Formula="=RATE(COUNTIF(@SDF!R1C4, R[-21]C:R[-11]C)-1, 0, -R[-21]C, R[-11]C, 0, 0.1)">
+          <Data ss:Type="Number">-0.0151803368702531</Data>
         </Cell>
-        <Cell ss:Index="15" ss:Formula="=RATE(COUNTIF(@SDF!R9C4, R[-21]C:R[-11]C)-1, 0, -R[-21]C, R[-11]C)">
-          <Data ss:Type="Error">#NUM!</Data>
+        <Cell ss:Index="15" ss:Formula="=RATE(COUNTIF(@SDF!R1C4, R[-21]C:R[-11]C)-1, 0, -R[-21]C, R[-11]C, 0, 0.1)">
+          <Data ss:Type="Number">0.106654770066962</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(COUNTIF(@SDF!R9C4, R[-21]C:R[-11]C)-1, 0, -R[-21]C, R[-11]C)">
-          <Data ss:Type="Error">#NUM!</Data>
+        <Cell ss:Formula="=RATE(COUNTIF(@SDF!R1C4, R[-21]C:R[-11]C)-1, 0, -R[-21]C, R[-11]C, 0, 0.1)">
+          <Data ss:Type="Number">-0.0223934972658753</Data>
         </Cell>
       </Row>
       <Row>
@@ -1355,87 +1355,87 @@
         <Cell>
           <Data ss:Type="String">'Ann avg 1980 - 1999</Data>
         </Cell>
-        <Cell ss:Index="3" ss:Formula="=RATE(COUNTIF(@SDF!R[-18]C[+1], R[-23]C:R[-4]C)-1, 0, -R[-23]C, R[-4]C)">
-          <Data ss:Type="Error">#NUM!</Data>
+        <Cell ss:Index="3" ss:Formula="=RATE(COUNTIF(@SDF!R[-26]C[+1], R[-23]C:R[-4]C)-1, 0, -R[-23]C, R[-4]C, 0, 0.1)">
+          <Data ss:Type="Number">0.0851466991938651</Data>
         </Cell>
-        <Cell ss:Index="5" ss:Formula="=RATE(COUNTIF(@SDF!R9C4, R[-23]C:R[-4]C)-1, 0, -R[-23]C, R[-4]C)">
-          <Data ss:Type="Error">#NUM!</Data>
+        <Cell ss:Index="5" ss:Formula="=RATE(COUNTIF(@SDF!R1C4, R[-23]C:R[-4]C)-1, 0, -R[-23]C, R[-4]C, 0, 0.1)">
+          <Data ss:Type="Number">0.0784405660815537</Data>
         </Cell>
-        <Cell ss:Index="7" ss:Formula="=RATE(COUNTIF(@SDF!R9C4, R[-23]C:R[-4]C)-1, 0, -R[-23]C, R[-4]C)">
-          <Data ss:Type="Error">#NUM!</Data>
+        <Cell ss:Index="7" ss:Formula="=RATE(COUNTIF(@SDF!R1C4, R[-23]C:R[-4]C)-1, 0, -R[-23]C, R[-4]C, 0, 0.1)">
+          <Data ss:Type="Number">0.0461036144755781</Data>
         </Cell>
-        <Cell ss:Index="9" ss:Formula="=RATE(COUNTIF(@SDF!R9C4, R[-23]C:R[-4]C)-1, 0, -R[-23]C, R[-4]C)">
-          <Data ss:Type="Error">#NUM!</Data>
+        <Cell ss:Index="9" ss:Formula="=RATE(COUNTIF(@SDF!R1C4, R[-23]C:R[-4]C)-1, 0, -R[-23]C, R[-4]C, 0, 0.1)">
+          <Data ss:Type="Number">0.0309118055738509</Data>
         </Cell>
-        <Cell ss:Index="11" ss:Formula="=RATE(COUNTIF(@SDF!R9C4, R[-23]C:R[-4]C)-1, 0, -R[-23]C, R[-4]C)">
-          <Data ss:Type="Error">#NUM!</Data>
+        <Cell ss:Index="11" ss:Formula="=RATE(COUNTIF(@SDF!R1C4, R[-23]C:R[-4]C)-1, 0, -R[-23]C, R[-4]C, 0, 0.1)">
+          <Data ss:Type="Number">0.05505974823609</Data>
         </Cell>
-        <Cell ss:Index="13" ss:Formula="=RATE(COUNTIF(@SDF!R9C4, R[-23]C:R[-4]C)-1, 0, -R[-23]C, R[-4]C)">
-          <Data ss:Type="Error">#NUM!</Data>
+        <Cell ss:Index="13" ss:Formula="=RATE(COUNTIF(@SDF!R1C4, R[-23]C:R[-4]C)-1, 0, -R[-23]C, R[-4]C, 0, 0.1)">
+          <Data ss:Type="Number">-0.0228877482935786</Data>
         </Cell>
-        <Cell ss:Index="15" ss:Formula="=RATE(COUNTIF(@SDF!R9C4, R[-23]C:R[-4]C)-1, 0, -R[-23]C, R[-4]C)">
-          <Data ss:Type="Error">#NUM!</Data>
+        <Cell ss:Index="15" ss:Formula="=RATE(COUNTIF(@SDF!R1C4, R[-23]C:R[-4]C)-1, 0, -R[-23]C, R[-4]C, 0, 0.1)">
+          <Data ss:Type="Number">0.0630611601285636</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(COUNTIF(@SDF!R9C4, R[-23]C:R[-4]C)-1, 0, -R[-23]C, R[-4]C)">
-          <Data ss:Type="Error">#NUM!</Data>
+        <Cell ss:Formula="=RATE(COUNTIF(@SDF!R1C4, R[-23]C:R[-4]C)-1, 0, -R[-23]C, R[-4]C, 0, 0.1)">
+          <Data ss:Type="Number">-0.0242119399830699</Data>
         </Cell>
       </Row>
       <Row>
         <Cell>
           <Data ss:Type="String">'Ann avg 1995 - 1999</Data>
         </Cell>
-        <Cell ss:Index="3" ss:Formula="=RATE(COUNTIF(@SDF!R9C4, R[-9]C:R[-5]C)-1, 0, -R[-9]C, R[-5]C)">
-          <Data ss:Type="Error">#NUM!</Data>
+        <Cell ss:Index="3" ss:Formula="=RATE(COUNTIF(@SDF!R1C4, R[-9]C:R[-5]C)-1, 0, -R[-9]C, R[-5]C, 0, 0.1)">
+          <Data ss:Type="Number">0.014099418092519</Data>
         </Cell>
-        <Cell ss:Index="5" ss:Formula="=RATE(COUNTIF(@SDF!R9C4, R[-9]C:R[-5]C)-1, 0, -R[-9]C, R[-5]C)">
-          <Data ss:Type="Error">#NUM!</Data>
+        <Cell ss:Index="5" ss:Formula="=RATE(COUNTIF(@SDF!R1C4, R[-9]C:R[-5]C)-1, 0, -R[-9]C, R[-5]C, 0, 0.1)">
+          <Data ss:Type="Number">0.014099418092519</Data>
         </Cell>
-        <Cell ss:Index="7" ss:Formula="=RATE(COUNTIF(@SDF!R9C4, R[-9]C:R[-5]C)-1, 0, -R[-9]C, R[-5]C)">
-          <Data ss:Type="Error">#NUM!</Data>
+        <Cell ss:Index="7" ss:Formula="=RATE(COUNTIF(@SDF!R1C4, R[-9]C:R[-5]C)-1, 0, -R[-9]C, R[-5]C, 0, 0.1)">
+          <Data ss:Type="Number">0.0294884921051562</Data>
         </Cell>
-        <Cell ss:Index="9" ss:Formula="=RATE(COUNTIF(@SDF!R9C4, R[-9]C:R[-5]C)-1, 0, -R[-9]C, R[-5]C)">
-          <Data ss:Type="Error">#NUM!</Data>
+        <Cell ss:Index="9" ss:Formula="=RATE(COUNTIF(@SDF!R1C4, R[-9]C:R[-5]C)-1, 0, -R[-9]C, R[-5]C, 0, 0.1)">
+          <Data ss:Type="Number">-0.0149482717737556</Data>
         </Cell>
-        <Cell ss:Index="11" ss:Formula="=RATE(COUNTIF(@SDF!R9C4, R[-9]C:R[-5]C)-1, 0, -R[-9]C, R[-5]C)">
-          <Data ss:Type="Error">#NUM!</Data>
+        <Cell ss:Index="11" ss:Formula="=RATE(COUNTIF(@SDF!R1C4, R[-9]C:R[-5]C)-1, 0, -R[-9]C, R[-5]C, 0, 0.1)">
+          <Data ss:Type="Number">0.0277080862782896</Data>
         </Cell>
-        <Cell ss:Index="13" ss:Formula="=RATE(COUNTIF(@SDF!R9C4, R[-9]C:R[-5]C)-1, 0, -R[-9]C, R[-5]C)">
-          <Data ss:Type="Error">#NUM!</Data>
+        <Cell ss:Index="13" ss:Formula="=RATE(COUNTIF(@SDF!R1C4, R[-9]C:R[-5]C)-1, 0, -R[-9]C, R[-5]C, 0, 0.1)">
+          <Data ss:Type="Number">-0.0415062984451652</Data>
         </Cell>
-        <Cell ss:Index="15" ss:Formula="=RATE(COUNTIF(@SDF!R9C4, R[-9]C:R[-5]C)-1, 0, -R[-9]C, R[-5]C)">
-          <Data ss:Type="Error">#NUM!</Data>
+        <Cell ss:Index="15" ss:Formula="=RATE(COUNTIF(@SDF!R1C4, R[-9]C:R[-5]C)-1, 0, -R[-9]C, R[-5]C, 0, 0.1)">
+          <Data ss:Type="Number">0.0115095595829189</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(COUNTIF(@SDF!R9C4, R[-9]C:R[-5]C)-1, 0, -R[-9]C, R[-5]C)">
-          <Data ss:Type="Error">#NUM!</Data>
+        <Cell ss:Formula="=RATE(COUNTIF(@SDF!R1C4, R[-9]C:R[-5]C)-1, 0, -R[-9]C, R[-5]C, 0, 0.1)">
+          <Data ss:Type="Number">-0.026156778074801</Data>
         </Cell>
       </Row>
       <Row>
         <Cell>
           <Data ss:Type="String">'Ann avg 1991 - 1999</Data>
         </Cell>
-        <Cell ss:Index="3" ss:Formula="=RATE(COUNTIF(@SDF!R9C4, R[-14]C:R[-6]C)-1, 0, -R[-14]C, R[-6]C)">
-          <Data ss:Type="Error">#NUM!</Data>
+        <Cell ss:Index="3" ss:Formula="=RATE(COUNTIF(@SDF!R1C4, R[-14]C:R[-6]C)-1, 0, -R[-14]C, R[-6]C, 0, 0.1)">
+          <Data ss:Type="Number">0.0243644312955439</Data>
         </Cell>
-        <Cell ss:Index="5" ss:Formula="=RATE(COUNTIF(@SDF!R9C4, R[-14]C:R[-6]C)-1, 0, -R[-14]C, R[-6]C)">
-          <Data ss:Type="Error">#NUM!</Data>
+        <Cell ss:Index="5" ss:Formula="=RATE(COUNTIF(@SDF!R1C4, R[-14]C:R[-6]C)-1, 0, -R[-14]C, R[-6]C, 0, 0.1)">
+          <Data ss:Type="Number">0.0243644312955439</Data>
         </Cell>
-        <Cell ss:Index="7" ss:Formula="=RATE(COUNTIF(@SDF!R9C4, R[-14]C:R[-6]C)-1, 0, -R[-14]C, R[-6]C)">
-          <Data ss:Type="Error">#NUM!</Data>
+        <Cell ss:Index="7" ss:Formula="=RATE(COUNTIF(@SDF!R1C4, R[-14]C:R[-6]C)-1, 0, -R[-14]C, R[-6]C, 0, 0.1)">
+          <Data ss:Type="Number">0.036185538675636</Data>
         </Cell>
-        <Cell ss:Index="9" ss:Formula="=RATE(COUNTIF(@SDF!R9C4, R[-14]C:R[-6]C)-1, 0, -R[-14]C, R[-6]C)">
-          <Data ss:Type="Error">#NUM!</Data>
+        <Cell ss:Index="9" ss:Formula="=RATE(COUNTIF(@SDF!R1C4, R[-14]C:R[-6]C)-1, 0, -R[-14]C, R[-6]C, 0, 0.1)">
+          <Data ss:Type="Number">-0.0114082923159003</Data>
         </Cell>
-        <Cell ss:Index="11" ss:Formula="=RATE(COUNTIF(@SDF!R9C4, R[-14]C:R[-6]C)-1, 0, -R[-14]C, R[-6]C)">
-          <Data ss:Type="Error">#NUM!</Data>
+        <Cell ss:Index="11" ss:Formula="=RATE(COUNTIF(@SDF!R1C4, R[-14]C:R[-6]C)-1, 0, -R[-14]C, R[-6]C, 0, 0.1)">
+          <Data ss:Type="Number">0.0174879941157997</Data>
         </Cell>
-        <Cell ss:Index="13" ss:Formula="=RATE(COUNTIF(@SDF!R9C4, R[-14]C:R[-6]C)-1, 0, -R[-14]C, R[-6]C)">
-          <Data ss:Type="Error">#NUM!</Data>
+        <Cell ss:Index="13" ss:Formula="=RATE(COUNTIF(@SDF!R1C4, R[-14]C:R[-6]C)-1, 0, -R[-14]C, R[-6]C, 0, 0.1)">
+          <Data ss:Type="Number">-0.0283996338024736</Data>
         </Cell>
-        <Cell ss:Index="15" ss:Formula="=RATE(COUNTIF(@SDF!R9C4, R[-14]C:R[-6]C)-1, 0, -R[-14]C, R[-6]C)">
-          <Data ss:Type="Error">#NUM!</Data>
+        <Cell ss:Index="15" ss:Formula="=RATE(COUNTIF(@SDF!R1C4, R[-14]C:R[-6]C)-1, 0, -R[-14]C, R[-6]C, 0, 0.1)">
+          <Data ss:Type="Number">0.0154985944740474</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(COUNTIF(@SDF!R9C4, R[-14]C:R[-6]C)-1, 0, -R[-14]C, R[-6]C)">
-          <Data ss:Type="Error">#NUM!</Data>
+        <Cell ss:Formula="=RATE(COUNTIF(@SDF!R1C4, R[-14]C:R[-6]C)-1, 0, -R[-14]C, R[-6]C, 0, 0.1)">
+          <Data ss:Type="Number">-0.0264962321147323</Data>
         </Cell>
       </Row>
       <Row>
@@ -10207,152 +10207,1499 @@
     </Table>
     <WorksheetOptions />
   </Worksheet>
-  <Worksheet ss:Name="@SDF">
-    <Table ss:ExpandedColumnCount="20" ss:ExpandedRowCount="1000" x:FullColumns="1" x:FullRows="1">
+  <Worksheet ss:Name="@tvm">
+    <Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="95" x:FullColumns="1" x:FullRows="1">
       <Row>
-        <Cell ss:Index="2">
-          <Data ss:Type="String">'Formula from: https://www.excelforum.com/excel-general/559235-interest-rate-mathematical-formula.html</Data>
+        <Cell>
+          <Data ss:Type="String">'_fvfactor</Data>
+        </Cell>
+        <Cell ss:Formula="=DEFINE(&quot;_fvfactor&quot;, R[+3]C, R[+2]C[-1], R[+2]C)">
+          <Data ss:Type="String">FUN _FVFACTOR AT #0</Data>
         </Cell>
       </Row>
       <Row>
-        <Cell ss:Index="3">
-          <Data ss:Type="String">'n</Data>
+        <Cell>
+          <Data ss:Type="String">'r</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'nper</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">200</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Result:</Data>
+        </Cell>
+        <Cell ss:Formula="=(1+R[-1]C[-1])^R[-1]C">
+          <Data ss:Type="Number">1.68115259631983E+29</Data>
+        </Cell>
+      </Row>
+      <Row ss:Index="6">
+        <Cell>
+          <Data ss:Type="String">'_pvfactor</Data>
+        </Cell>
+        <Cell ss:Formula="=DEFINE(&quot;_pvfactor&quot;, R[+3]C, R[+2]C[-1], R[+2]C)">
+          <Data ss:Type="String">FUN _PVFACTOR AT #1</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'r</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'nper</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">12</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">24</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Result:</Data>
+        </Cell>
+        <Cell ss:Formula="=1/_FVFACTOR(R[-1]C[-1], R[-1]C)">
+          <Data ss:Type="Number">1.84229657469038E-27</Data>
+        </Cell>
+      </Row>
+      <Row ss:Index="11">
+        <Cell>
+          <Data ss:Type="String">'_annuitycertainpvfactor</Data>
+        </Cell>
+        <Cell ss:Formula="=DEFINE(&quot;_annuitycertainpvfactor&quot;, R[+3]C, R[+2]C[-1], R[+2]C, R[+2]C[+1])">
+          <Data ss:Type="String">FUN _ANNUITYCERTAINPVFACTOR AT #2</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'r</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'nper</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'pd</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.006667</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">240</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Result:</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(R[-1]C[-1]=0, R[-1]C, (1+R[-1]C[-1]*R[-1]C[+1])*(1-_PVFACTOR(R[-1]C[-1], R[-1]C))/R[-1]C[-1])">
+          <Data ss:Type="Number">119.550733595645</Data>
+        </Cell>
+      </Row>
+      <Row ss:Index="16">
+        <Cell>
+          <Data ss:Type="String">'_annuitycertainfvfactor</Data>
+        </Cell>
+        <Cell ss:Formula="=DEFINE(&quot;_annuitycertainfvfactor&quot;, R[+3]C, R[+2]C[-1], R[+2]C, R[+2]C[+1])">
+          <Data ss:Type="String">FUN _ANNUITYCERTAINFVFACTOR AT #3</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'r</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'nper</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'pd</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">12</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">42</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">12</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Result:</Data>
+        </Cell>
+        <Cell ss:Formula="=_ANNUITYCERTAINPVFACTOR(R[-1]C[-1], R[-1]C, R[-1]C[+1])*_FVFACTOR(R[-1]C[-1], R[-1]C)">
+          <Data ss:Type="Number">7.3757731844262E+47</Data>
+        </Cell>
+      </Row>
+      <Row ss:Index="21">
+        <Cell>
+          <Data ss:Type="String">'_nperfactor</Data>
+        </Cell>
+        <Cell ss:Formula="=DEFINE(&quot;_nperfactor&quot;, R[+3]C, R[+2]C[-1], R[+2]C, R[+2]C[+1], R[+2]C[+2])">
+          <Data ss:Type="String">FUN _NPERFACTOR AT #4</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'r</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">'pmt</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">'pv</Data>
+          <Data ss:Type="String">'v</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">'j</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">'num</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">'den</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">'r</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">'FV is ignored</Data>
+          <Data ss:Type="String">'pd</Data>
         </Cell>
       </Row>
       <Row>
-        <Cell ss:Formula="=DEFINE(&quot;RATE&quot;, RC[+1], RC[+2], RC[+3], RC[+4], RC[+9])">
-          <Data ss:Type="String">FUN RATE AT #0</Data>
+        <Cell>
+          <Data ss:Type="Number">1</Data>
         </Cell>
-        <Cell ss:Formula="=IRATE(R[+1]C[+1], R[+1]C[+2], R[+1]C[+3], R[+1]C[+4], R[+1]C[+5], R[+1]C[+6], R[+1]C[+7])">
-          <Data ss:Type="Number">-0.938554746777802</Data>
+        <Cell>
+          <Data ss:Type="Number">23</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">4</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="Number">-200</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="Number">8000</Data>
-        </Cell>
-        <Cell ss:Index="9" ss:Formula="=RC[-5]/RC[-4]">
-          <Data ss:Type="Number">-0.025</Data>
+          <Data ss:Type="Number">1</Data>
         </Cell>
       </Row>
       <Row>
-        <Cell ss:Index="3" ss:Formula="=R[-1]C">
-          <Data ss:Type="Number">4</Data>
+        <Cell>
+          <Data ss:Type="String">'Result</Data>
         </Cell>
-        <Cell ss:Formula="=R[-1]C">
-          <Data ss:Type="Number">-200</Data>
+        <Cell ss:Formula="=R[-1]C[+1]*R[-1]C[-1]+R[-1]C*(1+R[-1]C[-1]*R[-1]C[+2])">
+          <Data ss:Type="Number">50</Data>
         </Cell>
-        <Cell ss:Formula="=R[-1]C">
-          <Data ss:Type="Number">8000</Data>
+      </Row>
+      <Row ss:Index="26">
+        <Cell>
+          <Data ss:Type="String">'PV(rate,nper,pmt,fv,type)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Returns the present value of an investment. The present value is the total amount that a series of future payments is worth now</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Formula="=DEFINE(&quot;_pv&quot;, R[+3]C[+1], R[+2]C, R[+2]C[+1], R[+2]C[+2], R[+2]C[+3], R[+2]C[+4])">
+          <Data ss:Type="String">FUN _PV AT #5</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'rate =</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Nper =</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'pmt =</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'fv =</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'type =</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.006667</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">240</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">500</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">0</Data>
         </Cell>
-        <Cell ss:Formula="=R[-1]C[-3]*(R[-1]C[+2]+1)*(R[-1]C[+2]+1)^(R[-1]C[-4]-1)^2-R[-1]C[-4]*R[-1]C[-2]*R[-1]C[+2]^2*(R[-1]C[+2]+1)^R[-1]C[-4]">
-          <Data ss:Type="Number">-185.592076512451</Data>
-        </Cell>
-        <Cell ss:Formula="=(R[-1]C[+1]+1)^R[-1]C[-5]*(R[-1]C[-3]*(R[-1]C[+1]+1)^(R[-1]C[-5]+1)-R[-1]C[-3]*(R[-1]C[-5]*R[-1]C[+1]+R[-1]C[+1]+1))">
-          <Data ss:Type="Number">44.0688341906424</Data>
-        </Cell>
-        <Cell ss:Formula="=RC[-2]/RC[-1]">
-          <Data ss:Type="Number">-4.21141334734604</Data>
+        <Cell>
+          <Data ss:Type="Number">0</Data>
         </Cell>
       </Row>
-      <Row ss:Index="6">
-        <Cell ss:Formula="=DEFINE(&quot;IRATE&quot;, RC[+1], RC[+2], RC[+3], RC[+4], RC[+5], RC[+6], RC[+7], RC[+8])">
-          <Data ss:Type="String">FUN IRATE AT #1</Data>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Result:</Data>
         </Cell>
-        <Cell ss:Formula="=IF(R[+1]C[+4]&gt;=10, RC[+7], IRATE(R[+1]C[+1], R[+1]C[+2], R[+1]C[+3], R[+1]C[+4], R[+1]C[+5], R[+1]C[+6], R[+1]C[+7]))">
-          <Data ss:Type="Number">-0.91740708779961</Data>
+        <Cell ss:Formula="=-(R[-1]C[+2]*_PVFACTOR(R[-1]C[-1], R[-1]C)+R[-1]C[+1]*_ANNUITYCERTAINPVFACTOR(R[-1]C[-1], R[-1]C, R[-1]C[+3]))">
+          <Data ss:Type="Number">-59775.3667978226</Data>
+        </Cell>
+      </Row>
+      <Row ss:Index="34">
+        <Cell>
+          <Data ss:Type="String">'FV(r,nper,pmt, pv, type)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Returns the future value of an investment based on periodic, constant payments and constant interest rate</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Formula="=DEFINE(&quot;_fv&quot;, R[+3]C[+1], R[+2]C, R[+2]C[+1], R[+2]C[+2], R[+2]C[+3], R[+2]C[+4])">
+          <Data ss:Type="String">FUN _FV AT #6</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="Number">4</Data>
+          <Data ss:Type="String">'Helper FV</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'rate =</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'nper =</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'pmt =</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'pv =</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'type =</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.005</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">120</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">-200</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="Number">8000</Data>
+          <Data ss:Type="Number">-500</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">1</Data>
         </Cell>
+      </Row>
+      <Row>
         <Cell>
-          <Data ss:Type="Number">-185</Data>
+          <Data ss:Type="String">'Result:</Data>
         </Cell>
-        <Cell>
-          <Data ss:Type="Number">44</Data>
+        <Cell ss:Formula="=-(R[-1]C[+2]*_FVFACTOR(R[-1]C[-1], R[-1]C)+R[-1]C[+1]*_ANNUITYCERTAINFVFACTOR(R[-1]C[-1], R[-1]C, R[-1]C[+3]))">
+          <Data ss:Type="Number">33849.4470751142</Data>
         </Cell>
+      </Row>
+      <Row ss:Index="43">
         <Cell>
-          <Data ss:Type="Number">-4.21</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">"&lt;- Input"</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">"One iterative step"</Data>
+          <Data ss:Type="String">'PMT(r,nper,pv,fv,type)</Data>
         </Cell>
       </Row>
       <Row>
-        <Cell ss:Index="3" ss:Formula="=R[-1]C">
-          <Data ss:Type="Number">4</Data>
-        </Cell>
-        <Cell ss:Formula="=R[-1]C">
-          <Data ss:Type="Number">-200</Data>
-        </Cell>
-        <Cell ss:Formula="=R[-1]C">
-          <Data ss:Type="Number">8000</Data>
-        </Cell>
-        <Cell ss:Formula="=R[-1]C+1">
-          <Data ss:Type="Number">2</Data>
-        </Cell>
-        <Cell ss:Formula="=R[-1]C[-3]*(R[-1]C[+2]+1)*(R[-1]C[+2]+1)^(R[-1]C[-4]-1)^2-R[-1]C[-4]*R[-1]C[-2]*R[-1]C[+2]^2*(R[-1]C[+2]+1)^R[-1]C[-4]">
-          <Data ss:Type="Number">-59516736.6038882</Data>
-        </Cell>
-        <Cell ss:Formula="=(R[-1]C[+1]+1)^R[-1]C[-5]*(R[-1]C[-3]*(R[-1]C[+1]+1)^(R[-1]C[-5]+1)-R[-1]C[-3]*(R[-1]C[-5]*R[-1]C[+1]+R[-1]C[+1]+1))">
-          <Data ss:Type="Number">-272460755.344203</Data>
-        </Cell>
-        <Cell ss:Formula="=RC[-2]/RC[-1]">
-          <Data ss:Type="Number">0.218441501891529</Data>
-        </Cell>
         <Cell>
-          <Data ss:Type="String">"&lt;- output"</Data>
+          <Data ss:Type="String">'Calculates the payment for a loan based on constant payments and a constant interest rate.</Data>
         </Cell>
       </Row>
-      <Row ss:Index="9">
-        <Cell ss:Formula="=DEFINE(&quot;F1&quot;, RC[+1], RC[+2])">
-          <Data ss:Type="String">FUN F1 AT #2</Data>
+      <Row>
+        <Cell ss:Formula="=DEFINE(&quot;_pmt&quot;, R[+3]C[+1], R[+2]C, R[+2]C[+1], R[+2]C[+2], R[+2]C[+3], R[+2]C[+4])">
+          <Data ss:Type="String">FUN _PMT AT #7</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'rate =</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'nper =</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'pv =</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'fv =</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'type =</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00666666667</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">10</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">10000</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Result:</Data>
+        </Cell>
+        <Cell ss:Formula="=-(R[-1]C[+1]+R[-1]C[+2]*_PVFACTOR(R[-1]C[-1], R[-1]C))/_ANNUITYCERTAINPVFACTOR(R[-1]C[-1], R[-1]C, R[-1]C[+3])">
+          <Data ss:Type="Number">-1037.03208937786</Data>
+        </Cell>
+      </Row>
+      <Row ss:Index="52">
+        <Cell>
+          <Data ss:Type="String">'NPER(rate,pmt, pv, fv, type)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Returns the number of periods for an investment based on periodic, constant payments and a constant interest rate.</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Formula="=DEFINE(&quot;_nper&quot;, R[+3]C[+1], R[+2]C, R[+2]C[+1], R[+2]C[+2], R[+2]C[+3], R[+2]C[+4])">
+          <Data ss:Type="String">FUN _NPER AT #8</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'rate:</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'pmt:</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'pv:</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'fv:</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'type:</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.01</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">-100</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">-1000</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Result:</Data>
+        </Cell>
+        <Cell ss:Formula="=LN(_NPERFACTOR(R[-1]C[-1], R[-1]C, -R[-1]C[+2], R[-1]C[+3])/_NPERFACTOR(R[-1]C[-1], R[-1]C, R[-1]C[+1], R[-1]C[+3]))/LN(R[-1]C[-1]+1)">
+          <Data ss:Type="Number">-9.57859403981316</Data>
+        </Cell>
+      </Row>
+      <Row ss:Index="60">
+        <Cell>
+          <Data ss:Type="String">'RATE(nper, pmt, pv, fv, type, guess)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Returns the interest rate per period of an annuity. RATE is calculated by iteration and can have zero or more solutions.</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Formula="=DEFINE(&quot;RATE&quot;, R[+6]C[+3], R[+1]C[+1], R[+2]C[+1], R[+3]C[+1], R[+4]C[+1], R[+5]C[+1], R[+6]C[+1])">
+          <Data ss:Type="String">FUN RATE AT #9</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'nper =</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">48</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'pmt =</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">-200</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'pv =</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">8000</Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">'Helper function to switch rate to last position. (Currently Closures don't support in between arguments to be missing)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'fv =</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0</Data>
+        </Cell>
+        <Cell ss:Index="4" ss:Formula="=DEFINE(&quot;sfv&quot;, R[-27]C[-2], R[-28]C[-2], R[-28]C[-1], R[-28]C, R[-28]C[+1], R[-28]C[-3])">
+          <Data ss:Type="String">FUN SFV AT #10</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'type =</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="String">'Excel Builtin</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'guess =</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0.1</Data>
+        </Cell>
+        <Cell ss:Index="4" ss:Formula="=GOALSEEK(CLOSURE(&quot;sfv&quot;, R[-5]C[-2], R[-4]C[-2], R[-3]C[-2], R[-1]C[-2], NA()), R[-2]C[-2], RC[-2])">
+          <Data ss:Type="Number">0.00770147247239947</Data>
+        </Cell>
+        <Cell ss:Index="6" ss:Formula="=RATE(R[-5]C[-4], R[-4]C[-4], R[-3]C[-4], R[-2]C[-4], R[-1]C[-4], RC[-4])">
+          <Data ss:Type="Number">0.00770147247239947</Data>
+        </Cell>
+      </Row>
+      <Row ss:Index="71">
+        <Cell>
+          <Data ss:Type="String">'FVSCHEDULE( principal, schedule)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Returns the future value of an initial principal after applying a series of compound interest rates</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Formula="=DEFINE(&quot;_fvschedule&quot;, R[+4]C[+4], R[+1]C[+1], R[+1]C[+2])">
+          <Data ss:Type="String">FUN _FVSCHEDULE AT #11</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Helper function</Data>
+        </Cell>
+        <Cell ss:Formula="=DEFINE(&quot;_recfv&quot;, R[+4]C, R[+3]C, R[+2]C, R[+1]C)">
+          <Data ss:Type="String">FUN _RECFV AT #12</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'principal =</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Formula="=R[+1]C[-1]:R[+3]C[-1]">
+          <Data ss:Type="Error">[[0.09]; 
+ [0.11]; 
+ [0.1]]</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'pos =</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'schedule =</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0.09</Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">'data =</Data>
+        </Cell>
+        <Cell ss:Formula="=R[-1]C[-2]">
+          <Data ss:Type="Error">[[0.09]; 
+ [0.11]; 
+ [0.1]]</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">0.11</Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">'accumulator =</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">0.1</Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">'Result =</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(R[-3]C&gt;ROWS(R[-2]C), R[-1]C, _RECFV(R[-1]C*(1+INDEX(R[-2]C, R[-3]C, 1)), R[-2]C, R[-3]C+1))">
+          <Data ss:Type="Number">1.33089</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="6" ss:Formula="=_FVSCHEDULE(R[-4]C[-4], R[-3]C[-4]:R[-1]C[-4])">
+          <Data ss:Type="Number">1.33089</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Preconditions etc:</Data>
+        </Cell>
+      </Row>
+      <Row ss:Index="82">
+        <Cell>
+          <Data ss:Type="String">'PV</Data>
+        </Cell>
+        <Cell ss:Formula="=DEFINE(&quot;pv&quot;, R[+1]C, R[-52]C[-1], R[-52]C, R[-52]C[+1], R[-52]C[+2], R[-52]C[+3])">
+          <Data ss:Type="String">FUN PV AT #13</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Result:</Data>
+        </Cell>
+        <Cell ss:Formula="=_PV(R[-53]C[-1], R[-53]C, R[-53]C[+1], R[-53]C[+2], R[-53]C[+3])">
+          <Data ss:Type="Number">-59775.3667978226</Data>
+        </Cell>
+      </Row>
+      <Row ss:Index="86">
+        <Cell>
+          <Data ss:Type="String">'FV</Data>
+        </Cell>
+        <Cell ss:Formula="=DEFINE(&quot;fv&quot;, R[+1]C, R[-48]C[-1], R[-48]C, R[-48]C[+1], R[-48]C[+2], R[-48]C[+3])">
+          <Data ss:Type="String">FUN FV AT #14</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Result</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(AND(R[-49]C[-1]=-1, R[-49]C[+3]=1), -(R[-49]C[+2]*_FVFACTOR(R[-49]C[-1], R[-49]C)), IF(AND(R[-49]C[-1]=-1, R[-49]C[+3]=0), -(R[-49]C[+2]*_FVFACTOR(R[-49]C[-1], R[-49]C)+R[-49]C[+1]), _FV(R[-49]C[-1], R[-49]C, R[-49]C[+1], R[-49]C[+2], R[-49]C[+3])))">
+          <Data ss:Type="Number">33849.4470751142</Data>
+        </Cell>
+      </Row>
+      <Row ss:Index="90">
+        <Cell>
+          <Data ss:Type="String">'PMT</Data>
+        </Cell>
+        <Cell ss:Formula="=DEFINE(&quot;pmt&quot;, R[+1]C, R[-43]C[-1], R[-43]C, R[-43]C[+1], R[-43]C[+2], R[-43]C[+3])">
+          <Data ss:Type="String">FUN PMT AT #15</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Result</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(R[-44]C[-1]=-1, -R[-44]C[+2], _PMT(R[-44]C[-1], R[-44]C, R[-44]C[+1], R[-44]C[+2], R[-44]C[+3]))">
+          <Data ss:Type="Number">-1037.03208937786</Data>
+        </Cell>
+      </Row>
+      <Row ss:Index="94">
+        <Cell>
+          <Data ss:Type="String">'NPER</Data>
+        </Cell>
+        <Cell ss:Formula="=DEFINE(&quot;nper&quot;, R[+1]C, R[-38]C[-1], R[-38]C, R[-38]C[+1], R[-38]C[+2], R[-38]C[+3])">
+          <Data ss:Type="String">FUN NPER AT #16</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Result</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(AND(R[-39]C[-1]=0, NOT(R[-39]C)), -(R[-39]C[+2]+R[-39]C[+1])/R[-39]C, _NPER(R[-39]C[-1], R[-39]C, R[-39]C[+1], R[-39]C[+2], R[-39]C[+3]))">
+          <Data ss:Type="Number">-9.57859403981316</Data>
+        </Cell>
+      </Row>
+    </Table>
+    <WorksheetOptions />
+  </Worksheet>
+  <Worksheet ss:Name="@Goalseek">
+    <Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="102" x:FullColumns="1" x:FullRows="1">
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'A non-iterative GOALSEEK(f, target, a)</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="String">'2008-11-16</Data>
+        </Cell>
+      </Row>
+      <Row ss:Index="3">
+        <Cell>
+          <Data ss:Type="String">'FINDEND(f,target,a) = an argument value that gives the opposite sign</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Formula="=DEFINE(&quot;findend&quot;, R[+1]C[+8], R[+1]C[+1], R[+1]C[+3], R[+1]C[+5])">
+          <Data ss:Type="String">FUN FINDEND AT #37</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'f =</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">'target =</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'a =</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=R[+3]C+0">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row ss:Index="7">
+        <Cell>
+          <Data ss:Type="String">'a</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'delta</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'a-delta</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'a+delta</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'f(a-delta)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'f(a+delta)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'OK(a-delta)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'OK(a+delta)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Formula="=R5C6">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0.0001</Data>
+        </Cell>
+        <Cell ss:Formula="=R8C1-RC2">
+          <Data ss:Type="Number">0.9999</Data>
+        </Cell>
+        <Cell ss:Formula="=R8C1+RC2">
+          <Data ss:Type="Number">1.0001</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R5C2, RC[-2])-R5C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R5C2, RC[-2])-R5C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=R9C1*RC[-2]&lt;=0">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=R9C1*RC[-2]&lt;=0">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(RC7, RC3, IF(RC8, RC4, R[+1]C))">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Formula="=APPLY(R5C2, R5C6)-R5C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=R[-1]C*10">
+          <Data ss:Type="Number">0.001</Data>
+        </Cell>
+        <Cell ss:Formula="=R8C1-RC2">
+          <Data ss:Type="Number">0.999</Data>
+        </Cell>
+        <Cell ss:Formula="=R8C1+RC2">
+          <Data ss:Type="Number">1.001</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R5C2, RC[-2])-R5C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R5C2, RC[-2])-R5C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=R9C1*RC[-2]&lt;=0">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=R9C1*RC[-2]&lt;=0">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(RC7, RC3, IF(RC8, RC4, R[+1]C))">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2" ss:Formula="=R[-1]C*10">
+          <Data ss:Type="Number">0.01</Data>
+        </Cell>
+        <Cell ss:Formula="=R8C1-RC2">
+          <Data ss:Type="Number">0.99</Data>
+        </Cell>
+        <Cell ss:Formula="=R8C1+RC2">
+          <Data ss:Type="Number">1.01</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R5C2, RC[-2])-R5C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R5C2, RC[-2])-R5C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=R9C1*RC[-2]&lt;=0">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=R9C1*RC[-2]&lt;=0">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(RC7, RC3, IF(RC8, RC4, R[+1]C))">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2" ss:Formula="=R[-1]C*10">
+          <Data ss:Type="Number">0.1</Data>
+        </Cell>
+        <Cell ss:Formula="=R8C1-RC2">
+          <Data ss:Type="Number">0.9</Data>
+        </Cell>
+        <Cell ss:Formula="=R8C1+RC2">
+          <Data ss:Type="Number">1.1</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R5C2, RC[-2])-R5C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R5C2, RC[-2])-R5C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=R9C1*RC[-2]&lt;=0">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=R9C1*RC[-2]&lt;=0">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(RC7, RC3, IF(RC8, RC4, R[+1]C))">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2" ss:Formula="=R[-1]C*10">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Formula="=R8C1-RC2">
+          <Data ss:Type="Number">0</Data>
+        </Cell>
+        <Cell ss:Formula="=R8C1+RC2">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R5C2, RC[-2])-R5C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R5C2, RC[-2])-R5C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=R9C1*RC[-2]&lt;=0">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=R9C1*RC[-2]&lt;=0">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(RC7, RC3, IF(RC8, RC4, R[+1]C))">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2" ss:Formula="=R[-1]C*10">
+          <Data ss:Type="Number">10</Data>
+        </Cell>
+        <Cell ss:Formula="=R8C1-RC2">
+          <Data ss:Type="Number">-9</Data>
+        </Cell>
+        <Cell ss:Formula="=R8C1+RC2">
+          <Data ss:Type="Number">11</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R5C2, RC[-2])-R5C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R5C2, RC[-2])-R5C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=R9C1*RC[-2]&lt;=0">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=R9C1*RC[-2]&lt;=0">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(RC7, RC3, IF(RC8, RC4, R[+1]C))">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2" ss:Formula="=R[-1]C*10">
+          <Data ss:Type="Number">100</Data>
+        </Cell>
+        <Cell ss:Formula="=R8C1-RC2">
+          <Data ss:Type="Number">-99</Data>
+        </Cell>
+        <Cell ss:Formula="=R8C1+RC2">
+          <Data ss:Type="Number">101</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R5C2, RC[-2])-R5C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R5C2, RC[-2])-R5C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=R9C1*RC[-2]&lt;=0">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=R9C1*RC[-2]&lt;=0">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(RC7, RC3, IF(RC8, RC4, R[+1]C))">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2" ss:Formula="=R[-1]C*10">
+          <Data ss:Type="Number">1000</Data>
+        </Cell>
+        <Cell ss:Formula="=R8C1-RC2">
+          <Data ss:Type="Number">-999</Data>
+        </Cell>
+        <Cell ss:Formula="=R8C1+RC2">
+          <Data ss:Type="Number">1001</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R5C2, RC[-2])-R5C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R5C2, RC[-2])-R5C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=R9C1*RC[-2]&lt;=0">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=R9C1*RC[-2]&lt;=0">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(RC7, RC3, IF(RC8, RC4, R[+1]C))">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2" ss:Formula="=R[-1]C*10">
+          <Data ss:Type="Number">10000</Data>
+        </Cell>
+        <Cell ss:Formula="=R8C1-RC2">
+          <Data ss:Type="Number">-9999</Data>
+        </Cell>
+        <Cell ss:Formula="=R8C1+RC2">
+          <Data ss:Type="Number">10001</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R5C2, RC[-2])-R5C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R5C2, RC[-2])-R5C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=R9C1*RC[-2]&lt;=0">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=R9C1*RC[-2]&lt;=0">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(RC7, RC3, IF(RC8, RC4, R[+1]C))">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2" ss:Formula="=R[-1]C*10">
+          <Data ss:Type="Number">100000</Data>
+        </Cell>
+        <Cell ss:Formula="=R8C1-RC2">
+          <Data ss:Type="Number">-99999</Data>
+        </Cell>
+        <Cell ss:Formula="=R8C1+RC2">
+          <Data ss:Type="Number">100001</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R5C2, RC[-2])-R5C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R5C2, RC[-2])-R5C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=R9C1*RC[-2]&lt;=0">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=R9C1*RC[-2]&lt;=0">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(RC7, RC3, IF(RC8, RC4, ERR(&quot;No zero crossing found&quot;)))">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row ss:Index="19">
+        <Cell>
+          <Data ss:Type="String">'GOALSEEK(f, target, a) = x s.t. f(x)=target</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Formula="=DEFINE(&quot;goalseek&quot;, R[+37]C[+3], R[+1]C[+1], R[+1]C[+3], R[+1]C[+5])">
+          <Data ss:Type="String">FUN GOALSEEK AT #38</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'f = </Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">'target = </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'a = </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+      </Row>
+      <Row ss:Index="23">
+        <Cell ss:Index="2">
+          <Data ss:Type="String">'a0</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'b0</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'f(a0)-target</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'f(b0)-target</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2" ss:Formula="=R21C6">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Formula="=FINDEND(R21C2, R21C4, RC[-1])">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R21C2, RC[-2])-R21C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R21C2, RC[-2])-R21C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row ss:Index="26">
+        <Cell ss:Index="2">
+          <Data ss:Type="String">'Invariant: f(ai)&lt;=target&lt;=f(bi)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">'ai</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'bi</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'xi=(ai+bi)/2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'f(xi)-target</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2" ss:Formula="=IF(R24C4&lt;=0, R[-4]C, R[-4]C[+1])">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(R24C4&lt;=0, R[-4]C, R[-4]C[-1])">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-2]+RC[-1])/2">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R21C2, RC[-1])-R21C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2" ss:Formula="=IF(R[-1]C5&lt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(R[-1]C5&gt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-2]+RC[-1])/2">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R21C2, RC[-1])-R21C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2" ss:Formula="=IF(R[-1]C5&lt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(R[-1]C5&gt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-2]+RC[-1])/2">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R21C2, RC[-1])-R21C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2" ss:Formula="=IF(R[-1]C5&lt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(R[-1]C5&gt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-2]+RC[-1])/2">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R21C2, RC[-1])-R21C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2" ss:Formula="=IF(R[-1]C5&lt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(R[-1]C5&gt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-2]+RC[-1])/2">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R21C2, RC[-1])-R21C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2" ss:Formula="=IF(R[-1]C5&lt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(R[-1]C5&gt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-2]+RC[-1])/2">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R21C2, RC[-1])-R21C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2" ss:Formula="=IF(R[-1]C5&lt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(R[-1]C5&gt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-2]+RC[-1])/2">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R21C2, RC[-1])-R21C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2" ss:Formula="=IF(R[-1]C5&lt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(R[-1]C5&gt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-2]+RC[-1])/2">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R21C2, RC[-1])-R21C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2" ss:Formula="=IF(R[-1]C5&lt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(R[-1]C5&gt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-2]+RC[-1])/2">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R21C2, RC[-1])-R21C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2" ss:Formula="=IF(R[-1]C5&lt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(R[-1]C5&gt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-2]+RC[-1])/2">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R21C2, RC[-1])-R21C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2" ss:Formula="=IF(R[-1]C5&lt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(R[-1]C5&gt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-2]+RC[-1])/2">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R21C2, RC[-1])-R21C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2" ss:Formula="=IF(R[-1]C5&lt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(R[-1]C5&gt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-2]+RC[-1])/2">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R21C2, RC[-1])-R21C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2" ss:Formula="=IF(R[-1]C5&lt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(R[-1]C5&gt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-2]+RC[-1])/2">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R21C2, RC[-1])-R21C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2" ss:Formula="=IF(R[-1]C5&lt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(R[-1]C5&gt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-2]+RC[-1])/2">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R21C2, RC[-1])-R21C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2" ss:Formula="=IF(R[-1]C5&lt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(R[-1]C5&gt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-2]+RC[-1])/2">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R21C2, RC[-1])-R21C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2" ss:Formula="=IF(R[-1]C5&lt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(R[-1]C5&gt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-2]+RC[-1])/2">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R21C2, RC[-1])-R21C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2" ss:Formula="=IF(R[-1]C5&lt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(R[-1]C5&gt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-2]+RC[-1])/2">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R21C2, RC[-1])-R21C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2" ss:Formula="=IF(R[-1]C5&lt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(R[-1]C5&gt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-2]+RC[-1])/2">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R21C2, RC[-1])-R21C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2" ss:Formula="=IF(R[-1]C5&lt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(R[-1]C5&gt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-2]+RC[-1])/2">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R21C2, RC[-1])-R21C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2" ss:Formula="=IF(R[-1]C5&lt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(R[-1]C5&gt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-2]+RC[-1])/2">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R21C2, RC[-1])-R21C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2" ss:Formula="=IF(R[-1]C5&lt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(R[-1]C5&gt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-2]+RC[-1])/2">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R21C2, RC[-1])-R21C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2" ss:Formula="=IF(R[-1]C5&lt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(R[-1]C5&gt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-2]+RC[-1])/2">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R21C2, RC[-1])-R21C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2" ss:Formula="=IF(R[-1]C5&lt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(R[-1]C5&gt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-2]+RC[-1])/2">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R21C2, RC[-1])-R21C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2" ss:Formula="=IF(R[-1]C5&lt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(R[-1]C5&gt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-2]+RC[-1])/2">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R21C2, RC[-1])-R21C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2" ss:Formula="=IF(R[-1]C5&lt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(R[-1]C5&gt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-2]+RC[-1])/2">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R21C2, RC[-1])-R21C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2" ss:Formula="=IF(R[-1]C5&lt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(R[-1]C5&gt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-2]+RC[-1])/2">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R21C2, RC[-1])-R21C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2" ss:Formula="=IF(R[-1]C5&lt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(R[-1]C5&gt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-2]+RC[-1])/2">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R21C2, RC[-1])-R21C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2" ss:Formula="=IF(R[-1]C5&lt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(R[-1]C5&gt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-2]+RC[-1])/2">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R21C2, RC[-1])-R21C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2" ss:Formula="=IF(R[-1]C5&lt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(R[-1]C5&gt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-2]+RC[-1])/2">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R21C2, RC[-1])-R21C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2" ss:Formula="=IF(R[-1]C5&lt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=IF(R[-1]C5&gt;=0, R[-1]C4, R[-1]C)">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-2]+RC[-1])/2">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+        <Cell ss:Formula="=APPLY(R21C2, RC[-1])-R21C4">
+          <Data ss:Type="Error">#EMPTY!</Data>
+        </Cell>
+      </Row>
+    </Table>
+    <WorksheetOptions />
+  </Worksheet>
+  <Worksheet ss:Name="@SDF">
+    <Table ss:ExpandedColumnCount="20" ss:ExpandedRowCount="1000" x:FullColumns="1" x:FullRows="1">
+      <Row>
+        <Cell ss:Formula="=DEFINE(&quot;F&quot;, RC[+1], RC[+2])">
+          <Data ss:Type="String">FUN F AT #39</Data>
         </Cell>
         <Cell ss:Formula="=1">
           <Data ss:Type="Number">1</Data>
         </Cell>
-        <Cell ss:Index="4" ss:Formula="=CLOSURE(&quot;F1&quot;)">
-          <Data ss:Type="Error">F1</Data>
+        <Cell ss:Index="4" ss:Formula="=CLOSURE(&quot;F&quot;)">
+          <Data ss:Type="Error">F</Data>
         </Cell>
       </Row>
     </Table>
