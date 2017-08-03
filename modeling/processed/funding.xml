@@ -195,14 +195,14 @@
         <Cell>
           <Data ss:Type="Number">1</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6], 0, 0.1)">
+          <Data ss:Type="Number">-0.0251175878569484</Data>
         </Cell>
         <Cell ss:Index="22">
           <Data ss:Type="Number">1</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7], 0, 0.1)">
+          <Data ss:Type="Number">0.0133360267616808</Data>
         </Cell>
       </Row>
       <Row>
@@ -248,14 +248,14 @@
         <Cell>
           <Data ss:Type="Number">2</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6], 0, 0.1)">
+          <Data ss:Type="Number">-0.0242660926654935</Data>
         </Cell>
         <Cell ss:Index="22">
           <Data ss:Type="Number">2</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7], 0, 0.1)">
+          <Data ss:Type="Number">-0.0239953609183431</Data>
         </Cell>
       </Row>
       <Row>
@@ -301,14 +301,14 @@
         <Cell>
           <Data ss:Type="Number">3</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6], 0, 0.1)">
+          <Data ss:Type="Number">-0.0187991024926305</Data>
         </Cell>
         <Cell ss:Index="22">
           <Data ss:Type="Number">3</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7], 0, 0.1)">
+          <Data ss:Type="Number">-0.0394694736227393</Data>
         </Cell>
       </Row>
       <Row>
@@ -354,14 +354,14 @@
         <Cell>
           <Data ss:Type="Number">4</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6], 0, 0.1)">
+          <Data ss:Type="Number">-0.0170383272692561</Data>
         </Cell>
         <Cell ss:Index="22">
           <Data ss:Type="Number">4</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7], 0, 0.1)">
+          <Data ss:Type="Number">-0.0410527555271983</Data>
         </Cell>
       </Row>
       <Row>
@@ -407,14 +407,14 @@
         <Cell>
           <Data ss:Type="Number">5</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6], 0, 0.1)">
+          <Data ss:Type="Number">0.00666880002245307</Data>
         </Cell>
         <Cell ss:Index="22">
           <Data ss:Type="Number">5</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7], 0, 0.1)">
+          <Data ss:Type="Number">-0.0198725765570998</Data>
         </Cell>
       </Row>
       <Row>
@@ -463,14 +463,14 @@
         <Cell>
           <Data ss:Type="Number">6</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6], 0, 0.1)">
+          <Data ss:Type="Number">0.000415082555264235</Data>
         </Cell>
         <Cell ss:Index="22">
           <Data ss:Type="Number">6</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7], 0, 0.1)">
+          <Data ss:Type="Number">-0.0120726549997926</Data>
         </Cell>
       </Row>
       <Row>
@@ -516,14 +516,14 @@
         <Cell>
           <Data ss:Type="Number">7</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6], 0, 0.1)">
+          <Data ss:Type="Number">-0.00298136528581381</Data>
         </Cell>
         <Cell ss:Index="22">
           <Data ss:Type="Number">7</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7], 0, 0.1)">
+          <Data ss:Type="Number">-0.0130022527649999</Data>
         </Cell>
       </Row>
       <Row>
@@ -569,14 +569,14 @@
         <Cell>
           <Data ss:Type="Number">8</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6], 0, 0.1)">
+          <Data ss:Type="Number">-0.00390500258654357</Data>
         </Cell>
         <Cell ss:Index="22">
           <Data ss:Type="Number">8</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7], 0, 0.1)">
+          <Data ss:Type="Number">-0.0116252606734634</Data>
         </Cell>
       </Row>
       <Row>
@@ -625,14 +625,14 @@
         <Cell>
           <Data ss:Type="Number">9</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6], 0, 0.1)">
+          <Data ss:Type="Number">-0.010311578027904</Data>
         </Cell>
         <Cell ss:Index="22">
           <Data ss:Type="Number">9</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7], 0, 0.1)">
+          <Data ss:Type="Number">-0.0175215961411595</Data>
         </Cell>
       </Row>
       <Row>
@@ -678,14 +678,14 @@
         <Cell>
           <Data ss:Type="Number">10</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6], 0, 0.1)">
+          <Data ss:Type="Number">-0.0151803368702531</Data>
         </Cell>
         <Cell ss:Index="22">
           <Data ss:Type="Number">10</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7], 0, 0.1)">
+          <Data ss:Type="Number">-0.0223934972658753</Data>
         </Cell>
       </Row>
       <Row>
@@ -734,14 +734,14 @@
         <Cell>
           <Data ss:Type="Number">11</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6], 0, 0.1)">
+          <Data ss:Type="Number">-0.0188594764098525</Data>
         </Cell>
         <Cell ss:Index="22">
           <Data ss:Type="Number">11</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7], 0, 0.1)">
+          <Data ss:Type="Number">-0.0225472697988153</Data>
         </Cell>
       </Row>
       <Row>
@@ -790,26 +790,26 @@
         <Cell>
           <Data ss:Type="Number">12</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6], 0, 0.1)">
+          <Data ss:Type="Number">-0.0146763684228063</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">1</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-8], RC[-8])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-8], RC[-8], 0, 0.1)">
+          <Data ss:Type="Number">0.0325317959301174</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">12</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7], 0, 0.1)">
+          <Data ss:Type="Number">-0.0184145854786038</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">1</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-9], RC[-9])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-9], RC[-9], 0, 0.1)">
+          <Data ss:Type="Number">0.0282145590521395</Data>
         </Cell>
       </Row>
       <Row>
@@ -858,26 +858,26 @@
         <Cell>
           <Data ss:Type="Number">13</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6], 0, 0.1)">
+          <Data ss:Type="Number">-0.0162399956956506</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">2</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-8], RC[-8])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-8], RC[-8], 0, 0.1)">
+          <Data ss:Type="Number">-0.00170734953135253</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">13</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7], 0, 0.1)">
+          <Data ss:Type="Number">-0.0198863526806235</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">2</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-9], RC[-9])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-9], RC[-9], 0, 0.1)">
+          <Data ss:Type="Number">-0.00512130055576564</Data>
         </Cell>
       </Row>
       <Row>
@@ -926,26 +926,26 @@
         <Cell>
           <Data ss:Type="Number">14</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6], 0, 0.1)">
+          <Data ss:Type="Number">-0.0180634675547481</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">3</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-8], RC[-8])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-8], RC[-8], 0, 0.1)">
+          <Data ss:Type="Number">-0.0151392394676805</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">14</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7], 0, 0.1)">
+          <Data ss:Type="Number">-0.0223892541602254</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">3</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-9], RC[-9])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-9], RC[-9], 0, 0.1)">
+          <Data ss:Type="Number">-0.0218096418306232</Data>
         </Cell>
       </Row>
       <Row>
@@ -994,26 +994,26 @@
         <Cell>
           <Data ss:Type="Number">15</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6], 0, 0.1)">
+          <Data ss:Type="Number">-0.0178620094433427</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">4</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-8], RC[-8])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-8], RC[-8], 0, 0.1)">
+          <Data ss:Type="Number">-0.0151137454435229</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">15</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7], 0, 0.1)">
+          <Data ss:Type="Number">-0.0236926605924964</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">4</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-9], RC[-9])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-9], RC[-9], 0, 0.1)">
+          <Data ss:Type="Number">-0.026835566945374</Data>
         </Cell>
       </Row>
       <Row>
@@ -1062,26 +1062,26 @@
         <Cell>
           <Data ss:Type="Number">16</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6], 0, 0.1)">
+          <Data ss:Type="Number">-0.019082055054605</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">5</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-8], RC[-8])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-8], RC[-8], 0, 0.1)">
+          <Data ss:Type="Number">-0.0195715544745326</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">16</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7], 0, 0.1)">
+          <Data ss:Type="Number">-0.0243850542232394</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">5</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-9], RC[-9])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-9], RC[-9], 0, 0.1)">
+          <Data ss:Type="Number">-0.0284160269424319</Data>
         </Cell>
       </Row>
       <Row>
@@ -1130,26 +1130,26 @@
         <Cell>
           <Data ss:Type="Number">17</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6], 0, 0.1)">
+          <Data ss:Type="Number">-0.021072837151587</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">6</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-8], RC[-8])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-8], RC[-8], 0, 0.1)">
+          <Data ss:Type="Number">-0.0251177070662379</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">17</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7], 0, 0.1)">
+          <Data ss:Type="Number">-0.0247311150655151</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">6</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-9], RC[-9])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-9], RC[-9], 0, 0.1)">
+          <Data ss:Type="Number">-0.0287221657112241</Data>
         </Cell>
       </Row>
       <Row>
@@ -1198,26 +1198,26 @@
         <Cell>
           <Data ss:Type="Number">18</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6], 0, 0.1)">
+          <Data ss:Type="Number">-0.0219325410202146</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">7</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-8], RC[-8])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-8], RC[-8], 0, 0.1)">
+          <Data ss:Type="Number">-0.0267422074452043</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">18</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7], 0, 0.1)">
+          <Data ss:Type="Number">-0.0244495445862413</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">7</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-9], RC[-9])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-9], RC[-9], 0, 0.1)">
+          <Data ss:Type="Number">-0.0274313600733876</Data>
         </Cell>
       </Row>
       <Row>
@@ -1266,26 +1266,26 @@
         <Cell>
           <Data ss:Type="Number">19</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-6], RC[-6], 0, 0.1)">
+          <Data ss:Type="Number">-0.0228877482935786</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">8</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-8], RC[-8])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-8], RC[-8], 0, 0.1)">
+          <Data ss:Type="Number">-0.0283996338024736</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">19</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R4C[-7], RC[-7], 0, 0.1)">
+          <Data ss:Type="Number">-0.0242119399830699</Data>
         </Cell>
         <Cell>
           <Data ss:Type="Number">8</Data>
         </Cell>
-        <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-9], RC[-9])">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+        <Cell ss:Formula="=RATE(RC[-1], 0, -R15C[-9], RC[-9], 0, 0.1)">
+          <Data ss:Type="Number">-0.0264962321147323</Data>
         </Cell>
       </Row>
       <Row>
@@ -1306,8 +1306,8 @@
         <Cell ss:Index="7" ss:Formula="=RATE(COUNTIF(@SDF!R1C4, R[-21]C:R[-11]C)-1, 0, -R[-21]C, R[-11]C, 0, 0.1)">
           <Data ss:Type="Number">0.0482102836482227</Data>
         </Cell>
-        <Cell ss:Index="9" ss:Formula="=RATE(COUNTIF(@SDF!R1C4, R[-21]C:R[-11]C)-1, 0, -R[-21]C, 0, 0.1, R[-11]C)">
-          <Data ss:Type="Error">#ERR: No zero crossing found</Data>
+        <Cell ss:Index="9" ss:Formula="=RATE(COUNTIF(@SDF!R1C4, R[-21]C:R[-11]C)-1, 0, -R[-21]C, R[-11]C, 0, 0.1)">
+          <Data ss:Type="Number">0.0692050221376121</Data>
         </Cell>
         <Cell ss:Index="11" ss:Formula="=RATE(COUNTIF(@SDF!R1C4, R[-21]C:R[-11]C)-1, 0, -R[-21]C, R[-11]C, 0, 0.1)">
           <Data ss:Type="Number">0.0856861027888954</Data>
@@ -10877,7 +10877,7 @@
       </Row>
       <Row>
         <Cell ss:Formula="=DEFINE(&quot;findend&quot;, R[+1]C[+8], R[+1]C[+1], R[+1]C[+3], R[+1]C[+5])">
-          <Data ss:Type="String">FUN FINDEND AT #37</Data>
+          <Data ss:Type="String">FUN FINDEND AT #17</Data>
         </Cell>
       </Row>
       <Row>
@@ -11199,7 +11199,7 @@
       </Row>
       <Row>
         <Cell ss:Formula="=DEFINE(&quot;goalseek&quot;, R[+37]C[+3], R[+1]C[+1], R[+1]C[+3], R[+1]C[+5])">
-          <Data ss:Type="String">FUN GOALSEEK AT #38</Data>
+          <Data ss:Type="String">FUN GOALSEEK AT #18</Data>
         </Cell>
       </Row>
       <Row>
@@ -11693,7 +11693,7 @@
     <Table ss:ExpandedColumnCount="20" ss:ExpandedRowCount="1000" x:FullColumns="1" x:FullRows="1">
       <Row>
         <Cell ss:Formula="=DEFINE(&quot;F&quot;, RC[+1], RC[+2])">
-          <Data ss:Type="String">FUN F AT #39</Data>
+          <Data ss:Type="String">FUN F AT #19</Data>
         </Cell>
         <Cell ss:Formula="=1">
           <Data ss:Type="Number">1</Data>
