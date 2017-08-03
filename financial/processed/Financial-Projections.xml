@@ -7057,115 +7057,115 @@
         <Cell>
           <Data ss:Type="String">'Payroll Monthly Totals</Data>
         </Cell>
-        <Cell ss:Index="4" ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Index="4" ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">3510000</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">47916.6666666667</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">54166.6666666667</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">72916.6666666667</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">103333.333333333</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">128750</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">149583.333333333</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">195000</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">215416.666666667</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">236666.666666667</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">236666.666666667</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">247083.333333333</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">247083.333333333</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">275833.333333333</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">279166.666666667</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">285833.333333333</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">285833.333333333</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">292500</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">292500</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">292500</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">292500</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">292500</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">292500</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">292500</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">292500</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">292500</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">292500</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">292500</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">292500</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">292500</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">292500</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">292500</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">292500</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">292500</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">292500</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">292500</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">292500</Data>
         </Cell>
       </Row>
@@ -7173,112 +7173,112 @@
         <Cell>
           <Data ss:Type="String">'Head Count Totals</Data>
         </Cell>
-        <Cell ss:Index="5" ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Index="5" ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">6</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">7</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">10</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">14</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">18</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">22</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">30</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">34</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">38</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">38</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">40</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">40</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">45</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">46</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">47</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">47</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">48</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">48</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">48</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">48</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">48</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">48</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">48</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">48</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">48</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">48</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">48</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">48</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">48</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">48</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">48</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">48</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">48</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">48</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">48</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-4]C+R[-16]C+R[-27]C+R[-38]C)">
+        <Cell ss:Formula="=R[-4]C+R[-16]C+R[-27]C+R[-38]C">
           <Data ss:Type="Number">48</Data>
         </Cell>
       </Row>
@@ -7511,7 +7511,7 @@
         <Cell>
           <Data ss:Type="Number">2500</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(RC[+1])/RC[-1]">
+        <Cell ss:Formula="=RC[+1]/RC[-1]">
           <Data ss:Type="Number">10</Data>
         </Cell>
         <Cell ss:Formula="=SUM(RC[+1]:RC[+36])">
@@ -7633,7 +7633,7 @@
         <Cell>
           <Data ss:Type="Number">1500</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(RC[+1])/RC[-1]">
+        <Cell ss:Formula="=RC[+1]/RC[-1]">
           <Data ss:Type="Number">50</Data>
         </Cell>
         <Cell ss:Formula="=SUM(RC[+1]:RC[+36])">
@@ -7755,7 +7755,7 @@
         <Cell>
           <Data ss:Type="Number">1000</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(RC[+1])/RC[-1]">
+        <Cell ss:Formula="=RC[+1]/RC[-1]">
           <Data ss:Type="Number">54</Data>
         </Cell>
         <Cell ss:Formula="=SUM(RC[+1]:RC[+36])">
@@ -7877,7 +7877,7 @@
         <Cell>
           <Data ss:Type="Number">500</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(RC[+1])/RC[-1]">
+        <Cell ss:Formula="=RC[+1]/RC[-1]">
           <Data ss:Type="Number">5</Data>
         </Cell>
         <Cell ss:Formula="=SUM(RC[+1]:RC[+36])">
@@ -7999,7 +7999,7 @@
         <Cell>
           <Data ss:Type="Number">1000</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(RC[+1])/RC[-1]">
+        <Cell ss:Formula="=RC[+1]/RC[-1]">
           <Data ss:Type="Number">17</Data>
         </Cell>
         <Cell ss:Formula="=SUM(RC[+1]:RC[+36])">
@@ -8121,7 +8121,7 @@
         <Cell>
           <Data ss:Type="Number">1000</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(RC[+1])/RC[-1]">
+        <Cell ss:Formula="=RC[+1]/RC[-1]">
           <Data ss:Type="Number">12</Data>
         </Cell>
         <Cell ss:Formula="=SUM(RC[+1]:RC[+36])">
@@ -8243,7 +8243,7 @@
         <Cell>
           <Data ss:Type="Number">1000</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(RC[+1])/RC[-1]">
+        <Cell ss:Formula="=RC[+1]/RC[-1]">
           <Data ss:Type="Number">5</Data>
         </Cell>
         <Cell ss:Formula="=SUM(RC[+1]:RC[+36])">
@@ -8365,7 +8365,7 @@
         <Cell>
           <Data ss:Type="Number">1000</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(RC[+1])/RC[-1]">
+        <Cell ss:Formula="=RC[+1]/RC[-1]">
           <Data ss:Type="Number">0.8</Data>
         </Cell>
         <Cell ss:Formula="=SUM(RC[+1]:RC[+36])">
@@ -8487,7 +8487,7 @@
         <Cell>
           <Data ss:Type="Number">15000</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(RC[+1])/RC[-1]">
+        <Cell ss:Formula="=RC[+1]/RC[-1]">
           <Data ss:Type="Number">1</Data>
         </Cell>
         <Cell ss:Formula="=SUM(RC[+1]:RC[+36])">
@@ -8609,7 +8609,7 @@
         <Cell>
           <Data ss:Type="Number">400</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(RC[+1])/RC[-1]">
+        <Cell ss:Formula="=RC[+1]/RC[-1]">
           <Data ss:Type="Number">2</Data>
         </Cell>
         <Cell ss:Formula="=SUM(RC[+1]:RC[+36])">
@@ -8731,7 +8731,7 @@
         <Cell>
           <Data ss:Type="Number">250</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(RC[+1])/RC[-1]">
+        <Cell ss:Formula="=RC[+1]/RC[-1]">
           <Data ss:Type="Number">36</Data>
         </Cell>
         <Cell ss:Formula="=SUM(RC[+1]:RC[+36])">
@@ -8850,7 +8850,7 @@
         <Cell ss:Index="2">
           <Data ss:Type="Number">150</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(RC[+1])/RC[-1]">
+        <Cell ss:Formula="=RC[+1]/RC[-1]">
           <Data ss:Type="Number">17.6666666666667</Data>
         </Cell>
         <Cell ss:Formula="=SUM(RC[+1]:RC[+36])">
@@ -9094,7 +9094,7 @@
         <Cell>
           <Data ss:Type="Number">1000</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(RC[+1])/RC[-1]">
+        <Cell ss:Formula="=RC[+1]/RC[-1]">
           <Data ss:Type="Number">36</Data>
         </Cell>
         <Cell ss:Formula="=SUM(RC[+1]:RC[+36])">
@@ -9573,7 +9573,7 @@
         <Cell>
           <Data ss:Type="Number">500</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(RC[+1])/RC[-1]">
+        <Cell ss:Formula="=RC[+1]/RC[-1]">
           <Data ss:Type="Number">15</Data>
         </Cell>
         <Cell ss:Formula="=SUM(RC[+1]:RC[+36])">
@@ -9695,7 +9695,7 @@
         <Cell>
           <Data ss:Type="Number">2500</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(RC[+1])/RC[-1]">
+        <Cell ss:Formula="=RC[+1]/RC[-1]">
           <Data ss:Type="Number">3</Data>
         </Cell>
         <Cell ss:Formula="=SUM(RC[+1]:RC[+36])">
@@ -9817,7 +9817,7 @@
         <Cell>
           <Data ss:Type="Number">1000</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(RC[+1])/RC[-1]">
+        <Cell ss:Formula="=RC[+1]/RC[-1]">
           <Data ss:Type="Number">36</Data>
         </Cell>
         <Cell ss:Formula="=SUM(RC[+1]:RC[+36])">
@@ -9939,7 +9939,7 @@
         <Cell>
           <Data ss:Type="Number">2500</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(RC[+1])/RC[-1]">
+        <Cell ss:Formula="=RC[+1]/RC[-1]">
           <Data ss:Type="Number">10</Data>
         </Cell>
         <Cell ss:Formula="=SUM(RC[+1]:RC[+36])">
@@ -10061,7 +10061,7 @@
         <Cell>
           <Data ss:Type="Number">500</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(RC[+1])/RC[-1]">
+        <Cell ss:Formula="=RC[+1]/RC[-1]">
           <Data ss:Type="Number">36</Data>
         </Cell>
         <Cell ss:Formula="=SUM(RC[+1]:RC[+36])">
@@ -10296,112 +10296,112 @@
         <Cell>
           <Data ss:Type="String">'Capital Monthly Total</Data>
         </Cell>
-        <Cell ss:Index="5" ss:Formula="=SUM(R[-10]C+R[-2]C)">
+        <Cell ss:Index="5" ss:Formula="=R[-10]C+R[-2]C">
           <Data ss:Type="Number">20250</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-2]C)">
+        <Cell ss:Formula="=R[-10]C+R[-2]C">
           <Data ss:Type="Number">17300</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-2]C)">
+        <Cell ss:Formula="=R[-10]C+R[-2]C">
           <Data ss:Type="Number">17900</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-2]C)">
+        <Cell ss:Formula="=R[-10]C+R[-2]C">
           <Data ss:Type="Number">30400</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-2]C)">
+        <Cell ss:Formula="=R[-10]C+R[-2]C">
           <Data ss:Type="Number">18800</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-2]C)">
+        <Cell ss:Formula="=R[-10]C+R[-2]C">
           <Data ss:Type="Number">13700</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-2]C)">
+        <Cell ss:Formula="=R[-10]C+R[-2]C">
           <Data ss:Type="Number">29550</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-2]C)">
+        <Cell ss:Formula="=R[-10]C+R[-2]C">
           <Data ss:Type="Number">16450</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-2]C)">
+        <Cell ss:Formula="=R[-10]C+R[-2]C">
           <Data ss:Type="Number">11250</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-2]C)">
+        <Cell ss:Formula="=R[-10]C+R[-2]C">
           <Data ss:Type="Number">15250</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-2]C)">
+        <Cell ss:Formula="=R[-10]C+R[-2]C">
           <Data ss:Type="Number">11250</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-2]C)">
+        <Cell ss:Formula="=R[-10]C+R[-2]C">
           <Data ss:Type="Number">18750</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-2]C)">
+        <Cell ss:Formula="=R[-10]C+R[-2]C">
           <Data ss:Type="Number">11250</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-2]C)">
+        <Cell ss:Formula="=R[-10]C+R[-2]C">
           <Data ss:Type="Number">10250</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-2]C)">
+        <Cell ss:Formula="=R[-10]C+R[-2]C">
           <Data ss:Type="Number">12750</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-2]C)">
+        <Cell ss:Formula="=R[-10]C+R[-2]C">
           <Data ss:Type="Number">2750</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-2]C)">
+        <Cell ss:Formula="=R[-10]C+R[-2]C">
           <Data ss:Type="Number">2750</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-2]C)">
+        <Cell ss:Formula="=R[-10]C+R[-2]C">
           <Data ss:Type="Number">5250</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-2]C)">
+        <Cell ss:Formula="=R[-10]C+R[-2]C">
           <Data ss:Type="Number">2750</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-2]C)">
+        <Cell ss:Formula="=R[-10]C+R[-2]C">
           <Data ss:Type="Number">2750</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-2]C)">
+        <Cell ss:Formula="=R[-10]C+R[-2]C">
           <Data ss:Type="Number">2750</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-2]C)">
+        <Cell ss:Formula="=R[-10]C+R[-2]C">
           <Data ss:Type="Number">2750</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-2]C)">
+        <Cell ss:Formula="=R[-10]C+R[-2]C">
           <Data ss:Type="Number">2750</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-2]C)">
+        <Cell ss:Formula="=R[-10]C+R[-2]C">
           <Data ss:Type="Number">2750</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-2]C)">
+        <Cell ss:Formula="=R[-10]C+R[-2]C">
           <Data ss:Type="Number">2750</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-2]C)">
+        <Cell ss:Formula="=R[-10]C+R[-2]C">
           <Data ss:Type="Number">2750</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-2]C)">
+        <Cell ss:Formula="=R[-10]C+R[-2]C">
           <Data ss:Type="Number">2750</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-2]C)">
+        <Cell ss:Formula="=R[-10]C+R[-2]C">
           <Data ss:Type="Number">2750</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-2]C)">
+        <Cell ss:Formula="=R[-10]C+R[-2]C">
           <Data ss:Type="Number">2750</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-2]C)">
+        <Cell ss:Formula="=R[-10]C+R[-2]C">
           <Data ss:Type="Number">2750</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-2]C)">
+        <Cell ss:Formula="=R[-10]C+R[-2]C">
           <Data ss:Type="Number">2750</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-2]C)">
+        <Cell ss:Formula="=R[-10]C+R[-2]C">
           <Data ss:Type="Number">2750</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-2]C)">
+        <Cell ss:Formula="=R[-10]C+R[-2]C">
           <Data ss:Type="Number">2750</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-2]C)">
+        <Cell ss:Formula="=R[-10]C+R[-2]C">
           <Data ss:Type="Number">2750</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-2]C)">
+        <Cell ss:Formula="=R[-10]C+R[-2]C">
           <Data ss:Type="Number">2750</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-2]C)">
+        <Cell ss:Formula="=R[-10]C+R[-2]C">
           <Data ss:Type="Number">2750</Data>
         </Cell>
       </Row>
@@ -21587,7 +21587,7 @@
         <Cell ss:Formula="=CapitalExp!R[+30]C[+3]">
           <Data ss:Type="Number">16500</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(Expenses!R[+30]C[+1])">
+        <Cell ss:Formula="=Expenses!R[+30]C[+1]">
           <Data ss:Type="Number">577000</Data>
         </Cell>
         <Cell ss:Formula="=SUM(RC[-3]:RC[-1])">
@@ -21604,7 +21604,7 @@
         <Cell ss:Formula="=CapitalExp!R[+29]C[+6]">
           <Data ss:Type="Number">12000</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(Expenses!R[+29]C[+4])">
+        <Cell ss:Formula="=Expenses!R[+29]C[+4]">
           <Data ss:Type="Number">607100</Data>
         </Cell>
         <Cell ss:Formula="=SUM(RC[-3]:RC[-1])">
@@ -21615,13 +21615,13 @@
         <Cell ss:Index="2">
           <Data ss:Type="String">'Q3 2001</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(Payroll!R[+70]C[+10])">
+        <Cell ss:Formula="=Payroll!R[+70]C[+10]">
           <Data ss:Type="Number">647083.333333333</Data>
         </Cell>
         <Cell ss:Formula="=CapitalExp!R[+28]C[+9]">
           <Data ss:Type="Number">7000</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(Expenses!R[+28]C[+7])">
+        <Cell ss:Formula="=Expenses!R[+28]C[+7]">
           <Data ss:Type="Number">652600</Data>
         </Cell>
         <Cell ss:Formula="=SUM(RC[-3]:RC[-1])">
@@ -21632,13 +21632,13 @@
         <Cell ss:Index="2">
           <Data ss:Type="String">'Q4 2001</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(Payroll!R[+69]C[+13])">
+        <Cell ss:Formula="=Payroll!R[+69]C[+13]">
           <Data ss:Type="Number">730833.333333333</Data>
         </Cell>
         <Cell ss:Formula="=CapitalExp!R[+27]C[+15]">
           <Data ss:Type="Number">7000</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(Expenses!R[+27]C[+10])">
+        <Cell ss:Formula="=Expenses!R[+27]C[+10]">
           <Data ss:Type="Number">687100</Data>
         </Cell>
         <Cell ss:Formula="=SUM(RC[-3]:RC[-1])">
@@ -21652,13 +21652,13 @@
         <Cell ss:Index="2">
           <Data ss:Type="String">'Q1 2002</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(Payroll!R[+68]C[+16])">
+        <Cell ss:Formula="=Payroll!R[+68]C[+16]">
           <Data ss:Type="Number">840833.333333333</Data>
         </Cell>
         <Cell ss:Formula="=CapitalExp!R[+26]C[+15]">
           <Data ss:Type="Number">7000</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(Expenses!R[+26]C[+13])">
+        <Cell ss:Formula="=Expenses!R[+26]C[+13]">
           <Data ss:Type="Number">496100</Data>
         </Cell>
         <Cell ss:Formula="=SUM(RC[-3]:RC[-1])">
@@ -21669,13 +21669,13 @@
         <Cell ss:Index="2">
           <Data ss:Type="String">'Q2 2002</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(Payroll!R[+67]C[+19])">
+        <Cell ss:Formula="=Payroll!R[+67]C[+19]">
           <Data ss:Type="Number">870833.333333333</Data>
         </Cell>
         <Cell ss:Formula="=CapitalExp!R[+25]C[+18]">
           <Data ss:Type="Number">7000</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(Expenses!R[+25]C[+16])">
+        <Cell ss:Formula="=Expenses!R[+25]C[+16]">
           <Data ss:Type="Number">546600</Data>
         </Cell>
         <Cell ss:Formula="=SUM(RC[-3]:RC[-1])">
@@ -21692,7 +21692,7 @@
         <Cell ss:Formula="=CapitalExp!R[+24]C[+21]">
           <Data ss:Type="Number">4500</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(Expenses!R[+24]C[+19])">
+        <Cell ss:Formula="=Expenses!R[+24]C[+19]">
           <Data ss:Type="Number">836600</Data>
         </Cell>
         <Cell ss:Formula="=SUM(RC[-3]:RC[-1])">
@@ -21703,13 +21703,13 @@
         <Cell ss:Index="2">
           <Data ss:Type="String">'Q4 2002</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(Payroll!R[+65]C[+25])">
+        <Cell ss:Formula="=Payroll!R[+65]C[+25]">
           <Data ss:Type="Number">877500</Data>
         </Cell>
         <Cell ss:Formula="=CapitalExp!R[+23]C[+24]">
           <Data ss:Type="Number">4500</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(Expenses!R[+23]C[+22])">
+        <Cell ss:Formula="=Expenses!R[+23]C[+22]">
           <Data ss:Type="Number">686600</Data>
         </Cell>
         <Cell ss:Formula="=SUM(RC[-3]:RC[-1])">
@@ -21723,13 +21723,13 @@
         <Cell ss:Index="2">
           <Data ss:Type="String">'Q1 2003</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(Payroll!R[+64]C[+28])">
+        <Cell ss:Formula="=Payroll!R[+64]C[+28]">
           <Data ss:Type="Number">877500</Data>
         </Cell>
         <Cell ss:Formula="=CapitalExp!R[+22]C[+27]">
           <Data ss:Type="Number">4500</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(Expenses!R[+22]C[+25])">
+        <Cell ss:Formula="=Expenses!R[+22]C[+25]">
           <Data ss:Type="Number">568600</Data>
         </Cell>
         <Cell ss:Formula="=SUM(RC[-3]:RC[-1])">
@@ -21740,13 +21740,13 @@
         <Cell ss:Index="2">
           <Data ss:Type="String">'Q2 2003</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(Payroll!R[+63]C[+31])">
+        <Cell ss:Formula="=Payroll!R[+63]C[+31]">
           <Data ss:Type="Number">877500</Data>
         </Cell>
         <Cell ss:Formula="=CapitalExp!R[+21]C[+30]">
           <Data ss:Type="Number">4500</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(Expenses!R[+21]C[+28])">
+        <Cell ss:Formula="=Expenses!R[+21]C[+28]">
           <Data ss:Type="Number">651600</Data>
         </Cell>
         <Cell ss:Formula="=SUM(RC[-3]:RC[-1])">
@@ -21757,13 +21757,13 @@
         <Cell ss:Index="2">
           <Data ss:Type="String">'Q3 2003</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(Payroll!R[+62]C[+34])">
+        <Cell ss:Formula="=Payroll!R[+62]C[+34]">
           <Data ss:Type="Number">877500</Data>
         </Cell>
         <Cell ss:Formula="=CapitalExp!R[+20]C[+33]">
           <Data ss:Type="Number">4500</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(Expenses!R[+20]C[+31])">
+        <Cell ss:Formula="=Expenses!R[+20]C[+31]">
           <Data ss:Type="Number">586600</Data>
         </Cell>
         <Cell ss:Formula="=SUM(RC[-3]:RC[-1])">
@@ -21774,13 +21774,13 @@
         <Cell ss:Index="2">
           <Data ss:Type="String">'Q4 2003</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(Payroll!R[+61]C[+37])">
+        <Cell ss:Formula="=Payroll!R[+61]C[+37]">
           <Data ss:Type="Number">877500</Data>
         </Cell>
         <Cell ss:Formula="=CapitalExp!R[+19]C[+36]">
           <Data ss:Type="Number">4500</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(Expenses!R[+19]C[+34])">
+        <Cell ss:Formula="=Expenses!R[+19]C[+34]">
           <Data ss:Type="Number">671600</Data>
         </Cell>
         <Cell ss:Formula="=SUM(RC[-3]:RC[-1])">
