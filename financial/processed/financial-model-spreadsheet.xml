@@ -9458,30 +9458,30 @@
           <Data ss:Type="String">Actual</Data>
         </Cell>
         <Cell ss:Index="6" ss:Formula="=QuarterlyPAndL!RC[+8]:R[+24]C[+8]">
-          <Data ss:Type="Error">[[Estimate]; 
- [FY 2003]; 
- [0]; 
- [2197559.370625]; 
- [219755.9370625]; 
- [2417315.3076875]; 
- [0]; 
- [0]; 
- [21975.59370625]; 
- [367770]; 
- [389745.59370625]; 
- [0]; 
- [2027569.71398125]; 
- [0]; 
- [0]; 
- [1710108.04934287]; 
- [1597454.63257875]; 
- [864856.801352705]; 
- [75000]; 
- [4247419.48327433]; 
- [-2219849.76929308]; 
- [72206.2299476274]; 
- [-2147643.53934545]; 
- [0]; 
+          <Data ss:Type="Error">[[Estimate];
+ [FY 2003];
+ [0];
+ [2197559.370625];
+ [219755.9370625];
+ [2417315.3076875];
+ [0];
+ [0];
+ [21975.59370625];
+ [367770];
+ [389745.59370625];
+ [0];
+ [2027569.71398125];
+ [0];
+ [0];
+ [1710108.04934287];
+ [1597454.63257875];
+ [864856.801352705];
+ [75000];
+ [4247419.48327433];
+ [-2219849.76929308];
+ [72206.2299476274];
+ [-2147643.53934545];
+ [0];
  [-2147643.53934545]]</Data>
         </Cell>
         <Cell ss:Index="8">
@@ -11835,79 +11835,79 @@
         <Cell>
           <Data ss:Type="String">'      Total Liab &amp; Shareholders' Equity</Data>
         </Cell>
-        <Cell ss:Index="4" ss:Formula="=SUM(R[-10]C+R[-1]C)">
+        <Cell ss:Index="4" ss:Formula="=R[-10]C+R[-1]C">
           <Data ss:Type="Number">3230937.49578275</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-1]C)">
+        <Cell ss:Formula="=R[-10]C+R[-1]C">
           <Data ss:Type="Number">3100532.37232829</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-1]C)">
+        <Cell ss:Formula="=R[-10]C+R[-1]C">
           <Data ss:Type="Number">2907398.82219349</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-1]C)">
+        <Cell ss:Formula="=R[-10]C+R[-1]C">
           <Data ss:Type="Number">2668648.13478946</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-1]C)">
+        <Cell ss:Formula="=R[-10]C+R[-1]C">
           <Data ss:Type="Number">2404546.21511137</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-1]C)">
+        <Cell ss:Formula="=R[-10]C+R[-1]C">
           <Data ss:Type="Number">2161635.29841185</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-1]C)">
+        <Cell ss:Formula="=R[-10]C+R[-1]C">
           <Data ss:Type="Number">1952926.72844837</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-1]C)">
+        <Cell ss:Formula="=R[-10]C+R[-1]C">
           <Data ss:Type="Number">1681257.19483776</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-1]C)">
+        <Cell ss:Formula="=R[-10]C+R[-1]C">
           <Data ss:Type="Number">1435729.59492089</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-1]C)">
+        <Cell ss:Formula="=R[-10]C+R[-1]C">
           <Data ss:Type="Number">1223080.40303201</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-1]C)">
+        <Cell ss:Formula="=R[-10]C+R[-1]C">
           <Data ss:Type="Number">1007305.63110786</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-1]C)">
+        <Cell ss:Formula="=R[-10]C+R[-1]C">
           <Data ss:Type="Number">838039.147781669</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-1]C)">
+        <Cell ss:Formula="=R[-10]C+R[-1]C">
           <Data ss:Type="Number">756770.157399943</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-1]C)">
+        <Cell ss:Formula="=R[-10]C+R[-1]C">
           <Data ss:Type="Number">532571.540089098</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-1]C)">
+        <Cell ss:Formula="=R[-10]C+R[-1]C">
           <Data ss:Type="Number">380994.115968476</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-1]C)">
+        <Cell ss:Formula="=R[-10]C+R[-1]C">
           <Data ss:Type="Number">328979.326276362</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-1]C)">
+        <Cell ss:Formula="=R[-10]C+R[-1]C">
           <Data ss:Type="Number">5100993.43291569</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-1]C)">
+        <Cell ss:Formula="=R[-10]C+R[-1]C">
           <Data ss:Type="Number">4859856.95880548</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-1]C)">
+        <Cell ss:Formula="=R[-10]C+R[-1]C">
           <Data ss:Type="Number">4733055.57283269</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-1]C)">
+        <Cell ss:Formula="=R[-10]C+R[-1]C">
           <Data ss:Type="Number">4417927.64070757</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-1]C)">
+        <Cell ss:Formula="=R[-10]C+R[-1]C">
           <Data ss:Type="Number">4200077.97207369</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-1]C)">
+        <Cell ss:Formula="=R[-10]C+R[-1]C">
           <Data ss:Type="Number">4113867.62283965</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-1]C)">
+        <Cell ss:Formula="=R[-10]C+R[-1]C">
           <Data ss:Type="Number">3811236.16997</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-1]C)">
+        <Cell ss:Formula="=R[-10]C+R[-1]C">
           <Data ss:Type="Number">3620629.60280842</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-10]C+R[-1]C)">
+        <Cell ss:Formula="=R[-10]C+R[-1]C">
           <Data ss:Type="Number">3581563.59577088</Data>
         </Cell>
       </Row>
@@ -15361,79 +15361,79 @@
         <Cell>
           <Data ss:Type="String">'      Total Liab &amp; Shareholders' Equity</Data>
         </Cell>
-        <Cell ss:Index="4" ss:Formula="=SUM(R[-9]C+R[-1]C)">
+        <Cell ss:Index="4" ss:Formula="=R[-9]C+R[-1]C">
           <Data ss:Type="Number">3230937.49578275</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-9]C+R[-1]C)">
+        <Cell ss:Formula="=R[-9]C+R[-1]C">
           <Data ss:Type="Number">3100532.37232829</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-9]C+R[-1]C)">
+        <Cell ss:Formula="=R[-9]C+R[-1]C">
           <Data ss:Type="Number">2907398.82219349</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-9]C+R[-1]C)">
+        <Cell ss:Formula="=R[-9]C+R[-1]C">
           <Data ss:Type="Number">2668648.13478946</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-9]C+R[-1]C)">
+        <Cell ss:Formula="=R[-9]C+R[-1]C">
           <Data ss:Type="Number">2404546.21511137</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-9]C+R[-1]C)">
+        <Cell ss:Formula="=R[-9]C+R[-1]C">
           <Data ss:Type="Number">2161635.29841185</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-9]C+R[-1]C)">
+        <Cell ss:Formula="=R[-9]C+R[-1]C">
           <Data ss:Type="Number">1952926.72844837</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-9]C+R[-1]C)">
+        <Cell ss:Formula="=R[-9]C+R[-1]C">
           <Data ss:Type="Number">1681257.19483776</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-9]C+R[-1]C)">
+        <Cell ss:Formula="=R[-9]C+R[-1]C">
           <Data ss:Type="Number">1435729.59492089</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-9]C+R[-1]C)">
+        <Cell ss:Formula="=R[-9]C+R[-1]C">
           <Data ss:Type="Number">1223080.40303201</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-9]C+R[-1]C)">
+        <Cell ss:Formula="=R[-9]C+R[-1]C">
           <Data ss:Type="Number">1007305.63110786</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-9]C+R[-1]C)">
+        <Cell ss:Formula="=R[-9]C+R[-1]C">
           <Data ss:Type="Number">838039.147781669</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-9]C+R[-1]C)">
+        <Cell ss:Formula="=R[-9]C+R[-1]C">
           <Data ss:Type="Number">756770.157399943</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-9]C+R[-1]C)">
+        <Cell ss:Formula="=R[-9]C+R[-1]C">
           <Data ss:Type="Number">532571.540089098</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-9]C+R[-1]C)">
+        <Cell ss:Formula="=R[-9]C+R[-1]C">
           <Data ss:Type="Number">380994.115968476</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-9]C+R[-1]C)">
+        <Cell ss:Formula="=R[-9]C+R[-1]C">
           <Data ss:Type="Number">328979.326276362</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-9]C+R[-1]C)">
+        <Cell ss:Formula="=R[-9]C+R[-1]C">
           <Data ss:Type="Number">5100993.43291569</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-9]C+R[-1]C)">
+        <Cell ss:Formula="=R[-9]C+R[-1]C">
           <Data ss:Type="Number">4859856.95880548</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-9]C+R[-1]C)">
+        <Cell ss:Formula="=R[-9]C+R[-1]C">
           <Data ss:Type="Number">4733055.57283269</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-9]C+R[-1]C)">
+        <Cell ss:Formula="=R[-9]C+R[-1]C">
           <Data ss:Type="Number">4417927.64070757</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-9]C+R[-1]C)">
+        <Cell ss:Formula="=R[-9]C+R[-1]C">
           <Data ss:Type="Number">4200077.97207369</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-9]C+R[-1]C)">
+        <Cell ss:Formula="=R[-9]C+R[-1]C">
           <Data ss:Type="Number">4113867.62283965</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-9]C+R[-1]C)">
+        <Cell ss:Formula="=R[-9]C+R[-1]C">
           <Data ss:Type="Number">3811236.16997</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-9]C+R[-1]C)">
+        <Cell ss:Formula="=R[-9]C+R[-1]C">
           <Data ss:Type="Number">3620629.60280842</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(R[-9]C+R[-1]C)">
+        <Cell ss:Formula="=R[-9]C+R[-1]C">
           <Data ss:Type="Number">3581563.59577088</Data>
         </Cell>
       </Row>
@@ -15967,8 +15967,8 @@
           <Data ss:Type="Number">1</Data>
         </Cell>
         <Cell ss:Formula="=R[+1]C[-1]:R[+3]C[-1]">
-          <Data ss:Type="Error">[[0.09]; 
- [0.11]; 
+          <Data ss:Type="Error">[[0.09];
+ [0.11];
  [0.1]]</Data>
         </Cell>
         <Cell>
@@ -15989,8 +15989,8 @@
           <Data ss:Type="String">'data =</Data>
         </Cell>
         <Cell ss:Formula="=R[-1]C[-2]">
-          <Data ss:Type="Error">[[0.09]; 
- [0.11]; 
+          <Data ss:Type="Error">[[0.09];
+ [0.11];
  [0.1]]</Data>
         </Cell>
       </Row>
