@@ -8,7 +8,7 @@
     <Table ss:ExpandedColumnCount="12" ss:ExpandedRowCount="225" x:FullColumns="1" x:FullRows="1">
       <Row>
         <Cell>
-          <Data ss:Type="String">''''Dataset from: "Aggregating Governance Indicators" and "Governance Matters"
+          <Data ss:Type="String">'''''Dataset from: "Aggregating Governance Indicators" and "Governance Matters"
 Daniel Kaufmann, Aart Kraay and Pablo Zoido-Lobaton, May 2000</Data>
         </Cell>
       </Row>
@@ -36,7 +36,7 @@ Daniel Kaufmann, Aart Kraay and Pablo Zoido-Lobaton, May 2000</Data>
         <Cell ss:Index="3">
           <Data ss:Type="String">'The country you chose is:</Data>
         </Cell>
-        <Cell ss:Index="6" ss:Formula="=IF(EQUAL(R[-2]C[-2], &quot;&quot;), &quot;&quot;, IF(VLOOKUP(R[-2]C[-2], OneCountryData!R[-6]C[+7]:R[+176]C[+8], 2, 0)=1, VLOOKUP(VLOOKUP(R[-2]C[-2], OneCountryData!R[-6]C[+7]:R[+176]C[+9], 3, 0), OneCountryData!R[-6]C[+6]:R[+176]C[+7], 2, 0), &quot;&quot;))">
+        <Cell ss:Index="6" ss:Formula="=IF(EQUAL(R[-2]C[-2], &quot;&quot;), &quot;&quot;, IF(EQUAL(VLOOKUP(R[-2]C[-2], OneCountryData!R[-6]C[+7]:R[+176]C[+8], 2, 0), 1), VLOOKUP(VLOOKUP(R[-2]C[-2], OneCountryData!R[-6]C[+7]:R[+176]C[+9], 3, 0), OneCountryData!R[-6]C[+6]:R[+176]C[+7], 2, 0), &quot;&quot;))">
           <Data ss:Type="String"></Data>
         </Cell>
       </Row>
@@ -1597,7 +1597,7 @@ Daniel Kaufmann, Aart Kraay and Pablo Zoido-Lobaton, May 2000</Data>
     <Table ss:ExpandedColumnCount="140" ss:ExpandedRowCount="197" x:FullColumns="1" x:FullRows="1">
       <Row>
         <Cell>
-          <Data ss:Type="String">''''Dataset from: "Aggregating Governance Indicators" and "Governance Matters"
+          <Data ss:Type="String">'''''Dataset from: "Aggregating Governance Indicators" and "Governance Matters"
 Daniel Kaufmann, Aart Kraay and Pablo Zoido-Lobaton, May 2000</Data>
         </Cell>
       </Row>
