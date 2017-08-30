@@ -1,0 +1,4429 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Workbook xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns="urn:schemas-microsoft-com:office:spreadsheet">
+  <DocumentProperties />
+  <OfficeDocumentSettings />
+  <ExcelWorkbook />
+  <Styles />
+  <Worksheet ss:Name="Usage Chart">
+    <Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="77" x:FullColumns="1" x:FullRows="1">
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Residential Electric Power Usage</Data>
+        </Cell>
+      </Row>
+      <Row ss:Index="3">
+        <Cell ss:Index="2">
+          <Data ss:Type="String">'Daily Average Usage (kWh/day)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Month/Year</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1990</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1991</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1992</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1993</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1994</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1995</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Sep</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">20.9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">19.2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">23.5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">21.4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">27.1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">28.1</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Oct</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">19.4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">21.6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">22.1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">25.3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">26.1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">29.9</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Nov</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">18.9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">23.7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">24.3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">28.9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">28.1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">30.2</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Dec</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">20.4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">24.5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">25.3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">28.7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">33.1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">34</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Jan</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">26.3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">29.2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">27.8</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">35.4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">38.6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">42.4</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Feb</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">26.4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">32.2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">29.9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">32.5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">36.5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">36.9</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Mar</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">23</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">27.2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">25.2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">31.9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">34.4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">34</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Apr</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">21.5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">23.2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">23.4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">28.5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">33.7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">32.5</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'May</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">20.2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">22.5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">21.6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">25.8</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">27.7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">31.6</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Jun</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">19.9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">20.4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">22.8</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">24.2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">28.1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">30.8</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Jul</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">18.7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">20.5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">23.3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">23.5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">28</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">30.1</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Aug</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">20.3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">19.9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">23.4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">24.9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">29.5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">33.6</Data>
+        </Cell>
+      </Row>
+    </Table>
+    <WorksheetOptions />
+  </Worksheet>
+  <Worksheet ss:Name="ANOVA">
+    <Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="77" x:FullColumns="1" x:FullRows="1">
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Residential Electric Power Usage</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'ANOVA</Data>
+        </Cell>
+      </Row>
+      <Row ss:Index="4">
+        <Cell ss:Index="2">
+          <Data ss:Type="String">'Anova: Single Factor</Data>
+        </Cell>
+      </Row>
+      <Row ss:Index="6">
+        <Cell ss:Index="2">
+          <Data ss:Type="String">'SUMMARY</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">'Groups</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Count</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Sum</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Average</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Variance</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">1990</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">12</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">255.9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">21.325</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">6.83659090909094</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">1991</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">12</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">284.1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">23.675</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">16.1184090909092</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">1992</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">12</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">292.6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">24.3833333333333</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">5.72515151515174</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">1993</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">12</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">331</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">27.5833333333333</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">17.2433333333336</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">1994</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">12</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">370.9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">30.9083333333333</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">17.2135606060605</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">1995</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">12</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">394.1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">32.8416666666667</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">14.7771969696962</Data>
+        </Cell>
+      </Row>
+      <Row ss:Index="16">
+        <Cell ss:Index="2">
+          <Data ss:Type="String">'ANOVA</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">'Source of Variation</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'SS</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'df</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'MS</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'F</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'P-value</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'F crit</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">'Between Groups</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1194.88944444444</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">238.977888888888</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">18.4031479832138</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">2.12604206194225E-11</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">2.35380781532513</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">'Within Groups</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">857.056666666664</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">66</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">12.985707070707</Data>
+        </Cell>
+      </Row>
+      <Row ss:Index="21">
+        <Cell ss:Index="2">
+          <Data ss:Type="String">'Total</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">2051.9461111111</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">71</Data>
+        </Cell>
+      </Row>
+      <Row ss:Index="23">
+        <Cell ss:Index="6" ss:Formula="=R[-5]C[-1]/R[-4]C[-1]">
+          <Data ss:Type="Number">18.4031479832138</Data>
+        </Cell>
+      </Row>
+    </Table>
+    <WorksheetOptions />
+  </Worksheet>
+  <Worksheet ss:Name="Correlation">
+    <Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="10" x:FullColumns="1" x:FullRows="1">
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Residential Electric Power Usage</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Correlation</Data>
+        </Cell>
+      </Row>
+      <Row ss:Index="4">
+        <Cell ss:Index="3">
+          <Data ss:Type="Number">1990</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1991</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1992</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1993</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1994</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1995</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">1990</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">1991</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0.864609749943662</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">1992</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0.865390762141107</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0.892457317596501</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">1993</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0.789775614800007</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0.924365546683988</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0.781621813646514</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">1994</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0.882660999992424</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0.859167175365194</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0.840035713694391</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0.89387959872871</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">1995</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0.848093674991363</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0.788454586272743</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0.765275310865177</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0.862739851669525</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0.901091473376091</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+      </Row>
+    </Table>
+    <WorksheetOptions />
+  </Worksheet>
+  <Worksheet ss:Name="Statistics">
+    <Table ss:ExpandedColumnCount="13" ss:ExpandedRowCount="21" x:FullColumns="1" x:FullRows="1">
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Residential Electric Power Usage</Data>
+        </Cell>
+      </Row>
+      <Row ss:Index="3">
+        <Cell ss:Index="2">
+          <Data ss:Type="String">'Basic Statistics</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">1990</Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="Number">1991</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">1992</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">1993</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">1994</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">1995</Data>
+        </Cell>
+      </Row>
+      <Row ss:Index="6">
+        <Cell ss:Index="2">
+          <Data ss:Type="String">'Mean</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">21.325</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Mean</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">23.675</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Mean</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">24.3833333333333</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Mean</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">27.5833333333333</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Mean</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">30.9083333333333</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Mean</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">32.8416666666667</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">'Standard Error</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0.754795276277556</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Standard Error</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1.15896538238887</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Standard Error</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0.690721332807941</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Standard Error</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1.19872617575678</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Standard Error</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1.19769085486964</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Standard Error</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1.10969954528603</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">'Median</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">20.35</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Median</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">22.85</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Median</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">23.45</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Median</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">27.15</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Median</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">28.8</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Median</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">32.05</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">'Mode</Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">'Mode</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="String">'Mode</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">23.4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Mode</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="String">'Mode</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">28.1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Mode</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">34</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">'Standard Deviation</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">2.61468753565143</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Standard Deviation</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">4.01477385302201</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Standard Deviation</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">2.39272888459009</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Standard Deviation</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">4.15250928154696</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Standard Deviation</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">4.14892282478964</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Standard Deviation</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">3.84411198714296</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">'Sample Variance</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">6.83659090909094</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Sample Variance</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">16.1184090909092</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Sample Variance</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">5.72515151515174</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Sample Variance</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">17.2433333333336</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Sample Variance</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">17.2135606060605</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Sample Variance</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">14.7771969696962</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">'Kurtosis</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0.643492353343798</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Kurtosis</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0.339480520673749</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Kurtosis</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1.54796415516144</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Kurtosis</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">-0.519626988139276</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Kurtosis</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">-0.969695513933226</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Kurtosis</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">2.6975347183803</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">'Skewness</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1.29870416582981</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Skewness</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1.03064387009845</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Skewness</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1.33623128374842</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Skewness</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0.458914435049279</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Skewness</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0.662358421387716</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Skewness</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1.46352699978683</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">'Range</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">7.7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Range</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">13</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Range</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">8.3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Range</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">14</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Range</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">12.5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Range</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">14.3</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">'Minimum</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">18.7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Minimum</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">19.2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Minimum</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">21.6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Minimum</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">21.4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Minimum</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">26.1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Minimum</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">28.1</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">'Maximum</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">26.4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Maximum</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">32.2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Maximum</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">29.9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Maximum</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">35.4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Maximum</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">38.6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Maximum</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">42.4</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">'Sum</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">255.9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Sum</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">284.1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Sum</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">292.6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Sum</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">331</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Sum</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">370.9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Sum</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">394.1</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">'Count</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">12</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Count</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">12</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Count</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">12</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Count</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">12</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Count</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">12</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Count</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">12</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">'Largest(1)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">26.4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Largest(1)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">32.2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Largest(1)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">29.9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Largest(1)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">35.4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Largest(1)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">38.6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Largest(1)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">42.4</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">'Smallest(1)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">18.7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Smallest(1)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">19.2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Smallest(1)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">21.6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Smallest(1)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">21.4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Smallest(1)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">26.1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Smallest(1)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">28.1</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">'Confidence Level(95.0%)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1.66129404219141</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Confidence Level(95.0%)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">2.55086689779535</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Confidence Level(95.0%)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1.52026817214259</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Confidence Level(95.0%)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">2.63837985821116</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Confidence Level(95.0%)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">2.63610113115017</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Confidence Level(95.0%)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">2.44243346659245</Data>
+        </Cell>
+      </Row>
+    </Table>
+    <WorksheetOptions />
+  </Worksheet>
+  <Worksheet ss:Name="FFT">
+    <Table ss:ExpandedColumnCount="11" ss:ExpandedRowCount="76" x:FullColumns="1" x:FullRows="1">
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Residential Electric Power Usage</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="9">
+          <Data ss:Type="String">'n=</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">64</Data>
+        </Cell>
+      </Row>
+      <Row ss:Index="4">
+        <Cell ss:Index="2">
+          <Data ss:Type="String">'Month</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Daily Average Usage (kWh/day)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Term</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Fourier Coefficients</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="String">'Magnitude</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Frequency</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Period</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">33117</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">20.9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'1656.7</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Infinite</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">33147</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">19.4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'13.3325801975743+121.422071786327i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=RC[-6]/R2C10">
+          <Data ss:Type="Number">0.015625</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">64</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">33178</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">18.9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-27.9374710940332+55.1897756248931i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=RC[-6]/R2C10">
+          <Data ss:Type="Number">0.03125</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">32</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">33208</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">20.4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-6.682756866897+50.9210810586189i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=RC[-6]/R2C10">
+          <Data ss:Type="Number">0.046875</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">21.3333333333333</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">33239</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">26.3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-16.4441758305038-4.63784659125856i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=RC[-6]/R2C10">
+          <Data ss:Type="Number">0.0625</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">16</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">33270</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">26.4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'29.3786155891547-85.3854777040556i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=RC[-6]/R2C10">
+          <Data ss:Type="Number">0.078125</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">12.8</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">33298</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">23</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-17.4073127354454+80.0300173114832i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=RC[-6]/R2C10">
+          <Data ss:Type="Number">0.09375</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">10.6666666666667</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">33329</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">21.5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-13.1119042770068+52.2060788190727i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=RC[-6]/R2C10">
+          <Data ss:Type="Number">0.109375</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">9.14285714285714</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">33359</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">20.2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">8</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-7.06984848098348+21.7279220613579i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=RC[-6]/R2C10">
+          <Data ss:Type="Number">0.125</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">8</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">33390</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">19.9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-22.54047040674+21.1177102702097i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=RC[-6]/R2C10">
+          <Data ss:Type="Number">0.140625</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">7.11111111111111</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">33420</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">18.7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">10</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-21.8295820000543+11.1875274565675i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=RC[-6]/R2C10">
+          <Data ss:Type="Number">0.15625</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">6.4</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">33451</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">20.3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">11</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'31.1228477478507+26.5885553351886i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=RC[-6]/R2C10">
+          <Data ss:Type="Number">0.171875</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">5.81818181818182</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">33482</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">19.2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">12</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'5.1378571498428+13.2689720370488i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=RC[-6]/R2C10">
+          <Data ss:Type="Number">0.1875</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">5.33333333333333</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">33512</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">21.6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">13</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'1.89156330032191+24.0649951503389i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=RC[-6]/R2C10">
+          <Data ss:Type="Number">0.203125</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">4.92307692307692</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">33543</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">23.7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">14</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-6.79928247934635+7.30195488444692i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=RC[-6]/R2C10">
+          <Data ss:Type="Number">0.21875</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">4.57142857142857</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">33573</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">24.5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">15</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'12.8498068631754+12.6293875633888i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=RC[-6]/R2C10">
+          <Data ss:Type="Number">0.234375</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">4.26666666666667</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">33604</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">29.2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">16</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'5.50000000000005-2.99999999999994i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=RC[-6]/R2C10">
+          <Data ss:Type="Number">0.25</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">4</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">33635</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">32.2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">17</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-11.6522967732408+13.5151749644385i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=RC[-6]/R2C10">
+          <Data ss:Type="Number">0.265625</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">3.76470588235294</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">33664</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">27.2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">18</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-14.2872550838265+7.88056262575426i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=RC[-6]/R2C10">
+          <Data ss:Type="Number">0.28125</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">3.55555555555556</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">33695</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">23.2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">19</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-0.569824581761672-8.85841702866303i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=RC[-6]/R2C10">
+          <Data ss:Type="Number">0.296875</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">3.36842105263158</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">33725</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">22.5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">20</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-7.56140695106108-4.22808423779885i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=RC[-6]/R2C10">
+          <Data ss:Type="Number">0.3125</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">3.2</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">33756</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">20.4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">21</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-10.477194251915+2.08269367430184i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=RC[-6]/R2C10">
+          <Data ss:Type="Number">0.328125</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">3.04761904761905</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">33786</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">20.5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">22</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-0.886673241364354+18.5928732014847i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=RC[-6]/R2C10">
+          <Data ss:Type="Number">0.34375</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">2.90909090909091</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">33817</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">19.9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">23</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-12.9801583844602+3.99208346421355i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=RC[-6]/R2C10">
+          <Data ss:Type="Number">0.359375</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">2.78260869565217</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">33848</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">23.5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">24</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-1.13015151901653+3.72792206135788i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=RC[-6]/R2C10">
+          <Data ss:Type="Number">0.375</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">2.66666666666667</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">33878</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">22.1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">25</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-19.0388300101091+4.70505183664551i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=RC[-6]/R2C10">
+          <Data ss:Type="Number">0.390625</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">2.56</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">33909</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">24.3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">26</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-8.00536421127021+1.10458392506803i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=RC[-6]/R2C10">
+          <Data ss:Type="Number">0.40625</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">2.46153846153846</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">33939</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">25.3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">27</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'5.43603612935256+5.12718591209157i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=RC[-6]/R2C10">
+          <Data ss:Type="Number">0.421875</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">2.37037037037037</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">33970</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">27.8</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">28</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-13.1322743682779+9.46509713389376i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=RC[-6]/R2C10">
+          <Data ss:Type="Number">0.4375</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">2.28571428571429</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">34001</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">29.9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">29</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'6.52610967831004+6.4732217164987i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=RC[-6]/R2C10">
+          <Data ss:Type="Number">0.453125</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">2.20689655172414</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">34029</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">25.2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">30</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-13.2470591546592+4.63760423486797i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=RC[-6]/R2C10">
+          <Data ss:Type="Number">0.46875</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">2.13333333333333</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">34060</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">23.4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">31</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-14.6841239536084-1.01051342920644i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=RC[-6]/R2C10">
+          <Data ss:Type="Number">0.484375</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">2.06451612903226</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">34090</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">21.6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">32</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-6.5</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=RC[-6]/R2C10">
+          <Data ss:Type="Number">0.5</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">34121</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">22.8</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">33</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-14.6841239536086+1.01051342920654i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=-(R2C10-RC[-6])/R2C10">
+          <Data ss:Type="Number">-0.484375</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">-2.06451612903226</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">34151</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">23.3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">34</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-13.2470591546593-4.63760423486795i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=-(R2C10-RC[-6])/R2C10">
+          <Data ss:Type="Number">-0.46875</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">-2.13333333333333</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">34182</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">23.4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">35</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'6.52610967830997-6.4732217164987i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=-(R2C10-RC[-6])/R2C10">
+          <Data ss:Type="Number">-0.453125</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">-2.20689655172414</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">34213</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">21.4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">36</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-13.1322743682779-9.46509713389375i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=-(R2C10-RC[-6])/R2C10">
+          <Data ss:Type="Number">-0.4375</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">-2.28571428571429</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">34243</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">25.3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">37</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'5.43603612935263-5.12718591209155i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=-(R2C10-RC[-6])/R2C10">
+          <Data ss:Type="Number">-0.421875</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">-2.37037037037037</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">34274</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">28.9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">38</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-8.00536421127028-1.10458392506802i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=-(R2C10-RC[-6])/R2C10">
+          <Data ss:Type="Number">-0.40625</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">-2.46153846153846</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">34304</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">28.7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">39</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-19.0388300101092-4.70505183664543i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=-(R2C10-RC[-6])/R2C10">
+          <Data ss:Type="Number">-0.390625</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">-2.56</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">34335</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">35.4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">40</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-1.13015151901656-3.72792206135787i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=-(R2C10-RC[-6])/R2C10">
+          <Data ss:Type="Number">-0.375</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">-2.66666666666667</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">34366</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">32.5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">41</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-12.9801583844602-3.9920834642135i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=-(R2C10-RC[-6])/R2C10">
+          <Data ss:Type="Number">-0.359375</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">-2.78260869565217</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">34394</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">31.9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">42</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-0.886673241364401-18.5928732014847i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=-(R2C10-RC[-6])/R2C10">
+          <Data ss:Type="Number">-0.34375</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">-2.90909090909091</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">34425</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">28.5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">43</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-10.477194251915-2.08269367430177i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=-(R2C10-RC[-6])/R2C10">
+          <Data ss:Type="Number">-0.328125</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">-3.04761904761905</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">34455</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">25.8</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">44</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-7.56140695106109+4.22808423779886i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=-(R2C10-RC[-6])/R2C10">
+          <Data ss:Type="Number">-0.3125</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">-3.2</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">34486</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">24.2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">45</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-0.569824581761658+8.85841702866308i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=-(R2C10-RC[-6])/R2C10">
+          <Data ss:Type="Number">-0.296875</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">-3.36842105263158</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">34516</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">23.5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">46</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-14.2872550838265-7.88056262575424i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=-(R2C10-RC[-6])/R2C10">
+          <Data ss:Type="Number">-0.28125</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">-3.55555555555556</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">34547</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">24.9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">47</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-11.6522967732409-13.5151749644384i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=-(R2C10-RC[-6])/R2C10">
+          <Data ss:Type="Number">-0.265625</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">-3.76470588235294</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">34578</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">27.1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">48</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'5.50000000000006+2.99999999999994i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=-(R2C10-RC[-6])/R2C10">
+          <Data ss:Type="Number">-0.25</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">-4</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">34608</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">26.1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">49</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'12.8498068631753-12.6293875633889i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=-(R2C10-RC[-6])/R2C10">
+          <Data ss:Type="Number">-0.234375</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">-4.26666666666667</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">34639</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">28.1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">50</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-6.79928247934637-7.30195488444694i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=-(R2C10-RC[-6])/R2C10">
+          <Data ss:Type="Number">-0.21875</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">-4.57142857142857</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">34669</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">33.1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">51</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'1.89156330032178-24.064995150339i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=-(R2C10-RC[-6])/R2C10">
+          <Data ss:Type="Number">-0.203125</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">-4.92307692307692</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">34700</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">38.6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">52</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'5.13785714984278-13.2689720370489i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=-(R2C10-RC[-6])/R2C10">
+          <Data ss:Type="Number">-0.1875</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">-5.33333333333333</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">34731</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">36.5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">53</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'31.1228477478506-26.5885553351887i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=-(R2C10-RC[-6])/R2C10">
+          <Data ss:Type="Number">-0.171875</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">-5.81818181818182</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">34759</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">34.4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">54</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-21.8295820000544-11.1875274565674i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=-(R2C10-RC[-6])/R2C10">
+          <Data ss:Type="Number">-0.15625</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">-6.4</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">34790</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">33.7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">55</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-22.5404704067401-21.1177102702097i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=-(R2C10-RC[-6])/R2C10">
+          <Data ss:Type="Number">-0.140625</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">-7.11111111111111</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">34820</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">27.7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">56</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-7.06984848098352-21.7279220613579i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=-(R2C10-RC[-6])/R2C10">
+          <Data ss:Type="Number">-0.125</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">-8</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">34851</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">28.1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">57</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-13.111904277007-52.2060788190728i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=-(R2C10-RC[-6])/R2C10">
+          <Data ss:Type="Number">-0.109375</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">-9.14285714285714</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">34881</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">28</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">58</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-17.4073127354457-80.0300173114832i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=-(R2C10-RC[-6])/R2C10">
+          <Data ss:Type="Number">-0.09375</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">-10.6666666666667</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">34912</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">29.5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">59</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'29.378615589155+85.3854777040555i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=-(R2C10-RC[-6])/R2C10">
+          <Data ss:Type="Number">-0.078125</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">-12.8</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">34943</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">28.1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">60</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-16.4441758305038+4.63784659125857i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=-(R2C10-RC[-6])/R2C10">
+          <Data ss:Type="Number">-0.0625</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">-16</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">34973</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">29.9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">61</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-6.68275686689722-50.9210810586189i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=-(R2C10-RC[-6])/R2C10">
+          <Data ss:Type="Number">-0.046875</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">-21.3333333333333</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">35004</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">30.2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">62</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'-27.9374710940334-55.1897756248931i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=-(R2C10-RC[-6])/R2C10">
+          <Data ss:Type="Number">-0.03125</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">-32</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">35034</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">34</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">63</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'13.3325801975738-121.422071786327i</Data>
+        </Cell>
+        <Cell ss:Index="9" ss:Formula="=IMABS(RC[-4])">
+          <Data ss:Type="Error">#NAME?</Data>
+        </Cell>
+        <Cell ss:Formula="=-(R2C10-RC[-6])/R2C10">
+          <Data ss:Type="Number">-0.015625</Data>
+        </Cell>
+        <Cell ss:Formula="=1/RC[-1]">
+          <Data ss:Type="Number">-64</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">35065</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">42.4</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">35096</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">36.9</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">35125</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">34</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">35156</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">32.5</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">35186</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">31.6</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">35217</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">30.8</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">35247</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">30.1</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2">
+          <Data ss:Type="Number">35278</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">33.6</Data>
+        </Cell>
+      </Row>
+    </Table>
+    <WorksheetOptions />
+  </Worksheet>
+  <Worksheet ss:Name="Fit">
+    <Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="82" x:FullColumns="1" x:FullRows="1">
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Residential Electric Power Usage</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Coefficients</Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">'Curve Fit Statistics</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'A=</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">-3.93295360299084</Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">'SumSquared Residual</Data>
+        </Cell>
+        <Cell ss:Formula="=R[+79]C">
+          <Data ss:Type="Number">1493.74350474638</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'B=</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0.525280433559757</Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">'Average Y</Data>
+        </Cell>
+        <Cell ss:Formula="=AVERAGE(R[+6]C[-3]:R[+77]C[-3])">
+          <Data ss:Type="Number">26.7861111111111</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'C=</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1.62201978246256</Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">'SumSquared Average</Data>
+        </Cell>
+        <Cell ss:Formula="=R[+77]C[+1]">
+          <Data ss:Type="Number">2051.94611111111</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'D=</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">26.797961292304</Data>
+        </Cell>
+        <Cell ss:Index="5" ss:Formula="=1-R[-3]C/R[-1]C">
+          <Data ss:Type="Number">0.272035704710815</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'E=</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0</Data>
+        </Cell>
+      </Row>
+      <Row ss:Index="9">
+        <Cell>
+          <Data ss:Type="String">'Month</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Usage (kWh/day)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'t</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'Fit</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="String">'(y-&lt;y&gt;)^2</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">33117</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">20.9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">23.5006772681086</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">6.7635222528566</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">34.6463040123457</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">33147</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">19.4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">25.0202458179487</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">31.5871630541701</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">54.554637345679</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">33178</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">18.9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">27.0191456552827</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">65.9205261716962</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">62.1907484567902</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">33208</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">20.4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">4</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">28.9584068232067</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">73.2463273515113</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">40.7824151234568</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">33239</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">26.3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">5</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">30.3151399359798</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">16.1213487054997</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">0.236304012345679</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">33270</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">26.4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">6</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">30.7235245689544</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">18.6928646983526</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">0.149081790123458</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">33298</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">23</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">7</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">30.0734466264048</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">50.0336471765978</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">14.334637345679</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">33329</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">21.5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">8</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">28.5401887683903</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">49.5642578945692</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">27.9429706790123</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">33359</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">20.2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">9</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">26.5371683689194</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">40.1597029360321</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">43.3768595679012</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">33390</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">19.9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">10</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">24.6044664256572</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">22.1320043501363</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">47.4185262345679</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">33420</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">18.7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">11</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">23.2632037389625</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">20.8228283632809</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">65.3851929012346</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">33451</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">20.3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">12</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">22.8750293914667</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">6.63077636691753</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">42.069637345679</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">33482</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">19.2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">13</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">23.5446081129546</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">18.8756196551513</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">57.5490817901235</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">33512</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">21.6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">14</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">25.0913991840145</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">12.1898682621374</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">26.8957484567901</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">33543</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">23.7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">15</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">27.0983362257626</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">11.5486891033305</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">9.52408179012346</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">33573</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">24.5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">16</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">29.0242821833566</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">20.4691292746375</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">5.22630401234568</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">33604</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">29.2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">17</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">30.3499378951395</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">1.32235716267797</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">5.82685956790123</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">33635</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">32.2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">18</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">30.717862438608</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">2.19673175088911</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">29.3101929012346</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">33664</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">27.2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">19</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">30.0288511054351</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">8.00239857672152</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">0.171304012345678</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">33695</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">23.2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">20</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">28.4686842942235</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">27.7590341921975</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">12.8601929012346</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">33725</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">22.5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">21</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">26.4580349287966</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">15.6660404975737</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">18.3707484567901</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">33756</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">20.4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">22</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">24.539041030076</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">17.1316606486524</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">40.7824151234568</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">33786</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">20.5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">23</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">23.2291272531518</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">7.44813556389582</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">39.5151929012346</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">33817</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">19.9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">24</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">22.8814899707038</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">8.88928244540725</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">47.4185262345679</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">33848</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">23.5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">25</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">23.5898637699482</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">0.00807549714930726</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">10.7985262345679</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">33878</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">22.1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">26</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">25.1632474866848</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">9.38348516468084</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">21.959637345679</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">33909</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">24.3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">27</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">27.1774044792549</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">8.27945653723593</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">6.18074845679012</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">33939</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">25.3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">28</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">29.0892509536595</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">14.3584227898095</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">2.2085262345679</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">33970</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">27.8</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">29</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">30.3832894384042</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">6.6733843225706</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">1.02797067901235</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">34001</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">29.9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">30</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">30.7106040682072</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">0.657078955394117</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">9.69630401234567</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">34029</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">25.2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">31</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">29.9829399197233</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">22.8765142756828</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">2.51574845679013</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">34060</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">23.4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">32</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">28.3964994776512</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">24.9650070301683</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">11.4657484567901</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">34090</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">21.6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">33</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">26.3790399115719</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">22.839222476397</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">26.8957484567901</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">34121</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">22.8</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">34</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">24.4745354992738</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">2.80406913832817</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">15.8890817901235</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">34151</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">23.3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">35</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">23.1965040478265</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">0.0107114121163045</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">12.1529706790123</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">34182</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">23.4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">36</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">22.8895453933212</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">0.260563905479564</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">11.4657484567901</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">34213</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">21.4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">37</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">23.6364258103357</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">5.00160040513577</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">29.0101929012346</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">34243</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">25.3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">38</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">25.2357614682986</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">0.00412658895514753</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">2.2085262345679</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">34274</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">28.9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">39</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">27.2563182180309</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">2.70168980037722</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">4.46852623456789</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">34304</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">28.7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">40</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">29.1532866778991</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">0.205468812360781</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">3.66297067901234</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">34335</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">35.4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">41</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">30.4151809845462</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">24.84842061683</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">74.1990817901234</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">34366</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">32.5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">42</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">30.7017524134649</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">3.23369438247938</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">32.6485262345679</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">34394</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">31.9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">43</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">29.9357317649637</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">3.85834969917258</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">26.1518595679012</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">34425</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">28.5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">44</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">28.3236637133675</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">0.0310944859833373</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">2.93741512345679</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">34455</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">25.8</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">45</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">26.300215485151</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">0.250215531584889</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">0.972415123456789</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">34486</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">24.2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">46</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">24.4109761008295</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">0.0445109151212051</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">6.68797067901235</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">34516</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">23.5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">47</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">23.1653474076243</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">0.111992357583746</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">10.7985262345679</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">34547</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">24.9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">48</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">22.8991923790353</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">4.00323113611039</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">3.5574151234568</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">34578</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">27.1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">49</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">23.6842752733854</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">11.6671754080062</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">0.0985262345679019</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">34608</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">26.1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">50</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">25.308911600121</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">0.625820856423051</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">0.470748456790122</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">34639</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">28.1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">51</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">27.3350453072826</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">0.585155681910327</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">1.72630401234568</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">34669</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">33.1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">52</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">29.2163632798085</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">15.0826341744199</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">39.8651929012346</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">34700</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">38.6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">53</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">30.4455995468699</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">66.4942467500091</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">139.567970679012</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">34731</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">36.5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">54</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">30.6913110789019</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">33.740866982088</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">94.359637345679</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">34759</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">34.4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">55</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">29.8872458649951</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">20.3649498830042</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">57.9713040123457</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">34790</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">33.7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">56</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">28.250206661142</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">29.7002474362611</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">47.8018595679013</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">34820</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">27.7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">57</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">26.2215937479728</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">2.18568504603326</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">0.835192901234566</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">34851</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">28.1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">58</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">24.348388717043</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">14.0745872184102</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">1.72630401234568</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">34881</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">28</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">59</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">23.1356700199768</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">23.6617061545522</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">1.4735262345679</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">34912</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">29.5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">60</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">22.9104269994548</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">43.422472329514</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">7.36519290123457</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">34943</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">28.1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">61</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">23.7333926741087</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">19.067259538528</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">1.72630401234568</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">34973</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">29.9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">62</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">25.3826680943676</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">20.4062875456444</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">9.69630401234567</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">35004</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">30.2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">63</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">27.4135536882085</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">7.76428304849622</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">11.654637345679</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">35034</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">34</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">64</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">29.2784550736894</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">22.2929864911695</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">52.0401929012346</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">35065</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">42.4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">65</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">30.4745327384997</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">142.216769405116</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">243.793526234568</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">35096</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">36.9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">66</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">30.6792843163797</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">38.69730361644</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">102.29074845679</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">35125</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">34</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">67</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">29.8375019639723</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">17.3263898999345</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">52.0401929012346</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">35156</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">32.5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">68</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">28.1761582337415</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">18.6956076196415</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">32.6485262345679</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">35186</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">31.6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">69</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">26.1432067159378</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">29.7765929449868</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">23.1735262345679</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">35217</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">30.8</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">70</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">24.2867988343961</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">42.4217894236234</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">16.1113040123457</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">35247</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">30.1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">71</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">23.1074839699425</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">48.8952804306113</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">10.9818595679012</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">35278</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">33.6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">72</Data>
+        </Cell>
+        <Cell ss:Formula="=Fit!R3C2*SIN(Fit!R4C2*RC[-1]+Fit!R5C2)+Fit!R6C2+Fit!R7C2*RC[-1]">
+          <Data ss:Type="Number">22.923244679681</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-1]-RC[-3])^2">
+          <Data ss:Type="Number">113.993104169961</Data>
+        </Cell>
+        <Cell ss:Formula="=(RC[-4]-R4C5)^2">
+          <Data ss:Type="Number">46.4290817901235</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="5" ss:Formula="=SUM(R[-72]C:R[-1]C)">
+          <Data ss:Type="Number">1493.74350474638</Data>
+        </Cell>
+        <Cell ss:Formula="=SUM(R[-72]C:R[-1]C)">
+          <Data ss:Type="Number">2051.94611111111</Data>
+        </Cell>
+      </Row>
+    </Table>
+    <WorksheetOptions />
+  </Worksheet>
+</Workbook>

@@ -1,0 +1,3650 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Workbook xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns="urn:schemas-microsoft-com:office:spreadsheet">
+  <DocumentProperties />
+  <OfficeDocumentSettings />
+  <ExcelWorkbook />
+  <Styles />
+  <Worksheet ss:Name="Blackbody Table">
+    <Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="110" x:FullColumns="1" x:FullRows="1">
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Planck Distribution for Blackbody Radiation</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">'h =</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">6.63E-34</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'J-s</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">'c =</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">30000000000</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'cm/s</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">'k =</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1.38E-23</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'J/K</Data>
+        </Cell>
+      </Row>
+      <Row ss:Index="8">
+        <Cell ss:Index="3">
+          <Data ss:Type="String">'T(K)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Wavelength (cm)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">500</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1000</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1500</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">2000</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">2E-05</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">2.97668875940638E-51</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">5.90554084603357E-20</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">1.59870534792625E-09</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">0.000263040609864841</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">4E-05</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">1.84548151438549E-21</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">8.22001905827627E-06</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">1.35246862661351</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">548.598219210248</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">6E-05</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">6.57903435360598E-12</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">0.178102864410009</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">534.778414197663</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">29304.0683624753</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">8E-05</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">2.56875595571133E-07</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">17.1436943503202</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">6953.99278523584</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">140071.040340247</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.0001</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">0.000113481588437181</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">206.267542844642</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">25174.5413344404</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">278295.081674351</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00012</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">0.00556571451281275</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">915.752136327351</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">50196.2670380083</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">372369.827914891</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00014</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">0.079642589292111</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">2356.32520541442</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">72951.3262522895</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">407652.79239829</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00016</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">0.535740448447508</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">4377.22001063271</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">88365.1056477722</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">400011.365451031</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00018</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">2.20073421480519</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">6610.2080050052</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">95792.118727402</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">368825.335442975</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.0002</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">6.44586071389507</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">8696.72130232347</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">96796.0121801447</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">328020.945172601</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00022</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">14.8376140312741</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">10404.3156373387</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">93442.7428544766</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">285718.348767738</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00024</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">28.6172542602297</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">11636.5571223404</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">87523.9809693779</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">245999.04494004</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00026</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">48.313864534963</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">12395.6649340312</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">80350.400619468</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">210557.875350882</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00028</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">73.6351626692005</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">12739.1497624466</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">72788.2501686388</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">179813.291141739</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.0003</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">103.598935532676</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">12746.7999578791</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">65365.5276296489</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">153562.813450731</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00032</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">136.788125332272</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">12500.3551703447</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">58376.7264847946</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">131342.38145906</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00034</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">171.620722435674</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">12073.0927906489</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">51964.943308313</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">112611.966673188</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00036</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">206.569000156413</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">11525.791732593</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">46179.9471361176</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">96844.9371797831</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00038</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">240.304542593452</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">10906.2707712731</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">41016.9022702981</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">83566.2697817909</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.0004</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">271.772540697608</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">10250.6545366438</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">36441.1754575466</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">72364.6911340136</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00042</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">300.211219145225</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">9585.28397282487</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">32403.7135247131</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">62892.2763786528</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00044</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">325.134863666833</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">8928.69839899181</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">28850.262995129</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">54858.6056084373</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00046</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">346.296531855472</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">8293.42352532146</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">25726.6724832382</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">48023.0836460604</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00048</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">363.642410073136</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">7687.47015437624</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">22981.7575534056</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">42187.1638779285</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.0005</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">377.26569095443</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">7115.53495662433</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">20568.682137995</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">37187.2419796949</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00052</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">387.364529188474</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">6579.93360471506</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">18445.4610516412</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">32888.4898826216</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00054</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">394.206249907004</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">6081.30991092906</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">16574.9609809805</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">29179.6597965042</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00056</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">398.098430076455</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">5619.16534817934</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">14924.6319921998</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">25968.7809080836</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00058</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">399.36655711382</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">5192.24856331074</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">13466.1096883756</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">23179.6321568209</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.0006</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">398.337498683723</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">4798.83792033536</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">12174.7706085069</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">20748.8684799853</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00062</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">395.327835557303</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">4436.94353287733</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">11029.2878079995</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">18623.6868860608</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00064</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">390.636099073273</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">4104.44942059562</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">10011.2117405631</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">16759.9333261356</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00066</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">384.538036438175</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">3799.21158783592</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">9104.58842462512</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">15120.5669983945</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00068</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">377.284149707778</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">3519.12395853711</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">8295.6191529727</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">13674.4133485082</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.0007</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">369.098887125611</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">3262.16109057136</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">7572.36162535079</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">12395.149809942</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00072</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">360.18099164353</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">3026.40428686822</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">6924.47004936575</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">11260.4790896427</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00074</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">350.704622776186</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">2810.05597640669</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">6342.97065041568</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">10251.4536655731</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00076</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">340.820961602285</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">2611.44593068097</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">5820.06864897996</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">9351.92235810283</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00078</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">330.660084853778</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">2429.03190803506</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">5348.98278980556</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">8548.07562976866</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.0008</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">320.332954270118</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">2261.39659793793</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">4923.80375062151</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">7828.07090624767</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00082</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">309.933413997423</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">2107.24220667881</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">4539.37310270849</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">7181.72291434295</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00084</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">299.540124150777</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">1965.3836368329</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">4191.17987428842</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">6600.24698484284</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00086</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">289.218384944727</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">1834.74092868883</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">3875.27214208628</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">6076.04562094429</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00088</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">279.021824968494</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">1714.33142526366</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">3588.18142637681</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">5602.53050924705</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.0009</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">268.993940862753</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">1603.26197313671</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">3326.85798102705</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">5173.97364841297</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00092</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">259.169485166296</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">1500.72136393939</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">3088.61534950243</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">4785.38246864488</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00094</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">249.575705495953</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">1405.97314471226</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">2871.08280111795</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">4432.39477514793</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00096</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">240.233442324258</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">1318.34887118526</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">2672.16447146796</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">4111.19011969554</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00098</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">231.158095059674</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">1237.24184023908</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">2490.00421029405</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">3818.41482503994</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.001</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">222.36046739451</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">1162.10131186547</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">2322.95529264672</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">3551.11838775857</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00102</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">213.847503326391</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">1092.42721356019</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">2169.5542785795</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">3306.69939037586</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00104</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">205.622925147346</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">1027.76530883193</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">2028.49841604862</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">3082.85938236604</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00106</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">197.687784225286</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">967.702804624974</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">1898.62607410772</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">2877.56345707769</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00108</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">190.040934716533</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">911.864368640757</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">1778.89977146336</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">2689.00646975534</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.0011</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">182.679439544778</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">859.908525864318</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">1668.39143122546</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">2515.58402023478</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00112</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">175.598917130604</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">811.524403377611</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">1566.26954816095</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">2355.86747018916</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00114</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">168.793836503284</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">766.428793281312</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">1471.78800156821</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">2208.5823850965</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00116</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">162.257767603461</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">724.363504900654</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">1384.27628641178</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">2072.58989027159</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00118</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">155.983592810326</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">685.092979169883</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">1303.13096875392</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">1946.87051227756</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.0012</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">149.96368501048</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">648.402139999539</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">1227.80819976987</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">1830.51014496165</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00122</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">144.190056872521</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">614.094459410757</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">1157.81714655599</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">1722.68783579477</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00124</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">138.654485402416</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">581.990215189398</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">1092.71421822297</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">1622.66513519538</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00126</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">133.348615328037</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">551.924921716992</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">1032.0979829866</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">1529.7767907598</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00128</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">128.264044393613</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">523.747916441736</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">975.604686607436</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">1443.42260116028</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.0013</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">123.392393232004</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">497.321086142201</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">922.904294993865</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">1363.06027202032</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00132</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">118.725362119872</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">472.517718699826</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">873.696994409197</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">1288.19913923841</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00134</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">114.254776603287</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">449.221467531301</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">827.710091795984</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">1218.39464474868</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00136</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">109.972623704284</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">427.325417140881</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">784.695265489583</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">1153.24346619123</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00138</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">105.871080177935</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">406.731239440648</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">744.426123237561</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">1092.37921591556</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.0014</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">101.942534080355</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">387.348431560688</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">706.696030140866</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">1035.46863657353</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00142</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">98.1796007270707</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">369.093626839034</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">671.316174028654</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">982.208230615564</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00144</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">94.5751339646317</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">351.889971551335</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">638.113839990769</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">932.321269568546</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00146</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">91.1222335433496</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">335.666560720898</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">606.930869421249</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">885.555136282814</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00148</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">87.8142492627089</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">320.35792704916</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">577.622282058114</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">841.678959584926</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.0015</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">84.6447824608845</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">305.90357763249</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">550.055042211316</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">800.481506125814</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00152</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">81.60768533378</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">292.247573690713</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">524.106952713328</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">761.769298808252</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00154</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">78.6970584951554</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">279.338149032639</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">499.665662157328</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">725.364935127555</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00156</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">75.9072471260953</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">267.12736343027</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">476.627772750401</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">691.105582161664</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00158</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">73.2328360078357</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">255.570787471923</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">454.898037641272</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">658.841627882342</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.0016</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">70.66864368556</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">244.627215820239</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">434.388637915704</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">628.435470996375</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00162</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">68.2097159711131</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">234.258406118632</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">415.018530615268</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">599.760433722265</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00164</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">65.8513189587125</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">224.428841073216</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">396.712860149962</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">572.699783812679</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00166</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">63.5889316988576</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">215.105511490395</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">379.402426362193</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">547.145853787375</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00168</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">61.4182386510279</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">206.257718276338</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">363.023203276007</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">522.999246780511</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.0017</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">59.335122014838</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">197.856891606588</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">347.515903245873</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">500.168119660249</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00172</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">57.3356540215257</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">189.876425654508</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">332.825581816437</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">478.567535172654</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00174</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">55.4160892525743</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">182.291527428711</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">318.901279129335</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">458.118875818122</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00176</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">53.5728570394894</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">175.07907841397</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">305.695694174739</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">438.749313005278</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00178</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">51.8025539879594</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">168.217507839336</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">293.164888591914</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">420.39132576062</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.0018</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">50.101936660522</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">161.686676512905</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">281.268017081682</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">402.982263915736</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00182</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">48.4679144441947</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">155.467770266332</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">269.967081810312</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">386.463951259463</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00184</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">46.8975426231057</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">149.543202145152</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">259.226708464337</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">370.782324640018</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00186</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">45.3880156707798</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">143.896522564341</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">249.013941863521</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">355.887105440619</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00188</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">43.9366607722579</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">138.512336723372</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">239.298059258782</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">341.731500238981</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.0019</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">42.5409315825105</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">133.376228642261</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">230.050399636621</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">328.271927802798</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00192</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">41.1984022245394</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">128.474691240485</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">221.244207524567</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">315.46776987559</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00194</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">39.9067615280427</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">123.795061935004</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">212.854489945936</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">303.281143474908</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00196</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">38.663807507471</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">119.325463282498</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">204.857885309048</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">291.676692662211</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00198</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">37.4674420766464</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">115.054748234956</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">197.232543137985</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">280.621397954345</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.002</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">36.3156659957957</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">110.972449617455</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">189.958013660715</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C4*R3C4^2/RC1^5*1/(EXP(R2C4*R3C4/(RC1*R4C4*R9C))-1)">
+          <Data ss:Type="Number">270.084401733697</Data>
+        </Cell>
+      </Row>
+    </Table>
+    <WorksheetOptions />
+  </Worksheet>
+  <Worksheet ss:Name="Blackbody Table Function">
+    <Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="110" x:FullColumns="1" x:FullRows="1">
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Planck Distribution for Blackbody Radiation</Data>
+        </Cell>
+      </Row>
+      <Row ss:Index="8">
+        <Cell ss:Index="3">
+          <Data ss:Type="String">'T(K)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Wavelength (cm)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">500</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1000</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1500</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">2000</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">2E-05</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">2.97668875940638E-51</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">5.90554084603357E-20</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">1.59870534792625E-09</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">0.000263040609864841</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">4E-05</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">1.84548151438549E-21</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">8.22001905827627E-06</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">1.35246862661351</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">548.598219210248</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">6E-05</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">6.57903435360598E-12</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">0.178102864410009</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">534.778414197663</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">29304.0683624753</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">8E-05</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">2.56875595571133E-07</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">17.1436943503202</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">6953.99278523584</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">140071.040340247</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.0001</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">0.000113481588437181</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">206.267542844642</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">25174.5413344404</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">278295.081674351</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00012</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">0.00556571451281275</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">915.752136327351</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">50196.2670380083</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">372369.827914891</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00014</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">0.079642589292111</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">2356.32520541442</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">72951.3262522895</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">407652.79239829</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00016</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">0.535740448447508</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">4377.22001063271</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">88365.1056477722</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">400011.365451031</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00018</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">2.20073421480519</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">6610.2080050052</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">95792.118727402</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">368825.335442975</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.0002</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">6.44586071389507</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">8696.72130232347</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">96796.0121801447</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">328020.945172601</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00022</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">14.8376140312741</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">10404.3156373387</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">93442.7428544766</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">285718.348767738</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00024</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">28.6172542602297</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">11636.5571223404</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">87523.9809693779</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">245999.04494004</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00026</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">48.313864534963</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">12395.6649340312</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">80350.400619468</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">210557.875350882</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00028</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">73.6351626692005</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">12739.1497624466</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">72788.2501686388</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">179813.291141739</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.0003</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">103.598935532676</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">12746.7999578791</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">65365.5276296489</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">153562.813450731</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00032</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">136.788125332272</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">12500.3551703447</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">58376.7264847946</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">131342.38145906</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00034</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">171.620722435674</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">12073.0927906489</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">51964.943308313</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">112611.966673188</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00036</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">206.569000156413</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">11525.791732593</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">46179.9471361176</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">96844.9371797831</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00038</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">240.304542593452</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">10906.2707712731</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">41016.9022702981</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">83566.2697817909</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.0004</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">271.772540697608</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">10250.6545366438</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">36441.1754575466</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">72364.6911340136</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00042</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">300.211219145225</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">9585.28397282487</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">32403.7135247131</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">62892.2763786528</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00044</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">325.134863666833</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">8928.69839899181</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">28850.262995129</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">54858.6056084373</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00046</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">346.296531855472</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">8293.42352532146</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">25726.6724832382</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">48023.0836460604</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00048</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">363.642410073136</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">7687.47015437624</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">22981.7575534056</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">42187.1638779285</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.0005</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">377.26569095443</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">7115.53495662433</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">20568.682137995</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">37187.2419796949</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00052</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">387.364529188474</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">6579.93360471506</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">18445.4610516412</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">32888.4898826216</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00054</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">394.206249907004</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">6081.30991092906</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">16574.9609809805</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">29179.6597965042</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00056</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">398.098430076455</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">5619.16534817934</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">14924.6319921998</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">25968.7809080836</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00058</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">399.36655711382</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">5192.24856331074</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">13466.1096883756</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">23179.6321568209</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.0006</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">398.337498683723</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">4798.83792033536</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">12174.7706085069</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">20748.8684799853</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00062</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">395.327835557303</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">4436.94353287733</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">11029.2878079995</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">18623.6868860608</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00064</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">390.636099073273</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">4104.44942059562</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">10011.2117405631</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">16759.9333261356</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00066</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">384.538036438175</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">3799.21158783592</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">9104.58842462512</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">15120.5669983945</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00068</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">377.284149707778</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">3519.12395853711</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">8295.6191529727</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">13674.4133485082</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.0007</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">369.098887125611</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">3262.16109057136</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">7572.36162535079</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">12395.149809942</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00072</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">360.18099164353</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">3026.40428686822</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">6924.47004936575</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">11260.4790896427</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00074</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">350.704622776186</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">2810.05597640669</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">6342.97065041568</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">10251.4536655731</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00076</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">340.820961602285</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">2611.44593068097</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">5820.06864897996</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">9351.92235810283</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00078</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">330.660084853778</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">2429.03190803506</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">5348.98278980556</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">8548.07562976866</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.0008</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">320.332954270118</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">2261.39659793793</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">4923.80375062151</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">7828.07090624767</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00082</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">309.933413997423</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">2107.24220667881</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">4539.37310270849</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">7181.72291434295</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00084</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">299.540124150777</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">1965.3836368329</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">4191.17987428842</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">6600.24698484284</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00086</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">289.218384944727</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">1834.74092868883</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">3875.27214208628</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">6076.04562094429</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00088</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">279.021824968494</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">1714.33142526366</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">3588.18142637681</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">5602.53050924705</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.0009</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">268.993940862753</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">1603.26197313671</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">3326.85798102705</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">5173.97364841297</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00092</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">259.169485166296</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">1500.72136393939</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">3088.61534950243</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">4785.38246864488</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00094</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">249.575705495953</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">1405.97314471226</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">2871.08280111795</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">4432.39477514793</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00096</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">240.233442324258</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">1318.34887118526</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">2672.16447146796</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">4111.19011969554</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00098</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">231.158095059674</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">1237.24184023908</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">2490.00421029405</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">3818.41482503994</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.001</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">222.36046739451</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">1162.10131186547</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">2322.95529264672</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">3551.11838775857</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00102</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">213.847503326391</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">1092.42721356019</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">2169.5542785795</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">3306.69939037586</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00104</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">205.622925147346</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">1027.76530883193</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">2028.49841604862</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">3082.85938236604</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00106</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">197.687784225286</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">967.702804624974</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">1898.62607410772</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">2877.56345707769</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00108</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">190.040934716533</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">911.864368640757</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">1778.89977146336</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">2689.00646975534</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.0011</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">182.679439544778</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">859.908525864318</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">1668.39143122546</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">2515.58402023478</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00112</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">175.598917130604</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">811.524403377611</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">1566.26954816095</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">2355.86747018916</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00114</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">168.793836503284</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">766.428793281312</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">1471.78800156821</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">2208.5823850965</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00116</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">162.257767603461</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">724.363504900654</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">1384.27628641178</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">2072.58989027159</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00118</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">155.983592810326</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">685.092979169883</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">1303.13096875392</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">1946.87051227756</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.0012</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">149.96368501048</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">648.402139999539</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">1227.80819976987</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">1830.51014496165</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00122</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">144.190056872521</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">614.094459410757</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">1157.81714655599</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">1722.68783579477</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00124</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">138.654485402416</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">581.990215189398</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">1092.71421822297</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">1622.66513519538</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00126</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">133.348615328037</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">551.924921716992</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">1032.0979829866</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">1529.7767907598</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00128</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">128.264044393613</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">523.747916441736</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">975.604686607436</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">1443.42260116028</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.0013</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">123.392393232004</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">497.321086142201</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">922.904294993865</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">1363.06027202032</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00132</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">118.725362119872</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">472.517718699826</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">873.696994409197</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">1288.19913923841</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00134</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">114.254776603287</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">449.221467531301</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">827.710091795984</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">1218.39464474868</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00136</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">109.972623704284</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">427.325417140881</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">784.695265489583</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">1153.24346619123</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00138</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">105.871080177935</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">406.731239440648</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">744.426123237561</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">1092.37921591556</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.0014</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">101.942534080355</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">387.348431560688</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">706.696030140866</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">1035.46863657353</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00142</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">98.1796007270707</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">369.093626839034</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">671.316174028654</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">982.208230615564</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00144</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">94.5751339646317</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">351.889971551335</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">638.113839990769</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">932.321269568546</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00146</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">91.1222335433496</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">335.666560720898</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">606.930869421249</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">885.555136282814</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00148</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">87.8142492627089</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">320.35792704916</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">577.622282058114</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">841.678959584926</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.0015</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">84.6447824608845</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">305.90357763249</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">550.055042211316</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">800.481506125814</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00152</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">81.60768533378</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">292.247573690713</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">524.106952713328</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">761.769298808252</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00154</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">78.6970584951554</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">279.338149032639</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">499.665662157328</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">725.364935127555</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00156</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">75.9072471260953</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">267.12736343027</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">476.627772750401</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">691.105582161664</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00158</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">73.2328360078357</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">255.570787471923</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">454.898037641272</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">658.841627882342</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.0016</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">70.66864368556</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">244.627215820239</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">434.388637915704</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">628.435470996375</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00162</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">68.2097159711131</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">234.258406118632</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">415.018530615268</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">599.760433722265</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00164</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">65.8513189587125</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">224.428841073216</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">396.712860149962</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">572.699783812679</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00166</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">63.5889316988576</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">215.105511490395</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">379.402426362193</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">547.145853787375</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00168</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">61.4182386510279</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">206.257718276338</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">363.023203276007</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">522.999246780511</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.0017</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">59.335122014838</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">197.856891606588</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">347.515903245873</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">500.168119660249</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00172</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">57.3356540215257</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">189.876425654508</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">332.825581816437</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">478.567535172654</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00174</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">55.4160892525743</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">182.291527428711</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">318.901279129335</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">458.118875818122</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00176</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">53.5728570394894</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">175.07907841397</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">305.695694174739</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">438.749313005278</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00178</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">51.8025539879594</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">168.217507839336</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">293.164888591914</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">420.39132576062</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.0018</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">50.101936660522</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">161.686676512905</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">281.268017081682</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">402.982263915736</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00182</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">48.4679144441947</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">155.467770266332</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">269.967081810312</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">386.463951259463</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00184</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">46.8975426231057</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">149.543202145152</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">259.226708464337</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">370.782324640018</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00186</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">45.3880156707798</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">143.896522564341</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">249.013941863521</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">355.887105440619</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00188</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">43.9366607722579</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">138.512336723372</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">239.298059258782</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">341.731500238981</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.0019</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">42.5409315825105</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">133.376228642261</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">230.050399636621</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">328.271927802798</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00192</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">41.1984022245394</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">128.474691240485</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">221.244207524567</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">315.46776987559</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00194</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">39.9067615280427</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">123.795061935004</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">212.854489945936</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">303.281143474908</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00196</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">38.663807507471</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">119.325463282498</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">204.857885309048</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">291.676692662211</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.00198</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">37.4674420766464</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">115.054748234956</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">197.232543137985</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">280.621397954345</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">0.002</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">36.3156659957957</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">110.972449617455</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">189.958013660715</Data>
+        </Cell>
+        <Cell ss:Formula="=PLANCKBB(RC1, R9C)">
+          <Data ss:Type="Number">270.084401733697</Data>
+        </Cell>
+      </Row>
+    </Table>
+    <WorksheetOptions />
+  </Worksheet>
+  <Worksheet ss:Name="Peak Finder">
+    <Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="10" x:FullColumns="1" x:FullRows="1">
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Peaks in the Planck Distribution</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Use the solver to locate the peaks.</Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">'h =</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">6.63E-34</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'J-s</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">'c =</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">30000000000</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'cm/s</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">'k =</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1.38E-23</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'J/K</Data>
+        </Cell>
+      </Row>
+      <Row ss:Index="6">
+        <Cell>
+          <Data ss:Type="String">'T (K)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">500</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1000</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1500</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">2000</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'Wavelength peak (cm)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0.000580572482290171</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0.000290286241340114</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0.000193524160862297</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0.000145143126939789</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="2" ss:Formula="=2*PI()*R2C5*R3C5^2/R[-1]C^5*1/(EXP(R2C5*R3C5/(R[-1]C*R4C5*R[-2]C))-1)">
+          <Data ss:Type="Number">399.367495300901</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C5*R3C5^2/R[-1]C^5*1/(EXP(R2C5*R3C5/(R[-1]C*R4C5*R[-2]C))-1)">
+          <Data ss:Type="Number">12779.7598496288</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C5*R3C5^2/R[-1]C^5*1/(EXP(R2C5*R3C5/(R[-1]C*R4C5*R[-2]C))-1)">
+          <Data ss:Type="Number">97046.3013581189</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R2C5*R3C5^2/R[-1]C^5*1/(EXP(R2C5*R3C5/(R[-1]C*R4C5*R[-2]C))-1)">
+          <Data ss:Type="Number">408952.315188121</Data>
+        </Cell>
+      </Row>
+    </Table>
+    <WorksheetOptions />
+  </Worksheet>
+  <Worksheet ss:Name="@Planck">
+    <Table ss:ExpandedColumnCount="20" ss:ExpandedRowCount="1000" x:FullColumns="1" x:FullRows="1">
+      <Row>
+        <Cell>
+          <Data ss:Type="Number">2E-05</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">500</Data>
+        </Cell>
+        <Cell ss:Formula="=2*PI()*R[+2]C[-1]*R[+3]C[-1]^2/RC[-2]^5*1/(EXP(R[+2]C[-1]*R[+3]C[-1]/(RC[-2]*R[+4]C[-1]*RC[-1]))-1)">
+          <Data ss:Type="Number">2.97668875940638E-51</Data>
+        </Cell>
+        <Cell ss:Formula="=DEFINE(&quot;PlanckBB&quot;, RC[-1], RC[-3], RC[-2])">
+          <Data ss:Type="String">FUN PLANCKBB AT #3</Data>
+        </Cell>
+      </Row>
+      <Row ss:Index="3">
+        <Cell>
+          <Data ss:Type="String">'h =</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">6.63E-34</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'J-s</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'c =</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">30000000000</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'cm/s</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">'k =</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1.38E-23</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">'J/K</Data>
+        </Cell>
+      </Row>
+    </Table>
+    <WorksheetOptions />
+  </Worksheet>
+</Workbook>
