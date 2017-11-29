@@ -20818,41 +20818,6 @@
   <Worksheet ss:Name="@SDF">
     <Table ss:ExpandedColumnCount="20" ss:ExpandedRowCount="1000" x:FullColumns="1" x:FullRows="1">
       <Row>
-        <Cell ss:Formula="=DEFINE(&quot;LOOKUP_PICKER&quot;, RC[+1], RC[+2], RC[+3], RC[+4])">
-          <Data ss:Type="String">FUN LOOKUP_PICKER AT #0</Data>
-        </Cell>
-        <Cell ss:Formula="=IF(EQUAL(RC[+1], RC[+2]), RC[+3], &quot;LOOKUP_MARKER&quot;)">
-          <Data ss:Type="Error">#EMPTY!</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell ss:Formula="=DEFINE(&quot;LOOKUP_REPLACER&quot;, RC[+1], RC[+2], RC[+3])">
-          <Data ss:Type="String">FUN LOOKUP_REPLACER AT #1</Data>
-        </Cell>
-        <Cell ss:Formula="=IF(EQUAL(RC[+1], &quot;LOOKUP_MARKER&quot;), RC[+2], RC[+1])">
-          <Data ss:Type="Error">#EMPTY!</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell ss:Formula="=DEFINE(&quot;VLOOKUP&quot;, RC[+1], RC[+2], RC[+3], RC[+4], RC[+5])">
-          <Data ss:Type="String">FUN VLOOKUP AT #2</Data>
-        </Cell>
-        <Cell ss:Formula="=IF(EQUAL(RC[+5], &quot;LOOKUP_MARKER&quot;), NA(), RC[+5])">
-          <Data ss:Type="Error">#EMPTY!</Data>
-        </Cell>
-        <Cell ss:Index="7" ss:Formula="=REDUCE(CLOSURE(&quot;LOOKUP_REPLACER&quot;), &quot;LOOKUP_MARKER&quot;, ROWMAP(CLOSURE(&quot;LOOKUP_PICKER&quot;, RC[-4], NA(), NA()), HCAT(SLICE(RC[-3], 1, 1, ROWS(RC[-3]), 1), SLICE(RC[-3], 1, RC[-2], ROWS(RC[-3]), RC[-2]))))">
-          <Data ss:Type="Error">#EMPTY!</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell ss:Formula="=DEFINE(&quot;HLOOKUP&quot;, RC[+1], RC[+2], RC[+3], RC[+4], RC[+5])">
-          <Data ss:Type="String">FUN HLOOKUP AT #3</Data>
-        </Cell>
-        <Cell ss:Formula="=VLOOKUP(RC[+1], TRANSPOSE(RC[+2]), RC[+3], RC[+4])">
-          <Data ss:Type="Error">#EMPTY!</Data>
-        </Cell>
-      </Row>
-      <Row>
         <Cell ss:Formula="=DEFINE(&quot;ISBLANK&quot;, RC[+1], RC[+2])">
           <Data ss:Type="String">FUN ISBLANK AT #4</Data>
         </Cell>
@@ -20898,4 +20863,195 @@
     </Table>
     <WorksheetOptions />
   </Worksheet>
+   <Worksheet ss:Name="@Lookup">
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="46" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="65.25" ss:DefaultRowHeight="12">
+   <Column ss:AutoFitWidth="0" ss:Width="75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="99"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Excel-style lookup functions implemented as sheet-defined functions</Data></Cell>
+   </Row>
+   <Row ss:Index="3" ss:AutoFitHeight="0">
+    <Cell
+     ss:Formula="=DEFINE(&quot;matchcolaux&quot;,R[8]C[1],R[1]C[1],R[2]C[1],R[3]C[1],R[4]C[1])"><Data
+      ss:Type="Error">#NAME?</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">MATCHCOLAUX(x, arr, a, b)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">x =</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">arr =</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">a =</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">b =</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">m =</Data></Cell>
+    <Cell ss:Formula="=CEILING((R[-2]C+R[-1]C)/2, 1)"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:Formula="=matchcolaux(R[-5]C,R[-4]C,R[-1]C,R[-2]C)"><Data
+      ss:Type="Error">#NAME?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:Formula="=matchcolaux(R[-6]C,R[-5]C,R[-4]C,R[-2]C-1)"><Data
+      ss:Type="Error">#NAME?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">result =</Data></Cell>
+    <Cell
+     ss:Formula="=IF(R[-5]C&gt;R[-4]C,NA(), IF(INDEX(R[-6]C,1,R[-4]C)&lt;=R[-7]C, R[-4]C, IF(INDEX(R[-6]C,1, R[-3]C)&lt;=R[-7]C, R[-2]C,R[-1]C)))"><Data
+      ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row ss:Index="13" ss:AutoFitHeight="0">
+    <Cell
+     ss:Formula="=DEFINE(&quot;matchrowaux&quot;,R[6]C[1],R[1]C[1],R[2]C[1],R[3]C[1],R[4]C[1])"><Data
+      ss:Type="Error">#NAME?</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">MATCHROWAUX(x, arr, a, b)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">x =</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">arr =</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">a =</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">b =</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">m =</Data></Cell>
+    <Cell ss:Formula="=CEILING((R[-2]C+R[-1]C)/2, 1)"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">result =</Data></Cell>
+    <Cell
+     ss:Formula="=IF(R[-3]C&gt;R[-2]C,NA(), IF(INDEX(R[-4]C,R[-2]C,1)&lt;=R[-5]C, R[-2]C, IF(INDEX(R[-4]C,R[-1]C,1)&lt;=R[-5]C, matchrowaux(R[-5]C,R[-4]C,R[-1]C,R[-2]C),matchrowaux(R[-5]C,R[-4]C,R[-3]C,R[-1]C-1))))"><Data
+      ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row ss:Index="21" ss:AutoFitHeight="0">
+    <Cell ss:Formula="=DEFINE(&quot;match&quot;,R[3]C[1],R[1]C[1],R[2]C[1])"><Data
+      ss:Type="Error">#NAME?</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">MATCH(x,arr)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">x = </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">arr =</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">result =</Data></Cell>
+    <Cell
+     ss:Formula="=IF(ROWS(R[-1]C)=1,matchcolaux(R[-2]C,R[-1]C,1,COLUMNS(R[-1]C)), matchrowaux(R[-2]C,R[-1]C,1,ROWS(R[-1]C)))"><Data
+      ss:Type="Error">#NAME?</Data></Cell>
+   </Row>
+   <Row ss:Index="26" ss:AutoFitHeight="0">
+    <Cell ss:Formula="=DEFINE(&quot;hlookup&quot;,R[4]C[1],R[1]C[1],R[2]C[1],R[3]C[1])"><Data
+      ss:Type="Error">#NAME?</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">HLOOKUP(x, arr, r)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">x =</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">arr =</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">r =</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">result =</Data></Cell>
+    <Cell
+     ss:Formula="=INDEX(R[-2]C, R[-1]C, matchcolaux(R[-3]C, R[-2]C, 1, COLUMNS(R[-2]C)))"><Data
+      ss:Type="Error">#NAME?</Data></Cell>
+   </Row>
+   <Row ss:Index="32" ss:AutoFitHeight="0">
+    <Cell ss:Formula="=DEFINE(&quot;vlookup&quot;,R[4]C[1],R[1]C[1],R[2]C[1],R[3]C[1])"><Data
+      ss:Type="Error">#NAME?</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">VLOOKUP(x, arr, r)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">x =</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">arr =</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">c =</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">result =</Data></Cell>
+    <Cell
+     ss:Formula="=INDEX(R[-2]C, matchrowaux(R[-3]C, R[-2]C, 1, ROWS(R[-2]C)), R[-1]C)"><Data
+      ss:Type="Error">#NAME?</Data></Cell>
+   </Row>
+   <Row ss:Index="38" ss:AutoFitHeight="0">
+    <Cell
+     ss:Formula="=DEFINE(&quot;interpolaterow&quot;,R[8]C[1],R[1]C[1],R[2]C[1],R[3]C[1])"><Data
+      ss:Type="Error">#NAME?</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">INTERPOLATEROW(ts,xs,t)</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Linear interpolation in two row vectors</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ts =</Data></Cell>
+    <Cell ss:Formula="=hcat(1,10,100)"><Data ss:Type="Error">#NAME?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">xs =</Data></Cell>
+    <Cell ss:Formula="=hcat(3,30,300)"><Data ss:Type="Error">#NAME?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">t =</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">max i st ts(i)&lt;=t</Data></Cell>
+    <Cell ss:Formula="=MATCH(R[-1]C,R[-3]C)"><Data ss:Type="Error">#N/A</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ts(i+1) =</Data></Cell>
+    <Cell ss:Formula="=INDEX(R[-4]C,1,R[-1]C+1)"><Data ss:Type="Error">#N/A</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ts(i) =</Data></Cell>
+    <Cell ss:Formula="=INDEX(R[-5]C,1,R[-2]C)"><Data ss:Type="Error">#N/A</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">interpolate</Data></Cell>
+    <Cell
+     ss:Formula="=(INDEX(R[-5]C,1,R[-3]C)*(R[-2]C-R[-4]C)+INDEX(R[-5]C,1,R[-3]C+1)*(R[-4]C-R[-1]C))/(R[-2]C-R[-1]C)"><Data
+      ss:Type="Error">#N/A</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"
+     ss:Formula="=IF(R[-5]C&lt;=INDEX(R[-7]C,1,1), INDEX(R[-6]C,1,1), IF(R[-4]C=COLUMNS(R[-7]C),INDEX(R[-6]C,1,R[-4]C),R[-1]C))"><Data
+      ss:Type="Error">#NAME?</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>14</ActiveRow>
+     <ActiveCol>4</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+   <x:PageLayoutZoom>0</x:PageLayoutZoom>
+  </WorksheetOptions>
+ </Worksheet>
 </Workbook>
