@@ -29,7 +29,7 @@ Daniel Kaufmann, Aart Kraay and Pablo Zoido-Lobaton, May 2000</Data>
       </Row>
       <Row>
         <Cell ss:Index="4">
-          <Data ss:Type="String">'</Data>
+          <Data ss:Type="String">'Denmark</Data>
         </Cell>
       </Row>
       <Row ss:Index="11">
@@ -37,7 +37,7 @@ Daniel Kaufmann, Aart Kraay and Pablo Zoido-Lobaton, May 2000</Data>
           <Data ss:Type="String">'The country you chose is:</Data>
         </Cell>
         <Cell ss:Index="6" ss:Formula="=IF(EQUAL(R[-2]C[-2], &quot;&quot;), &quot;&quot;, IF(EQUAL(VLOOKUP(R[-2]C[-2], OneCountryData!R[-6]C[+7]:R[+176]C[+8], 2), 1), VLOOKUP(VLOOKUP(R[-2]C[-2], OneCountryData!R[-6]C[+7]:R[+176]C[+9], 3), OneCountryData!R[-6]C[+6]:R[+176]C[+7], 2), &quot;&quot;))">
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String">Denmark</Data>
         </Cell>
       </Row>
       <Row ss:Index="15">
