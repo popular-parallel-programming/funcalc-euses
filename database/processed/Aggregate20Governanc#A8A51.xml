@@ -15376,7 +15376,7 @@ Daniel Kaufmann, Aart Kraay and Pablo Zoido-Lobaton, May 2000</Data>
           <Data ss:Type="String">'Country code</Data>
         </Cell>
         <Cell ss:Formula="=IF(EQUAL(OneCountryCharts!R[+13]C[+4], &quot;&quot;), VLOOKUP(OneCountryCharts!R[+7]C[+4], OneCountryData!R[+1]C[+11]:R[+183]C[+13], 3), VLOOKUP(OneCountryCharts!R[+13]C[+4], OneCountryData!R[+1]C[+11]:R[+183]C[+13], 3))">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="String">DNK</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">'Estimate</Data>
@@ -15462,16 +15462,16 @@ Daniel Kaufmann, Aart Kraay and Pablo Zoido-Lobaton, May 2000</Data>
           <Data ss:Type="String">'Country</Data>
         </Cell>
         <Cell ss:Formula="=VLOOKUP(R[-1]C, R5C12:R187C13, 2)">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="String">Denmark</Data>
         </Cell>
         <Cell ss:Formula="=R5C2">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="String">Denmark</Data>
         </Cell>
         <Cell ss:Formula="=RC[-1]">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="String">Denmark</Data>
         </Cell>
         <Cell ss:Formula="=RC[-1]">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="String">Denmark</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">'Estimate</Data>
@@ -15581,28 +15581,28 @@ Daniel Kaufmann, Aart Kraay and Pablo Zoido-Lobaton, May 2000</Data>
           <Data ss:Type="String">'Voice and Accountability</Data>
         </Cell>
         <Cell ss:Formula="=IF(EQUAL(RC[+3], &quot;..&quot;), &quot;&quot;, RC[+3])">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">98.8372093023256</Data>
         </Cell>
         <Cell ss:Formula="=IF(EQUAL(RC[+3], &quot;..&quot;), &quot;&quot;, RC[+3])">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">1.1627906976744</Data>
         </Cell>
         <Cell ss:Formula="=IF(EQUAL(RC[+3], &quot;..&quot;), &quot;&quot;, RC[+3])">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">15.6002150826724</Data>
         </Cell>
         <Cell ss:Formula="=VLOOKUP(R4C2, R5C15:R187C33, OneCountryData!RC1)">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">98.8372093023256</Data>
         </Cell>
         <Cell ss:Formula="=IF(EQUAL(RC[-1], &quot;..&quot;), &quot;..&quot;, VLOOKUP(R4C2, R5C15:R187C33, OneCountryData!RC1+6)-RC[-1])">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">1.1627906976744</Data>
         </Cell>
         <Cell ss:Formula="=IF(EQUAL(RC[-2], &quot;..&quot;), &quot;..&quot;, RC[-2]-VLOOKUP(R4C2, R5C15:R187C33, OneCountryData!RC1+12))">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">15.6002150826724</Data>
         </Cell>
         <Cell ss:Formula="=MAX(RC[-6]-RC[-4], 0)">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">83.2369942196532</Data>
         </Cell>
         <Cell ss:Formula="=MIN(RC[-7]+RC[-6], 100)">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">100</Data>
         </Cell>
         <Cell ss:Index="12">
           <Data ss:Type="String">'AGO</Data>
@@ -15697,28 +15697,28 @@ Daniel Kaufmann, Aart Kraay and Pablo Zoido-Lobaton, May 2000</Data>
           <Data ss:Type="String">'Political Stability</Data>
         </Cell>
         <Cell ss:Formula="=IF(EQUAL(RC[+3], &quot;..&quot;), &quot;&quot;, RC[+3])">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">90.2597402597403</Data>
         </Cell>
         <Cell ss:Formula="=IF(EQUAL(RC[+3], &quot;..&quot;), &quot;&quot;, RC[+3])">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">9.7402597402597</Data>
         </Cell>
         <Cell ss:Formula="=IF(EQUAL(RC[+3], &quot;..&quot;), &quot;&quot;, RC[+3])">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">12.8403854210306</Data>
         </Cell>
         <Cell ss:Formula="=VLOOKUP(R4C2, R5C15:R187C33, OneCountryData!RC1)">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">90.2597402597403</Data>
         </Cell>
         <Cell ss:Formula="=IF(EQUAL(RC[-1], &quot;..&quot;), &quot;..&quot;, VLOOKUP(R4C2, R5C15:R187C33, OneCountryData!RC1+6)-RC[-1])">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">9.7402597402597</Data>
         </Cell>
         <Cell ss:Formula="=IF(EQUAL(RC[-2], &quot;..&quot;), &quot;..&quot;, RC[-2]-VLOOKUP(R4C2, R5C15:R187C33, OneCountryData!RC1+12))">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">12.8403854210306</Data>
         </Cell>
         <Cell ss:Formula="=MAX(RC[-6]-RC[-4], 0)">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">77.4193548387097</Data>
         </Cell>
         <Cell ss:Formula="=MIN(RC[-7]+RC[-6], 100)">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">100</Data>
         </Cell>
         <Cell ss:Index="12">
           <Data ss:Type="String">'ALB</Data>
@@ -15813,28 +15813,28 @@ Daniel Kaufmann, Aart Kraay and Pablo Zoido-Lobaton, May 2000</Data>
           <Data ss:Type="String">'Government Effectiveness</Data>
         </Cell>
         <Cell ss:Formula="=IF(EQUAL(RC[+3], &quot;..&quot;), &quot;&quot;, RC[+3])">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">97.4193548387097</Data>
         </Cell>
         <Cell ss:Formula="=IF(EQUAL(RC[+3], &quot;..&quot;), &quot;&quot;, RC[+3])">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">2.58064516129031</Data>
         </Cell>
         <Cell ss:Formula="=IF(EQUAL(RC[+3], &quot;..&quot;), &quot;&quot;, RC[+3])">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">10.8808933002482</Data>
         </Cell>
         <Cell ss:Formula="=VLOOKUP(R4C2, R5C15:R187C33, OneCountryData!RC1)">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">97.4193548387097</Data>
         </Cell>
         <Cell ss:Formula="=IF(EQUAL(RC[-1], &quot;..&quot;), &quot;..&quot;, VLOOKUP(R4C2, R5C15:R187C33, OneCountryData!RC1+6)-RC[-1])">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">2.58064516129031</Data>
         </Cell>
         <Cell ss:Formula="=IF(EQUAL(RC[-2], &quot;..&quot;), &quot;..&quot;, RC[-2]-VLOOKUP(R4C2, R5C15:R187C33, OneCountryData!RC1+12))">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">10.8808933002482</Data>
         </Cell>
         <Cell ss:Formula="=MAX(RC[-6]-RC[-4], 0)">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">86.5384615384615</Data>
         </Cell>
         <Cell ss:Formula="=MIN(RC[-7]+RC[-6], 100)">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">100</Data>
         </Cell>
         <Cell ss:Index="12">
           <Data ss:Type="String">'ARE</Data>
@@ -15929,28 +15929,28 @@ Daniel Kaufmann, Aart Kraay and Pablo Zoido-Lobaton, May 2000</Data>
           <Data ss:Type="String">'Lack of Regulatory Burden</Data>
         </Cell>
         <Cell ss:Formula="=IF(EQUAL(RC[+3], &quot;..&quot;), &quot;&quot;, RC[+3])">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">94.5454545454545</Data>
         </Cell>
         <Cell ss:Formula="=IF(EQUAL(RC[+3], &quot;..&quot;), &quot;&quot;, RC[+3])">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">5.4545454545455</Data>
         </Cell>
         <Cell ss:Formula="=IF(EQUAL(RC[+3], &quot;..&quot;), &quot;&quot;, RC[+3])">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">20.4490690032858</Data>
         </Cell>
         <Cell ss:Formula="=VLOOKUP(R4C2, R5C15:R187C33, OneCountryData!RC1)">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">94.5454545454545</Data>
         </Cell>
         <Cell ss:Formula="=IF(EQUAL(RC[-1], &quot;..&quot;), &quot;..&quot;, VLOOKUP(R4C2, R5C15:R187C33, OneCountryData!RC1+6)-RC[-1])">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">5.4545454545455</Data>
         </Cell>
         <Cell ss:Formula="=IF(EQUAL(RC[-2], &quot;..&quot;), &quot;..&quot;, RC[-2]-VLOOKUP(R4C2, R5C15:R187C33, OneCountryData!RC1+12))">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">20.4490690032858</Data>
         </Cell>
         <Cell ss:Formula="=MAX(RC[-6]-RC[-4], 0)">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">74.0963855421687</Data>
         </Cell>
         <Cell ss:Formula="=MIN(RC[-7]+RC[-6], 100)">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">100</Data>
         </Cell>
         <Cell ss:Index="12">
           <Data ss:Type="String">'ARG</Data>
@@ -16045,28 +16045,28 @@ Daniel Kaufmann, Aart Kraay and Pablo Zoido-Lobaton, May 2000</Data>
           <Data ss:Type="String">'Rule of Law</Data>
         </Cell>
         <Cell ss:Formula="=IF(EQUAL(RC[+3], &quot;..&quot;), &quot;&quot;, RC[+3])">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">96.3636363636364</Data>
         </Cell>
         <Cell ss:Formula="=IF(EQUAL(RC[+3], &quot;..&quot;), &quot;&quot;, RC[+3])">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">3.6363636363636</Data>
         </Cell>
         <Cell ss:Formula="=IF(EQUAL(RC[+3], &quot;..&quot;), &quot;&quot;, RC[+3])">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">8.4118291347207</Data>
         </Cell>
         <Cell ss:Formula="=VLOOKUP(R4C2, R5C15:R187C33, OneCountryData!RC1)">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">96.3636363636364</Data>
         </Cell>
         <Cell ss:Formula="=IF(EQUAL(RC[-1], &quot;..&quot;), &quot;..&quot;, VLOOKUP(R4C2, R5C15:R187C33, OneCountryData!RC1+6)-RC[-1])">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">3.6363636363636</Data>
         </Cell>
         <Cell ss:Formula="=IF(EQUAL(RC[-2], &quot;..&quot;), &quot;..&quot;, RC[-2]-VLOOKUP(R4C2, R5C15:R187C33, OneCountryData!RC1+12))">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">8.4118291347207</Data>
         </Cell>
         <Cell ss:Formula="=MAX(RC[-6]-RC[-4], 0)">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">87.9518072289157</Data>
         </Cell>
         <Cell ss:Formula="=MIN(RC[-7]+RC[-6], 100)">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">100</Data>
         </Cell>
         <Cell ss:Index="12">
           <Data ss:Type="String">'ARM</Data>
@@ -16161,28 +16161,28 @@ Daniel Kaufmann, Aart Kraay and Pablo Zoido-Lobaton, May 2000</Data>
           <Data ss:Type="String">'Control of Corruption</Data>
         </Cell>
         <Cell ss:Formula="=IF(EQUAL(RC[+3], &quot;..&quot;), &quot;&quot;, RC[+3])">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">100</Data>
         </Cell>
         <Cell ss:Formula="=IF(EQUAL(RC[+3], &quot;..&quot;), &quot;&quot;, RC[+3])">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">0</Data>
         </Cell>
         <Cell ss:Formula="=IF(EQUAL(RC[+3], &quot;..&quot;), &quot;&quot;, RC[+3])">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">6.45161290322579</Data>
         </Cell>
         <Cell ss:Formula="=VLOOKUP(R4C2, R5C15:R187C33, OneCountryData!RC1)">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">100</Data>
         </Cell>
         <Cell ss:Formula="=IF(EQUAL(RC[-1], &quot;..&quot;), &quot;..&quot;, VLOOKUP(R4C2, R5C15:R187C33, OneCountryData!RC1+6)-RC[-1])">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">0</Data>
         </Cell>
         <Cell ss:Formula="=IF(EQUAL(RC[-2], &quot;..&quot;), &quot;..&quot;, RC[-2]-VLOOKUP(R4C2, R5C15:R187C33, OneCountryData!RC1+12))">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">6.45161290322579</Data>
         </Cell>
         <Cell ss:Formula="=MAX(RC[-6]-RC[-4], 0)">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">93.5483870967742</Data>
         </Cell>
         <Cell ss:Formula="=MIN(RC[-7]+RC[-6], 100)">
-          <Data ss:Type="Error">#NA</Data>
+          <Data ss:Type="Number">100</Data>
         </Cell>
         <Cell ss:Index="12">
           <Data ss:Type="String">'AUS</Data>
@@ -32015,58 +32015,58 @@ Daniel Kaufmann, Aart Kraay and Pablo Zoido-Lobaton, May 2000</Data>
           <Data ss:Type="String">'EE/FSU</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C36:R182C36, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C36:R182C36)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">49.3970714900948</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C36:R182C36, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C36:R182C36)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">48.1721981721982</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C36:R182C36, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C36:R182C36)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">35.4360812425329</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C36:R182C36, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C36:R182C36)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">35.9371492704826</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C36:R182C36, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C36:R182C36)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">42.020202020202</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C36:R182C36, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C36:R182C36)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">35.6661856661857</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C36:R182C36, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C36:R182C36)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">65.746092913723</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C36:R182C36, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C36:R182C36)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">64.2293906810036</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C36:R182C36, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C36:R182C36)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">55.1044634377968</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C36:R182C36, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C36:R182C36)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">54.6407853636769</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C36:R182C36, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C36:R182C36)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">54.9531459170013</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C36:R182C36, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C36:R182C36)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">53.2855436081243</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C36:R182C36, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C36:R182C36)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">34.4679940055663</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C36:R182C36, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C36:R182C36)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">33.3094384707288</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C36:R182C36, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C36:R182C36)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">21.5811965811966</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C36:R182C36, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C36:R182C36)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">22.2445336903168</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C36:R182C36, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C36:R182C36)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">29.6296296296296</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C36:R182C36, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C36:R182C36)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">21.6248506571087</Data>
         </Cell>
       </Row>
       <Row>
@@ -32089,58 +32089,58 @@ Daniel Kaufmann, Aart Kraay and Pablo Zoido-Lobaton, May 2000</Data>
           <Data ss:Type="String">'ASI</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C37:R182C37, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C37:R182C37)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">36.5873445105462</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C37:R182C37, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C37:R182C37)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">43.4158864391422</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C37:R182C37, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C37:R182C37)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">41.3503375843961</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C37:R182C37, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C37:R182C37)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">38.999295278365</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C37:R182C37, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C37:R182C37)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">48.231148696265</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C37:R182C37, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C37:R182C37)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">40.048323769254</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C37:R182C37, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C37:R182C37)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">52.775910740691</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C37:R182C37, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C37:R182C37)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">57.5843960990248</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C37:R182C37, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C37:R182C37)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">57.2003577817531</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C37:R182C37, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C37:R182C37)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">66.3911459792659</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C37:R182C37, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C37:R182C37)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">63.813393107313</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C37:R182C37, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C37:R182C37)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">53.9384846211553</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C37:R182C37, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C37:R182C37)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">22.247613926603</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C37:R182C37, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C37:R182C37)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">28.2220555138785</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C37:R182C37, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C37:R182C37)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">24.0757304710793</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C37:R182C37, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C37:R182C37)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">19.8514990193332</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C37:R182C37, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C37:R182C37)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">32.3339871112356</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C37:R182C37, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C37:R182C37)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">24.126031507877</Data>
         </Cell>
       </Row>
       <Row>
@@ -32163,58 +32163,58 @@ Daniel Kaufmann, Aart Kraay and Pablo Zoido-Lobaton, May 2000</Data>
           <Data ss:Type="String">'AFR</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C38:R182C38, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C38:R182C38)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">30.9656218402427</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C38:R182C38, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C38:R182C38)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">23.2919254658385</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C38:R182C38, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C38:R182C38)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">28.6255259467041</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C38:R182C38, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C38:R182C38)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">30.1844532279315</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C38:R182C38, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C38:R182C38)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">29.433465085639</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C38:R182C38, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C38:R182C38)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">28.910220214568</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C38:R182C38, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C38:R182C38)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">49.4093993465695</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C38:R182C38, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C38:R182C38)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">39.7335203366059</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C38:R182C38, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C38:R182C38)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">51.0312151616499</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C38:R182C38, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C38:R182C38)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">59.1016238868518</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C38:R182C38, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C38:R182C38)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">52.187008905186</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C38:R182C38, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C38:R182C38)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">51.8092566619916</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C38:R182C38, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C38:R182C38)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">16.2352349836642</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C38:R182C38, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C38:R182C38)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">12.3001402524544</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C38:R182C38, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C38:R182C38)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">11.1343366778149</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C38:R182C38, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C38:R182C38)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">13.200628601362</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C38:R182C38, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C38:R182C38)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">13.8292299633316</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C38:R182C38, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C38:R182C38)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">11.0518934081346</Data>
         </Cell>
       </Row>
       <Row>
@@ -32237,58 +32237,58 @@ Daniel Kaufmann, Aart Kraay and Pablo Zoido-Lobaton, May 2000</Data>
           <Data ss:Type="String">'LAC</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C39:R182C39, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C39:R182C39)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">56.1591569767442</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C39:R182C39, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C39:R182C39)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">36.4042207792208</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C39:R182C39, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C39:R182C39)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">37.3185483870968</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C39:R182C39, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C39:R182C39)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">55.4356060606061</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C39:R182C39, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C39:R182C39)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">37.9356060606061</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C39:R182C39, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C39:R182C39)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">37.1956168831169</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C39:R182C39, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C39:R182C39)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">69.364161849711</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C39:R182C39, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C39:R182C39)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">53.366935483871</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C39:R182C39, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C39:R182C39)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">57.4719551282051</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C39:R182C39, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C39:R182C39)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">78.1626506024096</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C39:R182C39, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C39:R182C39)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">54.894578313253</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C39:R182C39, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C39:R182C39)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">53.7298387096774</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C39:R182C39, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C39:R182C39)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">41.1307803468208</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C39:R182C39, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C39:R182C39)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">20.6854838709677</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C39:R182C39, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C39:R182C39)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">18.3894230769231</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C39:R182C39, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C39:R182C39)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">26.6001506024096</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C39:R182C39, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C39:R182C39)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">20.2936746987952</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C39:R182C39, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C39:R182C39)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">19.3145161290323</Data>
         </Cell>
       </Row>
       <Row>
@@ -32311,58 +32311,58 @@ Daniel Kaufmann, Aart Kraay and Pablo Zoido-Lobaton, May 2000</Data>
           <Data ss:Type="String">'OECD</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C40:R182C40, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C40:R182C40)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">83.9922480620155</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C40:R182C40, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C40:R182C40)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">78.0735930735931</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C40:R182C40, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C40:R182C40)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">85.0752688172043</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C40:R182C40, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C40:R182C40)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">82.969696969697</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C40:R182C40, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C40:R182C40)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">83.979797979798</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C40:R182C40, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C40:R182C40)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">84.5021645021645</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C40:R182C40, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C40:R182C40)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">92.6589595375722</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C40:R182C40, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C40:R182C40)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">90.3225806451613</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C40:R182C40, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C40:R182C40)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">94.508547008547</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C40:R182C40, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C40:R182C40)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">97.9116465863454</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C40:R182C40, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C40:R182C40)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">92.8714859437751</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C40:R182C40, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C40:R182C40)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">92.5591397849462</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C40:R182C40, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C40:R182C40)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">69.5953757225434</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C40:R182C40, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C40:R182C40)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">60.8817204301075</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C40:R182C40, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C40:R182C40)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">69.8717948717949</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C40:R182C40, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C40:R182C40)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">57.6305220883534</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C40:R182C40, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C40:R182C40)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">70.7831325301205</Data>
         </Cell>
         <Cell ss:Formula="=SUMIF2(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C40:R182C40, R5C:R182C)/SUMIF(CLOSURE(&quot;EQUAL&quot;, 1, NA()), R5C40:R182C40)">
-          <Data ss:Type="Error">#ERR: ArgCount</Data>
+          <Data ss:Type="Number">72.1505376344086</Data>
         </Cell>
       </Row>
       <Row>
@@ -58238,10 +58238,10 @@ Daniel Kaufmann, Aart Kraay and Pablo Zoido-Lobaton, May 2000</Data>
         </Cell>
       </Row>
       <Row>
-        <Cell ss:Formula="=DEFINE(&quot;SUMIF2&quot;, RC[+1], RC[+2], RC[+3])">
+        <Cell ss:Formula="=DEFINE(&quot;SUMIF2&quot;, RC[+1], RC[+2], RC[+3], RC[+4])">
           <Data ss:Type="String">FUN SUMIF2 AT #2</Data>
         </Cell>
-        <Cell ss:Formula="=SUM(ROWMAP(CLOSURE(&quot;SUMIF2_HELPER&quot;, RC[+1], NA(), NA()), RC[+2]))">
+        <Cell ss:Formula="=SUM(MAP(CLOSURE(&quot;SUMIF2_HELPER&quot;, RC[+1], NA(), NA()), RC[+2], RC[+3]))">
           <Data ss:Type="Error">#EMPTY!</Data>
         </Cell>
       </Row>
@@ -58257,7 +58257,7 @@ Daniel Kaufmann, Aart Kraay and Pablo Zoido-Lobaton, May 2000</Data>
       </Row>
       <Row ss:Index="3">
         <Cell ss:Formula="=DEFINE(&quot;matchrowaux&quot;, R[+6]C[+1], R[+1]C[+1], R[+2]C[+1], R[+3]C[+1], R[+4]C[+1])">
-          <Data ss:Type="String">FUN MATCHROWAUX AT #4</Data>
+          <Data ss:Type="String">FUN MATCHROWAUX AT #3</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">'MATCHROWAUX(x, arr, a, b)</Data>
@@ -58301,7 +58301,7 @@ Daniel Kaufmann, Aart Kraay and Pablo Zoido-Lobaton, May 2000</Data>
       </Row>
       <Row ss:Index="11">
         <Cell ss:Formula="=DEFINE(&quot;vlookup&quot;, R[+4]C[+1], R[+1]C[+1], R[+2]C[+1], R[+3]C[+1])">
-          <Data ss:Type="String">FUN VLOOKUP AT #7</Data>
+          <Data ss:Type="String">FUN VLOOKUP AT #4</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">'VLOOKUP(x, arr, r)</Data>
